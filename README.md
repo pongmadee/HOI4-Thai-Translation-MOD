@@ -18,7 +18,7 @@ Hearts of Iron IV - Thai Translation MOD
 * อัปเดตอย่างน้อยสัปดาห์ละ 1 - 2 ครั้งครับ
 
 ### TRANSLATION - การแปล
-* [คำศัพท์ที่สำคัญเปรียบเทียบกับต้นฉบับภาษาอังกฤษ](https://github.com/pongmadee/HOI4-THAI-TranslationTable)
+* [คำศัพท์ที่สำคัญเปรียบเทียบกับต้นฉบับภาษาอังกฤษ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/TranslationTable.md)
 
 ### TOOLS - เครื่องมือ
  * Hoi4-TH-Localisation-Manager v1.0
