@@ -25,7 +25,7 @@ Hearts of Iron IV - Thai Translation MOD
  * Hoi4-TH-Localisation-Manager v1.0
 
 ### TEAM WORK - ทีมงาน
- - Translator - ผู้ช่วยแปล
+- Translator - ผู้ช่วยแปล
   - Jittawat Dongparee
   - Parintorl Maneewan
   - Phuphu Alisa Owari
