@@ -1018,7 +1018,7 @@
  AI_MESSAGE_CAT3_MES8:0 "WOW! MAYBE if they hadn't COMPLETELY UNBALANCED $OTHER$ IN THE LAST PATCH this would actually have been a fair war!"
  AI_MESSAGE_CAT3_MES9:0 "This is why Hearts of Iron 3 was a better game, in HOI3 $OTHER$ could never have beaten me in such a gamey way :/"
  AI_MESSAGE_CAT3_MES10:0 "Yeah, so the RNG completely lost that war with $OTHER$ for me. Too bad skill doesn't mean anything in this game."
- DIPLOMACY_WAR_NO_WAR_ON_SUBJECTS:0 "They are a puppet, so you need to declare war on $OVERLORD|Y$ instead."
+ DIPLOMACY_WAR_NO_WAR_ON_SUBJECTS:0 "พวกเขาเป็นหุ่นเชิดดังนั้นคุณต้องประกาศสงครามกับ $OVERLORD|Y$ แทน"
  attitude_neutral:0 "เป็นกลาง"
  attitude_hostile:0 "เป็นปรปักษ์"
  attitude_friendly:0 "เป็นมิตร"
