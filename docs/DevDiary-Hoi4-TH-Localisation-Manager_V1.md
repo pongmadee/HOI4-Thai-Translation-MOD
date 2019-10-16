@@ -15,12 +15,14 @@
 
 ## ลักษณะรูปแบบการสั่งงาน
 จะเป็นการสั่งงานผ่าน console app (command line)
-<img src="images/Hoi4-TH-Localisation-Manager-V1-mrgedata.png" width="100%">
+<img src="images/Hoi4-TH-Localisation-Manager-V1-mrgedata.png">
 
 ## หลักการทำงานโปรแกรมเวอร์ชั่น 1.0
-<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1.png" width="100%">
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1.png" width="70%">
 
 
 ## หลักการทำงานโปรแกรมเวอร์ชั่น 1.0.1
 เพิ่มในส่วนที่เกี่ยวกับ GitHub
-<img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="50%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_1.png" width="50%">
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_1.png" width="70%">
+
+<img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%">
