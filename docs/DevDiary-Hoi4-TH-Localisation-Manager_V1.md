@@ -12,6 +12,7 @@
  - Compiler Construction (วิชาเขียนคอมไพเลอร์ สมัยเรียน ป.ตรี จำได้ว่าตอนนั้นผมใช้ C/C++ เขียนคอมไพเลอร์ pointer สนุกสนาน..555 )
  - Java (พื้นฐาน)
  - SQL (พื้นฐาน)
+ - Google Sheets API v4
  <img src="images/dragon-compilerbook.jpg" width="30%">
  
 
