@@ -22,7 +22,8 @@
 
 
 ## หลักการทำงานโปรแกรมเวอร์ชั่น 1.0.1
-เพิ่มในส่วนที่เกี่ยวกับ GitHub
+เพิ่มในส่วนที่เกี่ยวกับ GitHub</br>
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_1.png" width="70%">
 
+ฐานข้อมูลใน Google Sheet และ ฐานข้อมูลออฟไลน์
 <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%">
