@@ -13,10 +13,6 @@
  - Mysql (ฐานข้อมูล)
  - IntelliJ IDEA (Java IDE)
 
-## ลักษณะรูปแบบการสั่งงาน
-จะเป็นการสั่งงานผ่าน console app (command line)
-<img src="images/Hoi4-TH-Localisation-Manager-V1-mrgedata.png">
-
 ## หลักการทำงานโปรแกรมเวอร์ชั่น 1.0
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1.png" width="70%">
 
@@ -26,4 +22,9 @@
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_1.png" width="70%">
 
 ฐานข้อมูลใน Google Sheet และ ฐานข้อมูลออฟไลน์</br>
-<img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%">
+<img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-V1-locdb_s.jpg" width="30%">
+
+## ลักษณะรูปแบบการสั่งงาน
+จะเป็นการสั่งงานผ่าน console app (command line)
+<img src="images/Hoi4-TH-Localisation-Manager-V1-mrgedata.png">
+<img src="images/Hoi4-TH-Localisation-Manager-V1-loclogs.png">
