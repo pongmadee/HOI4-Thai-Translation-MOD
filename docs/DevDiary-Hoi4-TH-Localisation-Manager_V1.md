@@ -9,10 +9,10 @@
 
 ## ความรู้ที่ใช้
  - Compilers: Principles, Techniques, and Tools (Textbook)
- - Compiler Construction (วิชาเขียนคอมไพเลอร์ สมัยเรียน ป.ตรี จำได้ว่าตอนนั้นผมใช้ C/C++ เขียนคอมไพเลอร์ pointer สนุกสนาน :) )
+ - Compiler Construction (วิชาเขียนคอมไพเลอร์ สมัยเรียน ป.ตรี จำได้ว่าตอนนั้นผมใช้ C/C++ เขียนคอมไพเลอร์ pointer สนุกสนาน..555 )
  - Java (พื้นฐาน)
  - SQL (พื้นฐาน)
- <img src="images/dragon-compilerbook.jpg" width="70%">
+ <img src="images/dragon-compilerbook.jpg" width="30%">
  
 
 ## เครื่องมือที่ใช้
