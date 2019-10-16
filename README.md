@@ -21,7 +21,7 @@ Hearts of Iron IV - Thai Translation MOD
 * [คำศัพท์ที่สำคัญเปรียบเทียบกับต้นฉบับภาษาอังกฤษ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/TranslationTable.md)
 
 ### TOOLS - เครื่องมือ
- * Hoi4-TH-Localisation-Manager v1.0
+ * [Hoi4-TH-Localisation-Manager v1.0](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
 
 ### TEAM WORK - ทีมงาน
 - Translator - ผู้ช่วยแปล
