@@ -5,6 +5,7 @@ Hearts of Iron IV - Thai Translation MOD
 
 ### INFORMATIONS - ข้อมูล
 - [x] Support game version 1.7.1
+- [x] Support all DLC
 - [x] Multiplayer (ใช้ได้ยังไม่พบปัญหา)
 - [x] ม็อดทุกเวอร์ชั่นสามารถใช้ได้กับ save เกมเก่าได้ไม่มีปัญหา(ยกเว้นเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.7 -> 1.8)
 
