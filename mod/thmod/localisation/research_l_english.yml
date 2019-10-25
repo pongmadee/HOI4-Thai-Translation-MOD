@@ -736,7 +736,7 @@
  ETA_DAYS_WEEKS:0 "§T$DAYS|H$ วันและ $WEEKS|H$ สัปดาห์โดยไม่มี $COST|H$ วัน ที่เหลืออยู่§!"
  ETA_WEEKS:0 "§T$WEEKS|H$ สัปดาห์โดยไม่มี $COST|H$ วัน ที่เหลืออยู่§!"
  ETA_DAYS:0 "§T$DAYS|H$ วันโดยที่ไม่มี $COST|H$ วัน ที่เหลืออยู่§!"
- RESEARCH_PROGRESS:0 "§T$PROGRESS|%1H$ เสร็จ§!"
+ RESEARCH_PROGRESS:0 "§Tเสร็จไป $PROGRESS|%1H$§!"
  RESEARCH_IS_BEING_RESEARCHED:0 "กำลังมีการวิจัย: "
  RESEARCH_HAS_STARTED_RESEARCH:0 "ได้รับการวิจัยมาก่อน: "
  DAYS_SAVED:0 "§T$DAYS|H$ วันโดยไม่มี $MAX|H$ วัน ที่ประหยัด§!"
