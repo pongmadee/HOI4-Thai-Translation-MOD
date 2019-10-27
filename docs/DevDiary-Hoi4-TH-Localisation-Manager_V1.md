@@ -36,3 +36,9 @@
 จะเป็นการสั่งงานผ่าน console app (command line)
 <img src="images/Hoi4-TH-Localisation-Manager-V1-mrgedata.png">
 <img src="images/Hoi4-TH-Localisation-Manager-V1-loclogs.png">
+
+## เอกสารอ้างอิง
+- https://docs.oracle.com/javase/tutorial/
+- https://www.w3schools.com/java/
+- https://developers.google.com/sheets/api/quickstart/java
+- https://www.tutorialspoint.com/json/json_java_example.htm
