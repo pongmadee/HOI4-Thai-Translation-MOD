@@ -1638,4 +1638,4 @@
  FLEET_OVERCAPACITY_DESCRIPTION:0 "การรับผิดชอบเรือมากเกินไปจะทำให้ความสามารถผู้บัญชาการลดลงไป $VALUE|%.0R$"
  TEMPORARILY_DETACHED:0 "§Hปลดชั่วคราว:§!"
  MODIFIED_BY:0 "§Hเปลี่ยนแปลงโดย:§!"
- MOD_VERSION:0 "Mod v0.87.14, Update 02/11/2019"
+ MOD_VERSION:0 "Mod v0.89.0, Update 03/11/2019"
