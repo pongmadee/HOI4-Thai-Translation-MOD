@@ -22,6 +22,7 @@
  - Java OpenJDK 12 (ภาษาโปรแกรม)
  - Mysql (ฐานข้อมูล)
  - IntelliJ IDEA (Java IDE)
+ - Docker Desktop (Kubernetes - K8s)
 
 ## หลักการทำงานโปรแกรมเวอร์ชั่น 1.0
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1.png" width="70%">
