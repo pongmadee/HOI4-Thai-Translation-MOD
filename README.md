@@ -14,7 +14,7 @@ Hearts of Iron IV - Thai Translation MOD
 
 ![FEATURES](https://i.imgur.com/rt7yPQL.gif)
 
-### PROGRESS - ความคืบหน้า
+### PROGRESS & ROADMAP - ความคืบหน้า
 * [แผนงานและรายละเอียดความคืบหน้าทั้งหมด](https://trello.com/b/JUbreJWk/hoi4-thai-translation-mod)
 * อัปเดตอย่างน้อยสัปดาห์ละ 1 - 2 ครั้งครับ
 
