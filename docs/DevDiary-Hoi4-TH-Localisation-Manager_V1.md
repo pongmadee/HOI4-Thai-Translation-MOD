@@ -45,7 +45,7 @@
 
 - 4.ฝึกเป็นทักษะติดตัวไว้เพราะโลกต่อไปนี้ ระบบต่างๆจะรันบนคลาวด์
 
-- 5.สนุกและท้าทาย (เป็นความบ้าส่วนตัวของผมเองครับ)
+- 5.สนุกและท้าทายเหมือนเล่นเกมเลย เมื่อแก้บักผ่านก็เหมือนเราได้ Achievement (เป็นความบ้าส่วนตัวของผมเองครับ)
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_2.png" width="70%">
 
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_2-K8SN0.png" width="70%">
