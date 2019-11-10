@@ -36,7 +36,6 @@
 เพิ่มในส่วนที่เกี่ยวกับ Kubernetes (K8s)</br>
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_2.png" width="70%">
 
-## ผังในส่วน Kubernetes Node0 1.0.2
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_2-K8SN0.png" width="70%">
 
 ฐานข้อมูลใน Google Sheet และ ฐานข้อมูลออฟไลน์</br>
