@@ -24,13 +24,20 @@
  - IntelliJ IDEA (Java IDE)
  - Docker Desktop (Kubernetes - K8s)
 
-## หลักการทำงานโปรแกรมเวอร์ชั่น 1.0
+## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1.png" width="70%">
 
 
-## หลักการทำงานโปรแกรมเวอร์ชั่น 1.0.1
+## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0.1
 เพิ่มในส่วนที่เกี่ยวกับ GitHub</br>
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_1.png" width="70%">
+
+## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0.2
+เพิ่มในส่วนที่เกี่ยวกับ Kubernetes (K8s)</br>
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_2.png" width="70%">
+
+## ผังในส่วน Kubernetes Node0 1.0.2
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_2-K8SN0.png" width="70%">
 
 ฐานข้อมูลใน Google Sheet และ ฐานข้อมูลออฟไลน์</br>
 <img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-V1-locdb_s.jpg" width="30%">
