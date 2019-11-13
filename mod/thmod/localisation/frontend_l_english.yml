@@ -199,3 +199,6 @@
  ROM_lost_starting_state:0 "โรมาเนียเสียหนึ่งในรัฐเริ่มต้น"
  YUG_delcared_war_on_axis_allies:0 "ประกาศสงครามกับฝ่ายอักษะหรือพันธมิตรในฝ่ายอักษะหรือสัมพันธมิตร"
  achievement_carol_II_is_leader:0 "§Yคาโรลที่2§! เป็นผู้นำประเทศในปัจจุบัน"
+ CHAT_ERROR_MUTE_MISSINGARGS:0 "Invalid syntax, expected: /mute <username>"
+ CHAT_ERROR_UNMUTE_MISSINGARGS:0 "Invalid syntax, expected: /unmute <username>"
+ CHAT_ERROR_MUTEUNMUTE_SELF:0 "You cannot mute or unmute yourself!"
