@@ -51,11 +51,12 @@
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_2-K8SN0.png" width="70%">
 
 ฐานข้อมูลใน Google Sheet และ ฐานข้อมูลออฟไลน์</br>
-<img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/k8s_app1.jpg" width="30%"> <img src="images/k8s_app2.jpg" width="30%"> <img src="images/k8s_app3.jpg" width="30%"> <img src="images/k8s_app4.jpg" width="30%"> <img src="images/k8s_app5.jpg" width="30%"> <img src="images/k8s_app6.jpg" width="30%">
+<img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/k8s_app1.jpg" width="30%"> <img src="images/k8s_app2.jpg" width="30%"> <img src="images/k8s_app3.jpg" width="30%"> <img src="images/k8s_app4.jpg" width="30%"> <img src="images/k8s_app6.jpg" width="30%">
 
 ## ลักษณะรูปแบบการสั่งงาน
 จะเป็นการสั่งงานผ่าน console app (command line)
-<img src="images/images/k8s_app2.jpg">
+<img src="images/k8s_app2.jpg">
+<img src="images/k8s_app5.jpg">
 <img src="images/Hoi4-TH-Localisation-Manager-V1-loclogs.png">
 
 ## เอกสารอ้างอิง
