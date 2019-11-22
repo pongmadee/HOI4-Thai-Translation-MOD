@@ -50,7 +50,7 @@
 
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_2-K8SN0.png" width="70%">
 
-ฐานข้อมูลใน Google Sheet และ ฐานข้อมูลออฟไลน์</br>
+ฐานข้อมูลใน Google Sheet และ ฐานข้อมูลออฟไลน์/คลาวด์บน K8s Cluster</br>
 <img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/k8s_app1.jpg" width="30%"> <img src="images/k8s_app3.jpg" width="30%"> <img src="images/k8s_app6.jpg" width="30%">
 
 ## ลักษณะรูปแบบการสั่งงาน
