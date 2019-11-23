@@ -55,6 +55,7 @@
 
 ## ลักษณะรูปแบบการสั่งงาน
 จะเป็นการสั่งงานผ่าน console app (command line)
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1-menu_structure_flow.png">
 <img src="images/k8s_app2.jpg">
 <img src="images/k8s_app4.jpg">
 <img src="images/k8s_app5.jpg">
