@@ -862,7 +862,7 @@
  prestigious_projects:0 "National Prestige"
  barbarossa_mission_tt:0 "Applies the §YUnternehmen Barbarossa§! National Spirit until the mission's conclusion.\n"
  war_propaganda_campaign_running:0 "กำลังรณรงค์โฆษณาชวนเชื่อสงครามอยู่แล้ว"
- JAP_test_the_soviets:0 "Test the [SOV.GetAdjective]s"
+ JAP_test_the_soviets:0 "ทดสอบ[SOV.GetAdjective]"
  JAP_test_the_soviets_desc:0 "We share a long border with [SOV.GetNameDef] in Korea and Manchuria. A large number of potential flashpoints exist where our forces might clash at any moment. For us, this creates an opportunity to test the Soviet response to a minor provocation."
  JAP_border_conflict_warning_SOV:0 "Border Provocation at Japanese Border"
  JAP_border_conflict_warning_SOV_desc:0 "There has been a clash between our border guards and Japanese soldiers at our shared border in Korea. Intelligence sources in Japan report that this may just be the first step in a larger confrontation. We should reinforce the border with Japan immediately."

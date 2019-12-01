@@ -6,6 +6,7 @@ Hearts of Iron IV - Thai Translation MOD
 ### INFORMATIONS - ข้อมูล
 - [x] Support game version 1.8.1 "Fork"
 - [x] Support all DLC
+- [x] Ironman MODE
 - [x] Multiplayer (ใช้ได้ยังไม่พบปัญหา)
 - [x] ม็อดทุกเวอร์ชั่นสามารถใช้ได้กับ save เกมเก่าได้ไม่มีปัญหา(ยกเว้นเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.8 -> 1.9)
 
@@ -43,5 +44,8 @@ Hearts of Iron IV - Thai Translation MOD
 
 - Programmer - โปรแกรมเมอร์
   - [Pongmadee](https://github.com/pongmadee)
+
+- Computer graphics - คอมพิวเตอร์กราฟิก
+  - Pongmadee
 
 ขอขอบคุณกลุ่มใน Facebook [Thai Paradox RTS](https://web.facebook.com/groups/582871258426509)
