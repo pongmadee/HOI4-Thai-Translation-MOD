@@ -16,7 +16,7 @@
  - Java (พื้นฐาน)
  - SQL (พื้นฐาน)
  - Google Sheets API v4
- - Docker -> Kubernetes (K8s)
+ - Docker -> Kubernetes (K8s) [Ver.1.0.1+]
  - Excel -> Google sheet (พื้นฐาน Functions และ formulas)
  <img src="images/dragon-compilerbook.jpg" width="30%">
  
