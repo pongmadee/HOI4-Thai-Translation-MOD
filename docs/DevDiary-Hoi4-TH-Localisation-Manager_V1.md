@@ -16,7 +16,7 @@
  - Java (พื้นฐาน)
  - SQL (พื้นฐาน)
  - Google Sheets API v4
- - Docker -> Kubernetes (K8s)
+ - Docker -> Kubernetes (K8s) [v1.0.1+]
  - Excel -> Google sheet (พื้นฐาน Functions และ formulas)
  <img src="images/dragon-compilerbook.jpg" width="30%">
  
@@ -25,7 +25,7 @@
  - Java OpenJDK 12 (ภาษาโปรแกรม)
  - Mysql (ฐานข้อมูล)
  - IntelliJ IDEA (Java IDE)
- - Docker Desktop (Kubernetes - K8s)
+ - Docker Desktop (Kubernetes - K8s) [v1.0.2]
 
 ## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1.png" width="70%">
