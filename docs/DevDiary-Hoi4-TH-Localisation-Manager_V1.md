@@ -33,7 +33,7 @@
 
 ## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0.1
 เพิ่มในส่วนที่เกี่ยวกับ GitHub และย้ายฐานข้อมูลและโปรแกรมไปไว้ที่ Docker</br>
-<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_1.png" width="70%">
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_1u1.png" width="70%">
 
 ## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0.2
 เพิ่มในส่วนที่เกี่ยวกับ Kubernetes (K8s) และย้ายฐานข้อมูลและโปรแกรมไปไว้ที่ Kubernetes แทนแบบเดิมที่รันบน Docker </br>
