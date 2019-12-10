@@ -1647,4 +1647,4 @@
  MSGRDK_NO_MULTIPLAYER_TEXT:0 "You must be signed in to a user profile with multiplayer privileges to play online"
  MSGRDK_COMMUNICATIONS_UNAVAILABLE_PRIVILEGE_CHAT:0 "*** Message was blocked due to lack of the Communication privilege on your user profile ***"
  MSGRDK_UGC_MULTIPLAYER_UNAVAILABLE:0 "Blocked due to lack of User Generated Content privilege for your Microsoft account"
- MOD_VERSION:0 "Mod v0.89.5, Update 07/12/2019"
+ MOD_VERSION:0 "Mod v0.89.6, Update 11/12/2019"
