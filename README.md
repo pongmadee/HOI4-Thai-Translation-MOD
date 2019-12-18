@@ -5,11 +5,11 @@ Hearts of Iron IV - Thai Translation MOD
 #### [Download (GitHub)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases)
 
 ### INFORMATIONS - ข้อมูล
-- [x] Supported game version 1.8.1 "Fork"
-- [x] Supported all DLC
-- [x] Ironman MODE
-- [x] Multiplayer (ใช้ได้ยังไม่พบปัญหา)
-- [x] ม็อดทุกเวอร์ชั่นสามารถใช้ได้กับ save เกมเก่าได้ไม่มีปัญหา(ยกเว้นเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.8 -> 1.9)
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 1.8.1 "Fork" <br/>
+ :heavy_check_mark: รองรับ DLC <br/>
+ :heavy_check_mark: รองรับโหมด Ironman <br/>
+ :heavy_check_mark: รองรับ Multiplayer (ใช้ได้ยังไม่พบปัญหา) <br/>
+ :heavy_check_mark: ม็อดทุกเวอร์ชั่นสามารถใช้ได้กับ save เกมเก่าได้ไม่มีปัญหา(ยกเว้นเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.8 -> 1.9) <br/>
 
 ### FEATURES - คุณลักษณะเด่น
 สามารถพิมพ์ไทยได้ ส่วนที่สามารถแก้ไขและบันทึกเป็นภาษาไทย ได้แก่ ชื่อกองพล, ชื่อกองทัพ, ชื่อหมู่กองทัพ, ยุทธบริเวณ, ชื่อเรือรบ, ภารกิจกองเรือ, แม่แบบกองพล ,ชื่อรุ่นโมเดลอาวุธ และ อื่นๆ
