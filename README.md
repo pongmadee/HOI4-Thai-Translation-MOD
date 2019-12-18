@@ -50,3 +50,6 @@ Hearts of Iron IV - Thai Translation MOD
   - Pongmadee
 
 ขอขอบคุณกลุ่มใน Facebook [Thai Paradox RTS](https://web.facebook.com/groups/582871258426509)
+
+### License
+Copyright © 2019, Pongmadee. Released under the [GPL-3.0 License](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/LICENSE).
