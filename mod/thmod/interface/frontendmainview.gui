@@ -343,6 +343,45 @@ guiTypes = {
 				pdx_tooltip = "SOCIAL_NEW_FRIEND"
 			}
 		}
+
+		containerWindowType = {
+			name ="dev_panel_message"
+			position = { x=0 y =-93}
+			size = { width = 500 height = 100}
+			Orientation = CENTER
+			Origo = center		
+					
+			background = {
+				name = "Background"		
+				quadTextureSprite ="GFX_tiled_window"
+			}
+				
+			instantTextBoxType = {
+
+				name ="dev_msg_label"
+				position = { x = 0 y = 15 }
+				textureFile = ""
+				font = "mod_20b"
+				borderSize = {x = 20 y = 0}
+				text = "MOD_DEV_MSG"	
+				format = left
+				maxWidth = 500
+				maxHeight = 10	
+			}
+
+			instantTextBoxType = {
+
+				name ="mod_supporters_label"
+				position = { x = 0 y = 35 }
+				textureFile = ""
+				font = "mod_20b"
+				borderSize = {x = 20 y = 20}
+				text = "MOD_SUPPORTERS"	
+				format = left
+				maxWidth = 500
+				maxHeight = 100	
+			}
+		}
 		
 		ButtonType = {
 			name = "homepage_button"
