@@ -28,7 +28,7 @@ Hearts of Iron IV - Thai Translation MOD
 
 ### TOOLS - เครื่องมือ
  * [Hoi4-TH-Localisation-Manager v1.0](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
- <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_2.png" width="70%">
+ <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_3.png" width="70%">
 
 ### TEAM WORK - ทีมงาน
 - Translator - ผู้ช่วยแปล
