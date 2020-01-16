@@ -57,9 +57,9 @@
 <img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/k8s_app1.jpg" width="30%"> <img src="images/k8s_app3.jpg" width="30%"> <img src="images/k8s_app6.jpg" width="30%">
 
 ## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0.3 (JSON feature)
-- 1.เพิ่มในส่วนที่เกี่ยวกับการตั้งค่า Configuration คือจะแยกในส่วนนี้ออกมาเป็นไฟล์ text (*.Json)ภายนอกแล้วโหลดตอนเปิดโปรกรม เนื่องจากโดยปกติเวลาม็อดขึ้นเวอร์ชั่นใหม่จะต้องแก้ code ใหม่และทำการ compile โปรแกรมใหม่ทุกครั้ง </br>
+- 1.เพิ่มในส่วนที่เกี่ยวกับการตั้งค่า Configuration คือจะแยกในส่วนนี้ออกมาเป็นไฟล์ text (*.Json)ภายนอกแล้วโหลดตอนเปิดโปรแกรม เนื่องจากโดยปกติเวลาม็อดขึ้นเวอร์ชั่นใหม่จะต้องแก้ code ใหม่และทำการ compile โปรแกรมใหม่ทุกครั้ง </br>
 - 2.สามารถเพิ่มข้อมูลใหม่ผ่านไฟล์ json ได้</br>
-ตัวอย่างไฟล์
+ตัวอย่างไฟล์ config.json
 ```json
 {
   "APP_VERSION": "1.0.3",
@@ -69,12 +69,12 @@
     {
       "key": "MOD_TEST1",
       "number": "0",
-      "text": "---"
+      "text": "dummy1"
     },
     {
       "key": "MOD_TEST2",
       "number": "0",
-      "text": "---"
+      "text": "dummy2"
     }
   ]
 }
