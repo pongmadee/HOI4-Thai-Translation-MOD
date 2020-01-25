@@ -20,7 +20,7 @@ Hearts of Iron IV - Thai Translation MOD
 * [แผนงานและรายละเอียดความคืบหน้าทั้งหมด](https://trello.com/b/JUbreJWk/hoi4-thai-translation-mod)
 * อัปเดตอย่างน้อยสัปดาห์ละ 1 - 2 ครั้งครับ
 
-### SUPPORT - สนับสนุนยุทธปัจจัยผู้พัฒนา
+### SUPPORT DEVELOPER - สนับสนุนยุทธปัจจัยผู้พัฒนา
 * [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/hoi4thai) :ramen:
 
 ### TRANSLATION - การแปล
