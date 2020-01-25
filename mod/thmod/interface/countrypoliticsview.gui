@@ -1297,8 +1297,10 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "occupier_text"
-			position = { x = -340 y = -25 }
-			font = "hoi_18mbs"
+			#position = { x = -340 y = -25 }
+			position = { x = -350 y = -25 }
+			#font = "hoi_18mbs"
+			font = "mod_20b"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 180
 			maxHeight = 5
