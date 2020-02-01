@@ -21,6 +21,10 @@ Hearts of Iron IV - Thai Translation MOD
 * [แผนงานและรายละเอียดความคืบหน้าทั้งหมด](https://trello.com/b/JUbreJWk/hoi4-thai-translation-mod)
 * อัปเดตอย่างน้อยสัปดาห์ละ 1 - 2 ครั้งครับ
 
+### FAQ - รวมถามตอบปัญหา
+* [วิธีดาวน์โหลดม็อด และ เปิดม็อด](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/EnabledMod.md)
+* [ถ้าม็อดขึ้นเครื่องหมายตกใจ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution1.md)
+
 ### SUPPORT DEVELOPER - สนับสนุนยุทธปัจจัยผู้พัฒนา
 * [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/hoi4thai) :ramen:
 
