@@ -187,7 +187,7 @@
  PRODUCTION_LINE_CHANGE_NAVAL:0 "§Gคลิกเพื่อ §Hเปลี่ยน§! ยุทโธปกรณ์ที่ผลิต\n§!§Rคุณจะสูญเสียความคืบหน้าทั้งหมดสำหรับสายการผลิตนี้§!"
  PRODUCTION_EQUIPMENT_FILTER:0 "ยุทโธปกรณ์ทหารราบ & ปืนใหญ่"
  PRODUCTION_ARMOR_FILTER:0 "ยานเกราะ"
- PRODUCTION_AIR_FILTER:0 "เครื่อบิน"
+ PRODUCTION_AIR_FILTER:0 "เครื่องบิน"
  PRODUCTION_CAPITAL_SHIPS_FILTER:0 "เรือรบขนาดใหญ่"
  PRODUCTION_SCREEN_SHIPS_FILTER:0 "เรือตรวจการณ์"
  PRODUCTION_OTHER_SHIPS_FILTER:0 "เรืออื่น"
