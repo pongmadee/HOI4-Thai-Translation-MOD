@@ -2,7 +2,7 @@
 Hearts of Iron IV - Thai Translation MOD
 
 #### :floppy_disk: [Download (Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=1729555797)
-#### :floppy_disk: [Download (GitHub)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases)
+#### :floppy_disk: [Download (GitHub)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases) [วิธีติดตั้งด้วยตนเองไม่ผ่าน Steam Workshop (Windows 7/10)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/ManuallyInstall.md)
 
 ### INFORMATIONS - ข้อมูล
  :heavy_check_mark: รองรับเกมเวอร์ชัน 1.8.1 "Fork" <br/>
