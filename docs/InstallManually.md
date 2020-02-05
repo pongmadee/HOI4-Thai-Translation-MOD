@@ -9,3 +9,8 @@
 7. เปิดใช้งานม็อด
 8. กดปุ่ม Play
 <img src="images/thmod_install_manually.jpg">
+
+
+# เอกสารอ้างอิง
+https://hoi4.paradoxwikis.com/Mods
+https://forum.paradoxplaza.com/forum/index.php?threads/new-launcher-for-hearts-of-iron-iv-on-the-13th-of-november.1273707/
