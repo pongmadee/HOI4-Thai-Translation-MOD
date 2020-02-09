@@ -5,7 +5,7 @@ Hearts of Iron IV - Thai Translation MOD
 #### :floppy_disk: [Download (GitHub)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases) [วิธีติดตั้งด้วยตนเองไม่ผ่าน Steam Workshop (Windows 7/10)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/ManuallyInstall.md)
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 1.8.1 "Fork" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 1.8.2 "Fork" <br/>
  :heavy_check_mark: รองรับ DLC <br/>
  :heavy_check_mark: รองรับโหมด Ironman <br/>
  :heavy_check_mark: รองรับ Multiplayer (ใช้ได้ยังไม่พบปัญหา) <br/>
