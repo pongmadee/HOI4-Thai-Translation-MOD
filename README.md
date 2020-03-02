@@ -17,6 +17,9 @@ Hearts of Iron IV - Thai Translation MOD
 - สามารถพิมพ์ไทยได้ ส่วนที่สามารถแก้ไขและบันทึกเป็นภาษาไทย ได้แก่ ชื่อกองพล, ชื่อกองทัพ, ชื่อหมู่กองทัพ, ยุทธบริเวณ, ชื่อเรือรบ, ภารกิจกองเรือ, แม่แบบกองพล, ชื่อรุ่นโมเดลอาวุธ, ชื่อสำนักข่าวกรอง, รหัสประจำตัวสายลับ และ อื่นๆ <br/>
 ![FEATURES](https://i.imgur.com/rt7yPQL.gif)
 
+- สามารถใช้ภาษาไทยในการค้นหายุทธศาสตร์ได้ <br/>
+    <img src="docs/images/larth_find.jpg" width="40%">
+    
 - *พิเศษ* สำหรับคนที่มี DLC : [La Résistance](https://store.steampowered.com/app/1158100/Expansion__Hearts_of_Iron_IV_La_Rsistance) เมื่อเลือกเล่นเป็นสยาม จะสามารถใช้ตราสัญลักษณ์เสรีไทย(ขบวนการเสรีไทย) ในการตั้งหน่วยข่าวกรองได้ <br/>
     <img src="docs/images/free_thai_movement-p.png">
 
