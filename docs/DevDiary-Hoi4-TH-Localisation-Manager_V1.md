@@ -82,6 +82,9 @@
 
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_3.png" width="70%">
 
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชั่น 1.0.4 (Hotfix)
+แก้บัคและเพิ่มประสิทธิภาพของ Lexical Analyzer </br>
+
 ## ลักษณะรูปแบบการสั่งงาน
 จะเป็นการสั่งงานผ่าน console app (command line)
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1-menu_structure_flow.png">
