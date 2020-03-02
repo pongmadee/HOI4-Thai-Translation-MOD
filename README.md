@@ -18,7 +18,7 @@ Hearts of Iron IV - Thai Translation MOD
 ![FEATURES](https://i.imgur.com/rt7yPQL.gif)
 
 - *พิเศษ* สำหรับคนที่มี DLC : [La Résistance](https://store.steampowered.com/app/1158100/Expansion__Hearts_of_Iron_IV_La_Rsistance) เมื่อเลือกเล่นเป็นสยาม จะสามารถใช้ตราสัญลักษณ์เสรีไทย(ขบวนการเสรีไทย) ในการตั้งหน่วยข่าวกรองได้ <br/>
-<img src="docs/images/free_thai_movement-p.png">
+    <img src="docs/images/free_thai_movement-p.png">
 
 
 ### PROGRESS & ROADMAP - ความคืบหน้า
