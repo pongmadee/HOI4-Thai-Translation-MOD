@@ -1,11 +1,11 @@
-# HOI4 Thai Translation MOD [![GitHub release](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases)
+# HOI4 Thai Translation MOD [![GitHub release](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases) ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD?include_prereleases)
 Hearts of Iron IV - Thai Translation MOD
 
 #### :floppy_disk: [Download (Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=1729555797)
 #### :floppy_disk: [Download (GitHub)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases) [วิธีติดตั้งด้วยตนเองไม่ผ่าน Steam Workshop (Windows 7/10)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/ManuallyInstall.md)
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 1.9.0 "Husky" <br/>
+ :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.9.0 "Husky" <br/>
  :heavy_check_mark: รองรับ DLC <br/>
  :heavy_check_mark: รองรับโหมด Ironman <br/>
  :heavy_check_mark: รองรับ Multiplayer (ใช้ได้ยังไม่พบปัญหา) <br/>
