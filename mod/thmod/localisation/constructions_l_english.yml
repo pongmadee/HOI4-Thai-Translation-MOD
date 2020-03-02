@@ -45,7 +45,7 @@
  CONSTRUCTION_MAPMODE_TOOLTIP:0 "§Gคลิก§! เพื่อสร้าง $BUILDING|H$"
  CONSTRUCTION_MAPMODE_TOOLTIP_TO_MAX_AMOUNT:0 "§GShift+คลิก§! เพื่อสร้างจำนวนสูงสุดของสิ่งก่อสร้าง"
  CONSTRUCTION_MAPMODE_TOOLTIP_REMOVE:0 "§Gคลิกขวา§! เพื่อลบการก่อสร้างหนึ่งอย่าง\n§GShift+คลิกขวา§! เพื่อลบทุกการก่อสร้าง"
- CONSTRUCTION_MAPMODE_MAXLEVEL_BLOCKED_TOOLTIP:1 "ไม่สามารถสร้าง $BUILDING|H$, ถึงระดับสูงสุดแล้วหรือไม่มีสล็อตว่าง"
+ CONSTRUCTION_MAPMODE_MAXLEVEL_BLOCKED_TOOLTIP:1 "Cannot build $BUILDING|H$, maximum level reached already or §Bno slots available§!."
  CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP:0 "ไม่สามารถสร้าง $BUILDING|H$ ในเขตปลอดทหาร"
  CONSTRUCTION_MAPMODE_FOREIGN_TOOLTIP:0 "ไม่สามารถสร้าง $BUILDING|H$ ในต่างแดน"
  CONSTRUCTION_MAPMODE_WATER_TOOLTIP:0 "ไม่สามารถสร้าง $BUILDING|H$ ในน้ำ"

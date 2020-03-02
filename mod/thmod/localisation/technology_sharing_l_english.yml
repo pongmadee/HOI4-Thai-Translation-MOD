@@ -54,3 +54,6 @@
  HOL_allied_research_desc:0 "ลดเวลาการวิจัยสำหรับเทคโนโลยีที่ทำการวิจัยโดยประเทศพันธมิตรอื่นๆ"
  HOL_europe_research_name:0 "ทวีปยุโรปที่ดีที่สุดและสว่างไสวที่สุด"
  HOL_europe_research_desc:0 "ลดเวลาการวิจัยสำหรับเทคโนโลยีที่ทำการวิจัยโดยสมาชิกฝ่ายอื่น"
+ spr_research_name:0 "Soviet Technological Advancements"
+ spr_research_desc:0 "Reduced research time for technologies researched by [SOV.GetNameDef]."
+ VIC_learn_from_the_enemy_name:0 "Learning from the enemy"

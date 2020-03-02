@@ -460,7 +460,7 @@ guiTypes = {
 			spriteType = "GFX_countered_tactic_overlay"
 			position = { x = 102 y = 185 }
 			Orientation = "UPPER_LEFT"
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}		
 		
 		buttonType = {
@@ -481,7 +481,7 @@ guiTypes = {
 			spriteType = "GFX_countered_tactic_overlay"
 			position = { x = -187 y = 185 }
 			Orientation = "UPPER_RIGHT"
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}		
 		
 		instantTextboxType = {
@@ -714,7 +714,7 @@ guiTypes = {
 			maxWidth = 60
 			maxHeight = 20
 			format = left
-			#allwaystransparent = yes
+			#alwaystransparent = yes
 		}
 		instantTextboxType = {
 			name = "attacker_air_text"
@@ -723,7 +723,7 @@ guiTypes = {
 			maxWidth = 180
 			maxHeight = 50
 			format = left
-			#allwaystransparent = yes
+			#alwaystransparent = yes
 		}
 		
 		iconType = {
@@ -742,7 +742,7 @@ guiTypes = {
 			maxHeight = 50
 			format = right
 			Orientation = "UPPER_RIGHT"
-			#allwaystransparent = yes
+			#alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -753,7 +753,7 @@ guiTypes = {
 			maxHeight = 20
 			format = right
 			Orientation = "UPPER_RIGHT"
-			#allwaystransparent = yes
+			#alwaystransparent = yes
 		}
 	}
 

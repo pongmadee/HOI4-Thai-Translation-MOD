@@ -75,7 +75,7 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "template_title"
-			position = { x = 5 y = 18 }
+			position = { x = 5 y = 8 }
 			textureFile = ""
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
@@ -255,7 +255,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "template_title"
-			position = { x = 5 y = 18 }
+			position = { x = 5 y = 8 }
 			textureFile = ""
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}

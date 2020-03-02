@@ -185,7 +185,7 @@ guiTypes = {
 			maxHeight = 24
 			fixedsize = yes
 			Orientation = "LOWER_LEFT"
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 	}
 	
@@ -280,8 +280,7 @@ guiTypes = {
 				clicksound = click_ok
 				quadTextureSprite ="GFX_button_reset_123x34"
 				buttonText = "PEACE_REJECT"
-				#buttonFont = "hoi_18mbs"
-				buttonFont = "mod_20b"
+				buttonFont = "hoi_18mbs"
 				orientation = "CENTER_DOWN"
 			}
 		
@@ -291,8 +290,7 @@ guiTypes = {
 				clicksound = click_ok
 				quadTextureSprite ="GFX_button_reset_123x34"
 				buttonText = "PEACE_ACCEPT"
-				#buttonFont = "hoi_18mbs"
-				buttonFont = "mod_20b"
+				buttonFont = "hoi_18mbs"
 				orientation = "CENTER_DOWN"
 			}
 		}

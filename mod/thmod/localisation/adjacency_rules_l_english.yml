@@ -21,5 +21,5 @@
  disable_canal_tt:0 "§Rทางผ่านนี้พังยับเยินบางส่วนและจะต้องได้รับการซ่อมแซมก่อนที่เรือจะสามารถผ่านได้อีกครั้ง§!"
  SUEZ_CANAL_BLOCKED:0 "คลองสุเอซ"
  PANAMA_CANAL_BLOCKED:0 "คลองปานามา"
- SUEZ_CANAL_BLOCKED_FOR_COUNTRY:0 "คลองสุเอซปิดกั้นสำหรับ [Root.GetName]"
- PANAMA_CANAL_BLOCKED_FOR_COUNTRY:0 "คลองปานามาถูกบล็อกไว้สำหรับ [Root.GetName]"
+ SUEZ_CANAL_BLOCKED_FOR_COUNTRY:0 "คลองสุเอซถูกปิดกั้นสำหรับ [Root.GetName]"
+ PANAMA_CANAL_BLOCKED_FOR_COUNTRY:0 "คลองปานามาถูกปิดกั้นสำหรับ [Root.GetName]"

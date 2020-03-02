@@ -22,13 +22,22 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "template_title"
-			position = { x = 5 y = 18 }
+			position = { x = 5 y = 8 }
 			textureFile = ""
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
 			text = "EQUIPMENT_IN_USE_HEADER"
 			maxWidth = 300
 			maxHeight = 20
+			format = centre	
+		}
+
+		instantTextboxType = {
+			name = "template_title_garrison"
+			position = { x = 5 y = 20 }
+			font = "hoi_24header"
+			text = "EQUIPMENT_IN_GARRISON_HEADER"
+			maxWidth = 300
 			format = centre	
 		}
 		
@@ -112,11 +121,11 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "archetype_amount"
-			position = { x = 160 y = 6 }
+			position = { x = 190 y = 6 }
 			font = "hoi_16mbs"
 			borderSize = {x = 0 y = 0}
 			text = ""
-			maxWidth = 100
+			maxWidth = 70
 			maxHeight = 20
 			format = right
 		}

@@ -20,3 +20,6 @@
  assuming_direct_control_achievement_flag:0 "Assumed faction leadership from §Y[ENG.GetName]§!, §Y[GER.GetName]§!, or §Y[SOV.GetName]§!.\n"
  USA_civil_war_fired_democrats:0 "The Boston Rebellion has begun.\n"
  putting_the_raid_on_the_medway_to_shame_tt:0 "Any country:\nOriginal country is [ENG.GetName]\nAt most §Y0 Capital Ship§! ships"
+ borbon_stuff_tt:0 "Conquer all of France."
+ die_albion_tt:0 "Conquer all of Great Britain and Northern Ireland."
+ portugal_macau_my_day_tt:0 "Create a collaboration government in Macau and have it own all core territory of China and Manchukuo."

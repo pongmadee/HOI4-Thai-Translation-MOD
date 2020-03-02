@@ -247,7 +247,7 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "equipment_stats"
-				position = { x = 354 y = 52 }	
+				position = { x = 354 y = 55 }	
 				size = { width = 200 height = 230 }
 				margin = { top = 3}
 				Orientation = UPPER_LEFT				
@@ -318,7 +318,7 @@ guiTypes = {
 				name = "softness_ratio_frame"
 				spriteType = "GFX_softness_ratio_frame"
 				position = {x=277 y=300}
-				allwaystransparent = yes
+				alwaystransparent = yes
 			}
 
 
@@ -389,7 +389,6 @@ guiTypes = {
 			position = { x=150 y=502 }
 			quadTextureSprite ="GFX_button_123x34"
 			buttonText = "DESIGNER_DUPLICATE"
-			pdx_tooltip = "DESIGNER_DUPLICATE_DESC"
 			buttonFont = "hoi_18mbs"
 			clicksound = click_default
 		}
@@ -971,7 +970,6 @@ guiTypes = {
 			Orientation = CENTER_LOWER
 			clicksound = click_default
 		}	
-		
 	}
 
 	containerWindowType = {

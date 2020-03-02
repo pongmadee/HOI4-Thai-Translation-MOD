@@ -91,6 +91,7 @@ guiTypes = {
 				maxWidth = 125
 				maxHeight = 20
 				format = left
+				fixedsize = yes
 			}
 
 			iconType = {
@@ -178,7 +179,7 @@ guiTypes = {
 				position = { x = 60 y = 7 }
 				font = "hoi_18mbs"
 				text = "LOGISTICS_FUEL_PRIORITIZATION"
-				maxWidth = 125
+				maxWidth = 300
 				maxHeight = 20
 				format = left
 			}
@@ -744,7 +745,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "in_stock"
-				position = { x = 210 y = 9 }
+				position = { x = 205 y = 9 }
 				font = "hoi_16mbs"
 				text = "LOGISTICS_IN_STOCK_LABEL"
 				maxWidth = 60
