@@ -16,15 +16,18 @@
 | Building |	สิ่งปลูกสร้าง |	 |
 | Capital Ship |	เรือรบหลัก |
 | CAS |	เครื่องบินสนับสนุนทางอากาศ	| |
+| Cap |	น่าจะย่อมาจาก Capacity = ความจุ/ขอบเขตจำกัด/วงเงิน	| |
 | Combat Width |	ความกว้างแนวรบ |	*ศัพท์บัญญัติ |
 | Combined Arms |	กองทัพผสมเหล่า |	กองทัพผสมเหล่ามีกองพลปืนยาวเคลื่อนที่ด้วยยานยนต์ |
 | Command Power |	อำนาจสั่งการ	| |
 | Company |	กองร้อย |  |
+| Compliance |	การเชื่อฟัง |  |
 | Conquering |	พิชิต	|  |
 | Construciton Level |	ระดับการก่อสร้าง |	
 | Convoy | ขบวนเรือสินค้า	|  |
 | Convoy Raiding | 	จู่โจม / โจมตีขบวนเรือสินค้า |	https://dict.longdo.com/search/Raid |
 | Core |	แกนกลาง |	Core State คือรัฐที่นับเป็นส่วนหลักของประเทศ |
+| Cryptology |	วิทยาการเข้ารหัสลับ / เกี่ยวกับรหัสลับ	|  |
 | Division |	กองพล	|  |
 | Docking Rights |	สิทธิในการเทียบท่า	|  |
 | Doctrine |	หลักการ / ทฤษฎี	|  |
@@ -40,6 +43,8 @@
 | Hardness |	ความแข็ง	|  |
 | Heavy Fighter | เครื่องบินขับไล่หนัก |	Wikipedia ใช่คำว่า เครื่องบินขับไล่ขนาดหนัก |
 | Intel |	ข่าวกรอง / การสืบราชการลับ |	น่าจะย่อมาจาก intelligence |
+| Intel Ledger |	บันทึกข้อมูลข่าวกรอง | |
+| Intel network |	เครือข่ายสายลับ/ข่าวกรอง |  |
 | Justification |	การอ้างเหตุผล	การสร้างความชอบธรรม |  |
 | Justify |	อ้างเหตุผล |	|
 | Justify war goal |	อ้างเหตุผลประกาศสงคราม	|
