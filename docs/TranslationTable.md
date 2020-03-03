@@ -1,6 +1,5 @@
 # HOI4 THAI Translation Table
 **คำศัพท์ที่สำคัญ**เปรียบเทียบกับต้นฉบับภาษาอังกฤษที่ใช้กับม็อด Thai Translation MOD ในเกม Heart of Iron 4
-### [Download link](https://steamcommunity.com/sharedfiles/filedetails/?id=1729555797)
 
 | English | ไทย | หมายเหตุ |
 | --- | --- | --- |
