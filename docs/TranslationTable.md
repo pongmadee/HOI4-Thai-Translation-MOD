@@ -82,6 +82,7 @@
 | Silo |	ไซโล |	
 | Skill |	ทักษะ	|
 | Slot |	ช่อง	|
+| Spy Master |	หัวหน้าสายลับ / ผู้นำสายลับ	|
 | Stats |	ข้อมูล |	น่าจะย่อมาจาก statistics |
 | Stability |	เสถียรภาพ	|
 | Strategic Area |	พื้นที่ยุทธศาสตร์ |	
