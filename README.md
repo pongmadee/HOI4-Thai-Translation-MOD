@@ -30,6 +30,7 @@ Hearts of Iron IV - Thai Translation MOD
 
 ### FAQ - รวมถามตอบปัญหา
 * [คลิบวิธีดาวน์โหลดและติดตั้งม็อดแบบละเอียด](https://youtu.be/c_Kt8elBl3Y)
+* [อยากทำ Achievement กับม็อดตัวนี้ต้องทำอย่างไร](https://youtu.be/3c5epONeUOc)
 * [วิธีดาวน์โหลดม็อดและเปิดม็อด (Steam Workshop)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/EnabledMod.md)
 * [ถ้าม็อดขึ้นเครื่องหมายตกใจ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution1.md)
 
