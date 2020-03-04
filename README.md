@@ -29,7 +29,7 @@ Hearts of Iron IV - Thai Translation MOD
 * อัปเดตม็อดอย่างน้อยสัปดาห์ละ 1 - 2 ครั้งครับ
 
 ### FAQ - รวมถามตอบปัญหา
-* [คลิบวิธีดาวน์โหลดม็อดและติดตั้งม็อด](https://youtu.be/c_Kt8elBl3Y)
+* [คลิบวิธีดาวน์โหลดและติดตั้งม็อดแบบละเอียด](https://youtu.be/c_Kt8elBl3Y)
 * [วิธีดาวน์โหลดม็อดและเปิดม็อด (Steam Workshop)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/EnabledMod.md)
 * [ถ้าม็อดขึ้นเครื่องหมายตกใจ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution1.md)
 
