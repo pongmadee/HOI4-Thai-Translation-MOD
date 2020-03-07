@@ -201,7 +201,8 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "description"
 			position = { x = 95 y = 90 }
-			font = "hoi_18mbs"
+			#font = "hoi_18mbs"
+			font = "mod_20b"
 			text = "Long text here!"	
 			maxWidth = 525
 			format = left
@@ -1055,7 +1056,8 @@ guiTypes = {
 			name = "description"
 			position = { x = 50 y = 85 }
 			textureFile = ""
-			font = "hoi_20bs"
+			#font = "hoi_20bs"
+			font = "mod_20b"
 			borderSize = {x = 0 y = 0}
 			text = "Long text here!"
 			maxWidth = 380
@@ -1068,7 +1070,8 @@ guiTypes = {
 			name = "reward"
 			position = { x = 44 y = 125 }
 			textureFile = ""
-			font = "hoi_18mbs"
+			#font = "hoi_18mbs"
+			font = "mod_20b"
 			borderSize = {x = 0 y = 0}
 			text = "Long text here!"	
 			maxWidth = 394

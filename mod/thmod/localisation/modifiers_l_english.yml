@@ -436,7 +436,7 @@
  MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC:0 "ปรับเปลี่ยนกำลังคนของคุณที่คุณสามารถเข้าถึงได้จากรัฐ"
  MODIFIER_TRADE_OPINION_FACTOR:0 "ปัจจัยข้อตกลงการค้า"
  MODIFIER_TRADE_OPINION_FACTOR_DESC:0 "ปัจจัยของมูลค่าในข้อตกลงการค้า"
- MODIFIER_FACTION_TRADE_OPINION_FACTOR:0 "ปัจจัยข้อตกลงการค้าในฝ่าย(Faction)"
+ MODIFIER_FACTION_TRADE_OPINION_FACTOR:0 "ปัจจัยข้อตกลงการค้าในฝ่าย"
  MODIFIER_FACTION_TRADE_OPINION_FACTOR_DESC:0 "ปัจจัยของมูลค่าในข้อตกลงการค้าระหว่างสมาชิกในฝ่ายเดียวกัน"
  MODIFIER_GROUND_ATTACK:0 "โจมตีภาคพื้นดิน"
  MODIFIER_GROUND_ATTACK_FACTOR:0 "ปัจจัยโจมตีพื้นดิน"
