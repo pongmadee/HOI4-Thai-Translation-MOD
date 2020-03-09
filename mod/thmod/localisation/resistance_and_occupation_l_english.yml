@@ -47,7 +47,7 @@
  OCCUPATION_MODIFIER_ACTIVE:0 "Modifier is currently active. It will be disabled when $TYPE|H$ goes below $TO_DISABLE|%0H$"
  OCCUPATION_MODIFIER_ACTIVE_WITH_TRIGGER:0 "Modifier is currently active. It will be disabled when $TYPE|H$ goes below $TO_DISABLE|%0H$ or following conditions are not satisfied:"
  OCCUPATION_MODIFIER_NOT_ACTIVE:0 "Modifier is currently §RNOT§! active. It will be enabled when $TYPE|H$ goes above $TO_ENABLE|%0H$"
- OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:0 "Modifier is currently §RNOT§! active. It will be enabled when $TYPE|H$ goes below $TO_ENABLE|%0H$ and following conditions are satisfied:"
+ OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:1 "Modifier is currently §RNOT§! active. It will be enabled when $TYPE|H$ goes above $TO_ENABLE|%0H$ and following conditions are satisfied:"
  OCCUPATION_MODIFIERS_ON_ENABLE:0 "Following effects will apply when the modifier is activated:"
  OCCUPATION_MODIFIERS_ON_DISABLE:0 "Following effects will apply when the modifier is deactivated:"
  OCCUPATION_MODIFIERS_TOOLTIP:0 "Following modifiers will apply while the modifier is active:"

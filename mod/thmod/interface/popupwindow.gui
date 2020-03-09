@@ -762,7 +762,6 @@ guiTypes = {
 		moveable = yes
 		fade_time = 200
 		fade_type = linear
-		show_sound = research_complete
 		hide_sound = menu_close_window
 		click_to_front = yes
 
@@ -778,7 +777,8 @@ guiTypes = {
 		
 			background = {
 				name = "Background"
-				spriteType ="GFX_tiled_paper_bg"
+				#spriteType ="GFX_tiled_paper_bg"
+				spriteType = "GFX_agency_popup_bg"
 			}
 		}
 		
