@@ -137,7 +137,7 @@
  sabotage_rubber:0 "ก่อวินาศกรรม ทรัพยากรยาง"
  sabotage_tungsten:0 "ก่อวินาศกรรม ทรัพยากรทังสเตน"
  sabotage_steel:0 "ก่อวินาศกรรม ทรัพยากรเหล็ก"
- sabotage_chromium:0 "ก่อวินาศกรรม ทรัพยากรโครเมียม"
+ sabotage_chromium:0 "Sabotage Chromium Resources"
  RESISTANCE_CHANCE_FOR_ACTIVITY:0 "โอกาสในกิจกรรมต่อต้าน: $CHANCE|%.1H$"
  RESISTANCE_CHANCE_FOR_GARRISON_PENETRATE:0 "โอกาสที่การต่อต้านจะเจาะกองทหารรักษาการณ์ได้: $CHANCE|%.0H$"
  RESISTANCE_ACTIVITY_LIST_TITLE:0 "หนึ่งในผลลัพธ์ต่อไปนี้จะถูกนำไปใช้เมื่อการต่อต้านเจาะกองทหารรักษาการณ์ได้:"
