@@ -575,7 +575,8 @@ guiTypes = {
 		instantTextboxType = {
 			name = "phase_entry_desc"
 			position = { x = 75 y = 0 }
-			font = "hoi4_typewriter16"
+			#font = "hoi4_typewriter16"
+			font = "mod_18"
 			maxWidth = 400
 			maxHeight = 20
 		}
