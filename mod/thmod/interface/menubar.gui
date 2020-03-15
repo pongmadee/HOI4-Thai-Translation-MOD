@@ -666,7 +666,8 @@ guiTypes = {
 			name = "country_name"
 			position = { x = 15 y = 0 }
 			textureFile = ""
-			font = "vic_18"
+			#font = "vic_18"
+			font = "mod_20b"
 			borderSize = {x = 4 y = 4}
 			text = ""	
 			maxWidth = 130
