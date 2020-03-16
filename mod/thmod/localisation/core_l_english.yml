@@ -1693,7 +1693,7 @@
  MAP_LOADING_ERROR_MITIGATION_MSGR: ""
  MAP_LOADING_ERROR_GENERAL_MITIGATION_EPILOG: "If that fails, try clearing your user directory from the launcher.\n"
  STATE_RESOURCE_COST:0 "State Consumption: $VALUE|-.0$"
- MOD_VERSION:0 "Mod v0.90.1, Update 12/03/2020"
+ MOD_VERSION:0 "Mod v0.90.2, Update 16/03/2020"
  MOD_DEV_MSG:0 "ผู้พัฒนา: สำหรับทดสอบ เกมเวอร์ชัน Open Beta 1.9.1 ที่มี checksum : 2628"
  MOD_SUPPORTERS:0 "ผู้สนับสนุน: n/a"
  MOD_TEST1DUMMY1:0 "dummy1"

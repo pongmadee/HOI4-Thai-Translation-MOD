@@ -186,7 +186,8 @@ guiTypes = {
 			instantTextBoxType = {
 				name = "Title"
 				position = { x = 180 y = 170 }
-				font = "hoi4_typewriter22"
+				#font = "hoi4_typewriter22"
+				font = "mod_20"
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"	
 				maxWidth = 320
@@ -275,7 +276,7 @@ guiTypes = {
 				name = "Description"
 				position = { x = 70 y = 150 }
 				#font = "hoi4_typewriter16"
-				font = "mod_20b"
+				font = "mod_20"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
 				maxWidth = 400
