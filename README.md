@@ -1,4 +1,4 @@
-### ม็อดสำหรับเกมเวอร์ชัน open beta v1.9.1 [checksum: 2628] 
+### ม็อดสำหรับเกมเวอร์ชัน open beta v1.9.1 [checksum: f08e] 
 ### ฐานข้อมูลจาก Mod v0.90.2 alpha [checksum: n/a] </br>
 </br>
 
