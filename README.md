@@ -8,7 +8,6 @@ Hearts of Iron IV - Thai Translation MOD
 
 ### INFORMATIONS - ข้อมูล
  :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.9.0 "Husky" <br/>
- :heavy_check_mark: รองรับ DLC <br/>
  :heavy_check_mark: รองรับโหมด Ironman <br/>
  :heavy_check_mark: รองรับ Multiplayer (ใช้ได้ยังไม่พบปัญหา) <br/>
  :heavy_check_mark: เซฟเกมของม็อดทุกเวอร์ชั่นสามารถใช้ได้กับเซฟเกมเก่าได้ไม่มีปัญหา(ยกเว้นตัวเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.8 -> 1.9) <br/>
@@ -36,11 +35,11 @@ Hearts of Iron IV - Thai Translation MOD
 * [วิธีดาวน์โหลดม็อดและเปิดม็อด (Steam Workshop)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/EnabledMod.md)
 * [ถ้าม็อดขึ้นเครื่องหมายตกใจ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution1.md)
 
-### SUPPORT DEVELOPER - สนับสนุนยุทธปัจจัยผู้พัฒนา
-* [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/hoi4thai) :ramen:
-
 ### TRANSLATION - การแปล
 * [คำศัพท์ที่สำคัญเปรียบเทียบกับต้นฉบับภาษาอังกฤษ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/TranslationTable.md)
+
+### SUPPORT DEVELOPER - สนับสนุนยุทธปัจจัยผู้พัฒนา
+* [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/hoi4thai) :ramen:
 
 ### TOOLS - เครื่องมือ
  * [Hoi4-TH-Localisation-Manager v1.0](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)

@@ -34,7 +34,7 @@
  AIRWING_MISSION_TYPE_DROP_NUKE:0 "จู่โจมด้วยระเบิดปรมณู"
  AIRWING_MISSION_TYPE_DROP_NUKE_DESC:0 "จู่โจมด้วยระเบิดปรมณู"
  AIRWING_MISSION_TYPE_DROP_NUKE_DISABLED_DESC:0 "§Rไม่มี§! ระเบิดปรมณูเพียงพอสำหรับการโจมตี"
- AIRWING_MISSION_TYPE_RECON:0 "เครื่องบินจารกรรม"
+ AIRWING_MISSION_TYPE_RECON:0 "จารกรรมทางอากาศ"
  AIRWING_MISSION_TYPE_RECON_DESC:0 "ทำการสอดแนมทางอากาศและรวบรวมข้อมูลข่าวกรอง"
  AIRWING_MISSION_WING_STATUS_1:0 "$NAME|H$ $STATUS|H$"
  AIRWING_MISSION_WING_STATUS_2:0 "$NAME|H$ §T$NUM|H$ ลำ $STATUS|H$§!"
