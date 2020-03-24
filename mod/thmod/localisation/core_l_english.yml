@@ -1696,7 +1696,7 @@
  MAP_LOADING_ERROR_INGAME: "§RAttempting to launch a game will likely crash§!\n\n"
  MAP_LOADING_ERROR_INGAME_MITIGATION: "You can still access the §HNudger§! to attempt to fix the issues.\n\nIf you are coming back from the §HNudger§!, it is best to restart the game to make sure everything is properly reloaded.\nStart a game at your own risks!"
  STATE_RESOURCE_COST:0 "State Consumption: $VALUE|-.0$"
- MOD_VERSION:0 "Mod v0.90.2, Update 19/03/2020"
+ MOD_VERSION:0 "Mod v0.90.3, Update 24/03/2020"
  MOD_DEV_MSG:0 "ผู้พัฒนา: สำหรับทดสอบ เกมเวอร์ชัน Open Beta 1.9.1 ที่มี checksum : f08e"
  MOD_SUPPORTERS:0 "ผู้สนับสนุน: n/a"
  MOD_TEST1DUMMY1:0 "dummy1"

@@ -187,7 +187,7 @@ guiTypes = {
 				name = "Title"
 				position = { x = 180 y = 170 }
 				#font = "hoi4_typewriter22"
-				font = "mod_20"
+				font = "mod_26"
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"	
 				maxWidth = 320
