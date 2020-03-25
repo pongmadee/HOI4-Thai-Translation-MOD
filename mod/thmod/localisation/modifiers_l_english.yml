@@ -981,7 +981,7 @@
  MODIFIER_CRYPTO_STRENGTH:1 "£crypto_defense£ ระดับวิทยาการเข้ารหัสลับ"
  MODIFIER_CRYPTO_DEPARTMENT_ENABLED:0 "ปลดล็อกแผนกวิทยาการเข้ารหัสลับ"
  MODIFIER_INTEL_NETWORK_GAIN:0 "ได้รับความแข็งแกร่งของเครือข่ายข่าวกรอง "
- MODIFIER_INTEL_NETWORK_GAIN_FACTOR:0 "ได้รับความแข็งแกร่งของเครือข่ายข่าวกรอง "
+ MODIFIER_INTEL_NETWORK_GAIN_FACTOR:1 "Intel network strength gain factor"
  MODIFIER_ENEMY_INTEL_NETWORK_GAIN_FACTOR_OVER_OCCUPIED_TAG:0 "ศัตรูได้รับความแข็งแกร่งของเครือข่ายข่าวกรอง "
  MODIFIER_OWN_OPERATIVE_DETECTION_CHANCE:0 "โอกาสในการสืบสายลับของตัวเอง"
  MODIFIER_ENEMY_OPERATIVE_DETECTION_CHANCE:0 "โอกาสการตรวจจับสายลับของข้าศึก"

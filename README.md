@@ -1,5 +1,5 @@
-### ม็อดสำหรับเกมเวอร์ชัน open beta v1.9.1 [checksum: f08e] 
-### ฐานข้อมูลจาก Mod v0.90.3 alpha [checksum: n/a] </br>
+### ม็อดสำหรับเกมเวอร์ชัน open beta v1.9.1 [checksum: 05ef] 
+### ฐานข้อมูลจาก Mod v0.90.3 alpha </br>
 </br>
 
 วิธีติดตั้ง
