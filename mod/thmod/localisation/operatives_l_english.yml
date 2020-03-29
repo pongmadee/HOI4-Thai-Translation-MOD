@@ -180,7 +180,7 @@
  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ACTION:0 "กำลังกดดันทางการทูต"
  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TT:0 "กดดันทางการทูตต่อ $FLAG$ $COUNTRY_DEF|H$"
  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ASSIGNMENT_DESC:0 "§Gคลิก§! จะเน้นไฮไลต์ประเทศที่เหมาะสม จากนั้น §Gคลิก§! ประเทศที่จะเริ่มภารกิจ"
- OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_DESC:4 "§LInfluence an AI controlled nation to prefer your Faction and Non-Aggression Pacts. Player nations will get tightened restrictions to join other Factions.§!\n§HDaily Diplomatic Pressure: $BASE_ACCEPTANCE$§!\n  Base: $BASE_ACCEPTANCE|G$\n§HDaily World Tension requirements: -$BASE_TENSION|%$§!\n  Base: §G-§!$BASE_TENSION|%G$"
+ OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_DESC:4 "§Lสร้างอิทธิพลชักจูงต่อประเทศที่ควบคุมโดย AI เพื่อให้ชอบฝ่ายของคุณและทำสนธิสัญญาไม่รุกราน ผู้เล่นชาติอื่นจะได้รับข้อจำกัดในการเข้าร่วมฝ่ายอื่น§!\n§Hแรงกดดันทางการทูตรายวัน: $BASE_ACCEPTANCE$§!\n  ฐาน: $BASE_ACCEPTANCE|G$\n§Hต้องการความตึงเครียดโลกรายวัน: -$BASE_TENSION|%$§!\n  ฐาน: §G-§!$BASE_TENSION|%G$"
  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_VALID_TARGET:0 "กำหนด $CODENAME$ เพื่อ £operative_mission_icons_small|7£ กดดันทางการทูตใน $COUNTRY|H$"
  OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_INVALID_TARGET:0 "ไม่สามารถกดดันทางการทูตได้ใน $COUNTRY|H$\n\n$REASON|R$"
  OPERATIVE_MISSION_PROPAGANDA_TITLE:0 "โฆษณาชวนเชื่อ"
