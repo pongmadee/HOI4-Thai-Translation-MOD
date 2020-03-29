@@ -9,9 +9,9 @@ Hearts of Iron IV - Thai Translation MOD
 ### INFORMATIONS - ข้อมูล
  :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.9.0 "Husky" <br/>
  :heavy_check_mark: รองรับโหมด Ironman <br/>
+ :heavy_check_mark: รองรับรางวัลความสำเร็จ Achievement <br/>
  :heavy_check_mark: รองรับ Multiplayer (ใช้ได้ยังไม่พบปัญหา) <br/>
  :heavy_check_mark: เซฟเกมของม็อดทุกเวอร์ชั่นสามารถใช้ได้กับเซฟเกมเก่าได้ไม่มีปัญหา(ยกเว้นตัวเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.8 -> 1.9) <br/>
- :no_entry_sign: ไม่รองรับรางวัลความสำเร็จ Achievement ( แต่ยังพอมีวิธีครับ ลองเลื่อนไปดูตรง FAQ ) <br/>
  :no_entry_sign: ไม่สามารถพิมพ์ชื่อประเทศหรือชื่อฝ่ายที่เป็นภาษาไทยในฟังก์ชันค้นหาได้ (พิมพ์ได้แต่ไม่เจอ) <br/>
 
 ### FEATURES - คุณลักษณะเด่น
@@ -20,23 +20,23 @@ Hearts of Iron IV - Thai Translation MOD
 
 - สามารถใช้ภาษาไทยในการค้นหายุทธศาสตร์ได้ <br/>
     <img src="docs/images/larth_find.jpg" width="40%">
-    
-- *พิเศษ* สำหรับคนที่มี DLC : [La Résistance](https://store.steampowered.com/app/1158100/Expansion__Hearts_of_Iron_IV_La_Rsistance) เมื่อเลือกเล่นเป็นสยาม จะสามารถใช้ตราสัญลักษณ์เสรีไทย(ขบวนการเสรีไทย) ในการตั้งหน่วยข่าวกรองได้ <br/>
-    <img src="docs/images/free_thai_movement-p.png">
 
+
+### OFFICIAL SUBMODS - ม็อดย่อย
+- [Free Thai Movement - ขบวนการเสรีไทย](https://steamcommunity.com/sharedfiles/filedetails/?id=2039271466) เมื่อเลือกเล่นเป็นสยาม จะสามารถใช้ตราสัญลักษณ์เสรีไทย(ขบวนการเสรีไทย) ในการตั้งหน่วยข่าวกรองได้ <br/>
+    <img src="docs/images/free_thai_movement-p.png">
 
 ### PROGRESS & ROADMAP - ความคืบหน้า
 * [แผนงานและรายละเอียดความคืบหน้าทั้งหมด](https://trello.com/b/JUbreJWk/hoi4-thai-translation-mod)
 * อัปเดตม็อดอย่างน้อยสัปดาห์ละ 1 - 2 ครั้งครับ
 
-### FAQ - รวมถามตอบปัญหา
-* [คลิบวิธีดาวน์โหลดและติดตั้งม็อดแบบละเอียด](https://youtu.be/c_Kt8elBl3Y)
-* [อยากทำ Achievement กับม็อดตัวนี้ต้องทำอย่างไร](https://youtu.be/3c5epONeUOc)
-* [วิธีดาวน์โหลดม็อดและเปิดม็อด (Steam Workshop)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/EnabledMod.md)
-* [ถ้าม็อดขึ้นเครื่องหมายตกใจ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution1.md)
-
 ### TRANSLATION - การแปล
 * [คำศัพท์ที่สำคัญเปรียบเทียบกับต้นฉบับภาษาอังกฤษ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/TranslationTable.md)
+
+### FAQ - รวมถามตอบปัญหา
+* [คลิบวิธีดาวน์โหลดและติดตั้งม็อดแบบละเอียด](https://youtu.be/c_Kt8elBl3Y)
+* [วิธีดาวน์โหลดม็อดและเปิดม็อด (Steam Workshop)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/EnabledMod.md)
+* [ถ้าม็อดขึ้นเครื่องหมายตกใจ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution1.md)
 
 ### SUPPORT DEVELOPER - สนับสนุนยุทธปัจจัยผู้พัฒนา
 * [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/hoi4thai) :ramen:
