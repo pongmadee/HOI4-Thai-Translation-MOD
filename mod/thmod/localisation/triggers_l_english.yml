@@ -12,6 +12,8 @@
  TRIGGER_SKILL_ADVANTAGE_GREATER_THEN:0 "ความสามารถได้เปรียบสูงกว่า $VALUE|H$"
  TRIGGER_SKILL_ADVANTAGE_LESS_THEN:0 "ความสามารถได้เปรียบต่ำกว่า $VALUE|H$"
  TRIGGER_HAS_TRAIT:0 "มีคุณลักษณะ $NAME|H$"
+ TRIGGER_IS_NOT_IMPASSABLE:0 "Is not impassable"
+ TRIGGER_IS_IMPASSABLE:0 "Is impassable"
  TRIGGER_HAS_NOT_TRAIT:0 "ไม่มีคุณลักษณะ $NAME|H$"
  TRIGGER_CAN_SELECT_TRAIT_TRAIT:0 "สามารถเลือกคุณลักษณะ $NAME|H$"
  TRIGGER_CANNOT_SELECT_TRAIT_TRAIT:0 "ไม่สามารถเลือกคุณลักษณะ $NAME|H$"

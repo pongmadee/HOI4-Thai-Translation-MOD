@@ -108,7 +108,7 @@
  AGENCY_DEFENSE_LEVEL_DESC:0 "การต่อต้านหน่วยสืบราชการลับ ใช้เพื่อขัดขวางการปฏิบัติการของสายลับข้าศึก ยิ่งมีค่าสูงก็จะมีโอกาสที่คุณจะหยุดสายลับข้าศึกและยังช่วยยืดระยะเวลาในการปฏิบัติการกับประเทศของคุณ"
  CAN_RECRUITE_OPERATIVE:0 "§Gคลิก§! เพื่อสรรหาสายลับไปที่ช่องนี้"
  CANNOT_RECRUITE_OPERATIVE_NO_SLOT:0 "§Rไม่มีช่องว่างในการสรรหาสายลับ§!"
- CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:4 "You can get the first slot by building the intelligence agency. Other slots will be available after the 5th upgrade or after assigning §HIllusive Gentleman§! advisor.\nMore slots can be obtained as a spymaster for every second country joining your faction, excluding puppets."
+ CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "You can get the first slot by building the intelligence agency. Other slots will be available after the 5th upgrade or after assigning §HIllusive Gentleman§! advisor.\nAs a spymaster, more operative slots are unlocked by having more countries in your faction. Puppets or countries with very low factory counts do not contribute to more operative slots."
  CANNOT_RECRUITE_OPERATIVE_MAX_NUMBER: "The maximum number of operatives is $NUMBER|H$."
  CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED:0 "§Rสายลับกำลังฝึกและจะพร้อมใน $DAYS|H$ วัน§!"
  CANNOT_RECRUITE_OPERATIVE_AGENCY_IS_NOT_CREATED:0 "§Rยังไม่ได้ก่อตั้งสำนักข่าวกรอง§!"
