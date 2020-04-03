@@ -10,7 +10,7 @@ Hearts of Iron IV - Thai Translation MOD
  :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.9.0 "Husky" <br/>
  :heavy_check_mark: รองรับโหมด Ironman <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ Achievement <br/>
- :heavy_check_mark: รองรับ Multiplayer (ใช้ได้ยังไม่พบปัญหา) <br/>
+ :heavy_check_mark: รองรับโหมด Multiplayer <br/>
  :heavy_check_mark: เซฟเกมของม็อดทุกเวอร์ชั่นสามารถใช้ได้กับเซฟเกมเก่าได้ไม่มีปัญหา(ยกเว้นตัวเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.8 -> 1.9) <br/>
  :no_entry_sign: ไม่สามารถพิมพ์ชื่อประเทศหรือชื่อฝ่ายที่เป็นภาษาไทยในฟังก์ชันค้นหาได้ (พิมพ์ได้แต่ไม่เจอ) <br/>
 

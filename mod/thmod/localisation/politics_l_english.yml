@@ -8,7 +8,7 @@
  POLITICS_ELECTION_FREQUENCY:0 "การเลือกตั้งทุกๆ $MONTHS|H$ ปี"
  POLITICS_HOLD_ELECTION:0 "จัดการเลือกตั้งใน $COUNTRY$"
  POLITICS_NEXT_ELECTION:0 "การเลือกตั้งครั้งต่อไป $DATE$"
- POLITICS_ACTIVE_GOAL:0 "เริ่มใช้งานเป้าหมาย"
+ POLITICS_ACTIVE_GOAL:0 "เริ่มเปิดใช้งานตามเป้าหมาย"
  POLITICS_PARTY_NAME:0 "§H$KEY$ ($VAL$%)§!"
  POLITICS_IDEOLOGY:0 "§Tอุดมการณ์พรรค: $IDEOLOGY|H$§!"
  POLITICS_LEADER:0 "§Tหัวหน้าพรรค: $LEADER|H$§!"
