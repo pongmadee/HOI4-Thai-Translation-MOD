@@ -1716,7 +1716,7 @@
  SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT_INFO: "Customize the shortcut for toggling §HSpeech to Text§! on or off"
  CHAT_CVAA_MESSAGE: "$NAME$ says $MESSAGE$"
  CHAT_CVAA_SYSTEM_NAME: "System"
- MOD_VERSION:0 "Mod v0.90.4, Update 02/04/2020"
+ MOD_VERSION:0 "Mod v0.90.5, Update 06/04/2020"
  MOD_DEV_MSG:0 "ผู้พัฒนา: สำหรับทดสอบ เกมเวอร์ชัน Open Beta 1.9.1 ที่มี checksum : 3d42"
  MOD_SUPPORTERS:0 "ผู้สนับสนุน: n/a"
  MOD_TEST1DUMMY1:0 "dummy1"
