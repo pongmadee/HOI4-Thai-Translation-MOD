@@ -1213,7 +1213,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "designer_adjuster_entry"	
-		size = { width = 50 height = 50 }
+		size = { width = 50 height = 70 }
 		clipping = no
 
 		iconType = {
