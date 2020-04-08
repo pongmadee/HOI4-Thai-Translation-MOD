@@ -33,6 +33,7 @@
  alert_non_payed_license_delayed:0 "มีประเทศที่ไม่ให้ยืมโรงงานพลเรือนสำหรับการผลิต:\n$LIST$§Gคลิกขวาเพื่อปิด§!"
  alert_decision_new_instant:0 "§Hมีสิ่งที่ต้องตัดสินใจ§!"
  alert_decision_new_delayed:0 "การตัดสินใจครั้งต่อไปพร้อมที่จะดำเนินการ:\n$LIST$§Gคลิกขวาเพื่อปิด§!"
+ alert_decision_new_delayed_more:0 "...and $COUNT|H$ more."
  alert_decision_timeout_instant:0 "§Hเหตุการณ์หรือการตัดสินใจหมดเวลา§!"
  alert_decision_timeout_delayed:0 "เหตุการณ์และการตัดสินใจถัดไปกำลังจะหมดเวลา:\n$LIST$§Gคลิกขวาเพื่อปิด§!"
  TIMEOUT_ITEM_LOC:0 "$NAME|H$ (เหลือ $DAYS|H0$ §Hวัน§!)"

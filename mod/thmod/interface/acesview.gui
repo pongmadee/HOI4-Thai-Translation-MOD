@@ -57,7 +57,7 @@ guiTypes = {
 		}
 		instantTextboxType = {
 			name = "current_wing_name"
-			position = {x=236 y=60}
+			position = {x=236 y=67}
 			#font = "hoi_16mbs"
 			font = "mod_20b"
 			text = ""

@@ -341,6 +341,7 @@
  UNIT_CANT_MOVE_TO_OCCUPIED_NEUTRAL:0 "§Rไม่สามารถเคลื่อนไปยังที่ตั้ง§! ที่เป็นเจ้าของโดย $OWNER|Y$\nเราจำเป็นต้องถามเขาสำหรับ §Gการเข้าถึงทางทหาร§! ก่อน"
  DEMILITARIZED_ZONE:1 "เขตปลอดทหาร: §Rกองกำลังเข้าไม่ได้§!"
  PLAN_PREPARATION:0 "โบนัสแผนเตรียมการโจมตี: $VALUE|0Y%$ (สูงสุด: $MAX|0Y%$)"
+ PLAN_PREPARATION_FACTOR:0 "Plan preparation attack bonus factored by: $VALUE|0+%$"
  PLAN_PREPARATION_CHANGE:0 "การเตรียมการเพิ่มขึ้น $VALUE|1Y%$ ในทุกวัน"
  PLAN_PREPARATION_DESC:0 "ยูนิตที่ตำแหน่งเริ่มต้นของแผนจะเริ่มต้นรับโบนัสการเตรียมการ เมื่อพวกเขาเริ่มต่อสู้ตามแผนหรือเคลื่อนที่โบนัสนี้จะเริ่มลดลงอีกครั้ง"
  SELECT_HALF_DIVISIONS:0 "§Tเลือกครึ่งหนึ่งจากกองพลทั้งหมด§!"

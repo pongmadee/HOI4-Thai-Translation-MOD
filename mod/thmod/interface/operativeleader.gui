@@ -88,7 +88,7 @@ guiTypes = {
 			position = { x = 9 y = 47 }
 			spriteType = "GFX_group_add_operative_bg"
 			oversound = Spy_Map_Mode_Pointer_Over_Agent
-			clicksound = Spy_Map_Mode_Select_Agent
+			no_clicksound = yes
 		}
 
 		iconType = {
@@ -216,12 +216,12 @@ guiTypes = {
 			alwaystransparent = yes
 		}
 
-#		ButtonType = {
-#			name ="btn_disband"
-#			spriteType = "GFX_LG_disband_group_btn"	
-#			position = {x=63 y=44}
-#			clicksound = disband
-#		}
+		ButtonType = {
+			name ="dismiss_btn"
+			spriteType = "GFX_LG_disband_group_btn"	
+			position = {x=61 y=44}
+			clicksound = disband
+		}
 
 		instantTextboxType = {
 			name = "operative_skill_level"
@@ -247,6 +247,13 @@ guiTypes = {
 			alwaystransparent = no
 			scale = 0.33
 			clicksound = click_default
+		}
+
+		buttonType = {
+			name = "portrait_dismiss_btn"
+			position = {x=2 y=53}
+			spriteType = "GFX_NV_btn_delete"
+			scale = 0.85
 		}
 
 		iconType = {
@@ -300,6 +307,13 @@ guiTypes = {
 			position = {x=36 y=48}
 			quadTextureSprite ="GFX_leader_en_route"
 			alwaystransparent = yes
+		}
+
+		buttonType = {
+			name = "portrait_dismiss_btn"
+			position = {x=2 y=53}
+			spriteType = "GFX_NV_btn_delete"
+			scale = 0.85
 		}
 	}
 

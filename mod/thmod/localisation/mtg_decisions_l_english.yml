@@ -418,6 +418,7 @@
  won_british_civil_war:1 "Won a civil war less than one year ago.\n"
  ENG_abdication_crisis:1 "Edward VIII Abdication Crisis"
  ENG_abdication_crisis_changed_mind:1 "Edward VIII did not marry Wallis Simpson"
+ ENG_edward_viii_abdicated:0 "Edward VIII abdicated"
  LIT_move_capital_to_vilnius:0 "Move Capital to Vilnius"
  governments_in_exile:0 "Governments In Exile"
  governments_in_exile_desc:0 "Although their homelands are under enemy occupation, some brave soldiers and citizens are willing to continue the struggle. If we extend our recognition to friendly governments in exile, they can harness the resources of the expatriates, emigres and refugees, forming new units which will fight at our side."

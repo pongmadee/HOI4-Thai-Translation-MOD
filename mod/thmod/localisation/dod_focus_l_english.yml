@@ -134,6 +134,7 @@
  HUN_theoretical_air_efforts_desc:0 "We must spend ample resources on working out new theories regarding air warfare. If we go to war the theories that may be developed will be invaluable."
  HUN_bled_agreement:0 "Bled Agreement"
  HUN_bled_agreement_desc:0 "Small-scale secret re-armament will not suffice. We must reach out to our neighbors and request redress of the treaty imposed on us after the Great War. Hungary has an equal right to armament."
+ HUN_bled_agreement_custom_effect_tooltip:0 "Can lead to the replacement of the §HTreaty of Trianon§!."
  HUN_establish_the_air_force:0 "Establish the Air Force"
  HUN_establish_the_air_force_desc:0 "With legal restrictions now out of the way, it is time to officially establish the Hungarian air force."
  HUN_indigenous_designs:0 "Indigenous Designs"
