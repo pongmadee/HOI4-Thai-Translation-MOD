@@ -281,7 +281,8 @@ guiTypes = {
 			instantTextBoxType = {
 				name = "slider_description"
 				position = { x = -45 y = -37 }
-				font = "hoi_18mbs"
+				#font = "hoi_18mbs"
+				font = "mod_20b"
 				text = "DIPLOMACY_NUMBER_FOREIGN_MANPOWER_SENT"
 				maxWidth = 500
 				format = left
