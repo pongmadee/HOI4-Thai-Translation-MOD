@@ -1,4 +1,4 @@
-# HOI4 Thai Translation MOD [![GitHub release](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases) ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD?include_prereleases)
+# HOI4 Thai Translation MOD [![GitHub release](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases)
 Hearts of Iron IV - Thai Translation MOD
 
 #### :floppy_disk: [Download (Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=1729555797)
