@@ -4,5 +4,5 @@ tags={
 }
 name="Thai Translation MOD"
 picture="thmod.jpg"
-supported_version="1.9.1"
+supported_version="1.9.2"
 path="mod/thmod/"
