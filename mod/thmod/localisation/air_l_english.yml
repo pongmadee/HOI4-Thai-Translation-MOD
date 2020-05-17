@@ -281,7 +281,7 @@
  AIRWING_MIXED_MISSION_NIGHT:0 "ทำภารกิจในช่วง §Hกลางคืน§!"
  AIRWING_MIXED_MISSION_DAY_NIGHT:0 "ทำภารกิจทั้ง §Hกลางวัน§! และ §Hกลางคืน§!"
  AIRWING_STACK_INFO:0 "£wing_types_map|$ICONFRAME$ $TYPE$ $COUNT|H$"
- AIRWING_MAP_STACK_HEADER:0 "$TYPE|H$ $COUNT|H$ §Hฝูงบิน§!"
+ AIRWING_MAP_STACK_HEADER:0 "$TYPE|H$ $COUNT|H$ §Hกองบิน§!"
  AIRWING_STACK_INFO_MAP_ICON:0 "£wing_types_map|$ICONFRAME$ "
  AIRWING_AVERAGE_STR:0 "ความแข็งแกร่งเฉลี่ย: $VALUE|%0H$"
  AIRWING_STR:0 "ความแข็งแกร่ง: $VALUE|%0H$"

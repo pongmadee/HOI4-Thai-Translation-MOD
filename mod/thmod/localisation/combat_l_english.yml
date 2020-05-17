@@ -205,7 +205,7 @@
  DEFENDING:0 "ป้องกัน"
  COMBAT_OTHER_COMMANDER_DESC:0 "ได้รับคำสั่งจาก: $NAME|H$\nทักษะ: $SKILL|Y$"
  DIFFERENT_COMMANDER_DESC:0 "กองพลมีผู้บังคับบัญชาต่างจากผู้ที่กำลังนำการรบ ผู้บังคับบัญชานี้จะเป็นผู้ให้โบนัสยกเว้นยุทธวิธีที่เลือกในการต่อสู้ ซึ่งจะขึ้นอยู่กับผู้บังคับบัญชาของการต่อสู้นี้"
- LACK_OF_FUEL_DESC:1 "When a division is low on fuel, it will be slowed and its armored battalions will have their stats reduced."
+ LACK_OF_FUEL_DESC:1 "เมื่อกองพลมีเชื้อเพลิงน้อยจะทำให้เคลื่อนที่ช้าลงและทำให้กองพันยานเกราะมีค่าต่างๆลดลง"
  COMBAT_TRAIT_LIST_HEADER:0 "\n\nคุณลักษณะ: "
  COMBAT_DETAIL_TRAIT_NAME:0 "$NAME|H$"
  COMBAT_DETAIL_TRAIT_SEPARATOR:0 ", "

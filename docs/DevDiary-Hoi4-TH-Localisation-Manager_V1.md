@@ -88,6 +88,11 @@
 ## ปรับปรุงแก้ไขโปรแกรมเวอร์ชั่น 1.0.5
 เพิ่มรูปแบบพื้นฐาน (basic format) </br>
 
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชั่น (Flags) 1.0.6
+- 1.เพิ่ม field 'flags' เพื่อกำหนดสถานะของ records นั้นๆ </br>
+- 2.ย้ายข้อมูล Configuration ออกมายัง config.json โดยสมบูรณ์ </br>
+- 3.สามารถ Up/Download ข้อมูลใน spreadsheet ทั้งแบบกแยกและแบบทั้งหมดได้โดยสมบูรณ์ </br>
+
 ## ลักษณะรูปแบบการสั่งงาน
 จะเป็นการสั่งงานผ่าน console app (command line)
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1-menu_structure_flow.png">
