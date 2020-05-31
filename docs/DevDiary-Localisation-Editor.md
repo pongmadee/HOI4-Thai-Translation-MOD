@@ -1,7 +1,7 @@
 
 #### *บันทึกการพัฒนาแอพพลิเคชั่น Localisation-Editor
 
-<img src="images/LocalisationEditor_prototype1-s.png" width="100%">
+<img src="images/LocalisationEditor_prototype1-2.png" width="70%">
 
 ## จุดเริ่มต้นและที่มาของ Project นี้
 
@@ -26,9 +26,9 @@
 6. เชื่อมต่อกับ Google Sheets ได้ </br>
 
 
-<img src="images/LocalisationEditor_prototype1-2.png" width="70%"> </br> <img src="images/LocalisationEditor_prototype1.png" width="70%"> </br>
+<img src="images/LocalisationEditor_prototype1-s.png" width="100%"> </br></br>
 
-<img src="Hoi4-TH-Localisation-Manager-diagram-V1_4h.png" width="100%"> </br>
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_4h.png" width="100%"> </br>
 
 
 ## เครื่องมือที่ใช้
