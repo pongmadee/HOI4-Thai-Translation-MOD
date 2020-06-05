@@ -6,7 +6,7 @@ Hearts of Iron IV - Thai Translation MOD
 #### :page_with_curl: [วิธีติดตั้งม็อด](https://youtu.be/c_Kt8elBl3Y)
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.9.2 "Husky" <br/>
+ :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.9.3 "Husky" <br/>
  :heavy_check_mark: รองรับโหมด Ironman <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ Achievement <br/>
  :heavy_check_mark: รองรับโหมด Multiplayer <br/>
@@ -14,7 +14,7 @@ Hearts of Iron IV - Thai Translation MOD
  :no_entry_sign: ไม่สามารถพิมพ์ชื่อประเทศหรือชื่อฝ่ายที่เป็นภาษาไทยในฟังก์ชันค้นหาได้ (พิมพ์ได้แต่ไม่เจอ) <br/>
 
 ### FEATURES - คุณลักษณะเด่น
-- สามารถพิมพ์ไทยได้ ส่วนที่สามารถแก้ไขและบันทึกเป็นภาษาไทย ได้แก่ ชื่อกองพล, ชื่อกองทัพ, ชื่อหมู่กองทัพ, ยุทธบริเวณ, ชื่อเรือรบ, กองเรือเฉพาะกิจ, แม่แบบกองพล, ชื่อรุ่นโมเดลอาวุธ, ชื่อหน่วยสืบราชการลับ/หน่วยข่าวกรอง, รหัสประจำตัวสายลับ และ อื่นๆ <br/>
+- สามารถพิมพ์ไทยได้ ส่วนที่สามารถแก้ไขและบันทึกเป็นภาษาไทย ได้แก่ ชื่อกองพล, ชื่อกองทัพ, ชื่อหมู่กองทัพ, ยุทธบริเวณ, ชื่อเรือรบ, กองเรือเฉพาะกิจ, แม่แบบกองพล, ชื่อรุ่นโมเดลอาวุธ, ชื่อหน่วยสืบราชการลับ/หน่วยข่าวกรอง/องค์กรใต้ดิน/กลุ่มต่อต้าน, รหัสประจำตัวสายลับ และ อื่นๆ <br/>
 ![FEATURES](https://i.imgur.com/rt7yPQL.gif)
 
 - สามารถใช้ภาษาไทยในการค้นหายุทธศาสตร์ได้ <br/>
@@ -22,7 +22,7 @@ Hearts of Iron IV - Thai Translation MOD
 
 
 ### OFFICIAL SUBMODS - ม็อดย่อย
-- [Free Thai Movement - ขบวนการเสรีไทย](https://steamcommunity.com/sharedfiles/filedetails/?id=2039271466) เมื่อเลือกเล่นเป็นสยาม จะสามารถใช้ตราสัญลักษณ์เสรีไทย(ขบวนการเสรีไทย) ในการตั้งหน่วยข่าวกรองได้ <br/>
+- [ขบวนการเสรีไทย - Free Thai Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=2039271466) เมื่อเลือกเล่นเป็นสยาม จะสามารถใช้ตราสัญลักษณ์เสรีไทย(ขบวนการเสรีไทย) ในการตั้งหน่วยข่าวกรองได้ <br/>
     <img src="docs/images/free_thai_movement-p.png">
 
 ### PROGRESS & ROADMAP - ความคืบหน้า
@@ -43,7 +43,7 @@ Hearts of Iron IV - Thai Translation MOD
 ### TOOLS - เครื่องมือ
  * [Hoi4-TH-Localisation-Manager v1.0 (ปัจจุบันใช้ตัวนี้อยู่)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
  * [Hoi4-TH-Localisation-Manager v2.0 (กําลังพัฒนา)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V2.md)
- * [Localisation-Editor (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_4.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
+ * [Localisation-Editor (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_5.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
 
 
 ### TEAM WORK - ทีมงาน
