@@ -1,5 +1,5 @@
 
-#### *บันทึกการพัฒนาแอพพลิเคชั่น Localisation-Editor
+#### *บันทึกการพัฒนาแอพพลิเคชั่น Localisation Editor
 
 <img src="images/LocalisationEditor_prototype1.png" width="70%">
 
@@ -11,7 +11,7 @@
 1. ต้องการตัวแก้ไขข้อความ Text Editor สำหรับโครงงานนี้โดยเฉพาะ </br>
 2. ต้องการระบบค้นหาคำในฐานข้อมูลแบบเฉพาะเจาะจง (ตัวอย่าง ค้นหาคำในฐานข้อมูลเกมเวอร์ชัน v1.9.0) </br>
 3. การอํานวยความสะดวกในการแก้ไขข้อความ เช่น เน้นคำสำคัญให้เด่นขึ้น (ใช้ข้อความสี) </br>
-4. การพิมพ์ผิด </br>
+4. ต้องการระบบตรวจสอบคำที่พิมพ์ผิด </br>
 
 นี่จึงเป็นการดีที่เราจะสร้างตัวแก้ไขข้อความ (Localisation Editor) เพื่อแก้ปัญหาดังกล่าวและทำให้ระบบสมบูรณ์มากขึ้น</br>
 
@@ -20,14 +20,29 @@
 ## ฟังก์ชันหลักในโปรแกรม Localisation Editor
 1. แก้ไขข้อความ </br>
 2. ค้นหาข้อมูล </br>
-3. Syntax Highlighting </br>
-4. ทำงานร่วมกับ Hoi4-TH-Localisation-Manager ได้ </br>
-5. เชื่อมต่อกับฐานข้อมูลโดยตรง </br>
-6. เชื่อมต่อกับ Google Sheets ได้ </br>
+3. คำสำคัญให้เด่นขึ้น (Syntax Highlighting) </br>
+4. ตรวจสอบคำพิมพ์ผิด (Spell Checking) </br>
+5. ระบบแนะนำคำศัพท์ (Suggestions) </br>
+6. ทำงานร่วมกับ Hoi4-TH-Localisation-Manager ได้ </br>
+7. เชื่อมต่อกับฐานข้อมูลโดยตรง </br>
+8. เชื่อมต่อกับ Google Sheets ได้ </br>
 
-
+## Feature - Syntax Highlighting
 <img src="images/LocalisationEditor_prototype1-s.png" width="100%"> </br></br>
 
+## Feature - ตรวจสอบคำพิมพ์ผิด (Spell Checking)
+คำในพจนานุกรมภาษาไทยจาก
+ - LEXiTRON โดย NECTEC
+ - คำภาษาไทยที่ไม่รู้จักจาก NECTEC
+ - libthai data
+ - libreoffice
+<img src="images/LocalisationEditor_beta1_spellcheck1s.png" width="100%"> </br></br>
+
+## Feature - Suggestions
+ระบบแนะนำคำศัพท์
+<img src="images/LocalisationEditor_beta1_spellcheck2cmp.png" width="100%"> </br></br>
+
+## ผังการทำงาน
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_4h.png" width="100%"> </br>
 
 
@@ -36,3 +51,16 @@
  - C# WPF (ภาษาโปรแกรม)
  - Design pattern : MVVM
  - Visual Studio Community 2019
+
+ ## Library
+ - Material Design In XAML Toolkit
+ - Google APIs (Sheets)
+ - Hunspell
+ - AvalonEdit
+
+ ## เอกสารอ้างอิง
+ - http://lexitron.nectec.or.th/
+ - http://materialdesigninxaml.net/
+ - http://hunspell.github.io/
+ - https://github.com/icsharpcode/AvalonEdit
+ - https://developers.google.com/sheets/api
