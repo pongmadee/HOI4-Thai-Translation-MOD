@@ -58,7 +58,7 @@
  ENTRENCHMENT_INCREASE_BY_X_REACH_MAX_IN:0 " จะเพิ่มขึ้น $DELTA|0%Y$ ทุกวัน การขุดสนามเพลาะสูงสุดจะเสร็จใน $DAYS|Y$ วัน"
  ENTRENCHMENT_DESC:0 "ฐานสูงสุด: $BASE_MAX|Y$\n$MAX_MODIFIERS$\n\nฐานเพิ่ม: $BASE_GAIN|Y$\n$GAIN_MODIFIERS$"
  DIG_IN_DIVISION_MOD_DESC:0 "แม่แบบกองพล: $VALUE|=+$"
- DIG_IN_MOD_MULTI_DESC:0 "ตัวแปลงหลายๆแบบ:"
+ DIG_IN_MOD_MULTI_DESC:0 "การเปลี่ยนแปลงหลายๆแบบ:"
  MERGE_NAVIES_TOO_FEW:0 "§Rคุณสามารถรวมเรือได้เมื่อคุณเลือกมากกว่าหนึ่ง§!"
  MERGE_NAVIES_OTHER_NATION:0 "§Rคุณสามารถรวมเรือที่เป็นของคุณเท่านั้น§!"
  MERGE_NAVIES_IN_COMBAT:0 "§Rคุณไม่สามารถรวมเรือเมื่อหนึ่งในนั้นอยู่ในการต่อสู้§!"
