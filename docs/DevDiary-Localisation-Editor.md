@@ -20,30 +20,34 @@
 ## ฟังก์ชันหลักในโปรแกรม Localisation Editor
 1. แก้ไขข้อความ </br>
 2. ค้นหาข้อมูล </br>
-3. คำสำคัญให้เด่นขึ้น (Syntax Highlighting) </br>
+3. เน้นคำสำคัญให้เด่นชัดขึ้น (Syntax Highlighting) </br>
 4. ตรวจสอบคำพิมพ์ผิด (Spell Checking) </br>
 5. ระบบแนะนำคำศัพท์ (Suggestions) </br>
 6. ทำงานร่วมกับ Hoi4-TH-Localisation-Manager ได้ </br>
 7. เชื่อมต่อกับฐานข้อมูลโดยตรง </br>
 8. เชื่อมต่อกับ Google Sheets ได้ </br>
+9. สามารถเปลี่ยนขนาดตัวอักษรและชนิดตัวอักษรได้ </br>
 
-## Feature - Syntax Highlighting
+
+## Feature - เน้นคำสำคัญให้เด่นชัดขึ้น (Syntax Highlighting)
+- เปลี่ยนขนาดตัวอักษรและชนิดตัวอักษรได้ </br>
 <img src="images/LocalisationEditor_prototype1-s.png" width="100%"> </br></br>
 
 ## Feature - ตรวจสอบคำพิมพ์ผิด (Spell Checking)
 คำในพจนานุกรมภาษาไทยจาก
- - LEXiTRON โดย NECTEC
- - คำภาษาไทยที่ไม่รู้จักจาก NECTEC
+</br><img src="images/logo_nectec.png" width="10%"> <img src="images/logo_libreoffice.png" width="10%"></br>
+ - LEXiTRON โดย NECTEC สวทช.
+ - คำภาษาไทยที่ไม่รู้จักจาก NECTEC สวทช.
  - libthai data
  - libreoffice
 <img src="images/LocalisationEditor_beta1_spellcheck1s.png" width="100%"> </br></br>
 
-## Feature - Suggestions
+## Feature - แนะนำคำศัพท์ (Suggestions)
 ระบบแนะนำคำศัพท์
 <img src="images/LocalisationEditor_beta1_spellcheck2cmp.png" width="100%"> </br></br>
 
 ## ผังการทำงาน
-<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_4h.png" width="100%"> </br>
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_4h.png"> </br>
 
 
 
@@ -64,3 +68,5 @@
  - http://hunspell.github.io/
  - https://github.com/icsharpcode/AvalonEdit
  - https://developers.google.com/sheets/api
+ - https://hoi4.paradoxwikis.com/Localisation
+ - https://eu4.paradoxwikis.com/Localisation
