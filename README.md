@@ -38,7 +38,7 @@ Hearts of Iron IV - Thai Translation MOD
 * [ถ้าม็อดขึ้นเครื่องหมายตกใจ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution1.md)
 
 ### DONATIONS - สนับสนุนยุทธปัจจัยผู้พัฒนา
-* [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/hoi4thai) :ramen:
+* [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ(ตอนนี้ปิดใช้งานชั่วคราว)](https://www.patreon.com/pongmadee) :ramen:
 
 ### TOOLS - เครื่องมือ
  * [Hoi4-TH-Localisation-Manager v1.0 (ปัจจุบันใช้ตัวนี้อยู่)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
