@@ -62,6 +62,7 @@ Hearts of Iron IV - Thai Translation MOD
   - Thanatad Gladthed
   - Nattakit Hosapsin
   - ชวิศ พิภพโสภณชัย
+  - MadeeAI-Translator (ปัญญาประดิษฐ์)
 
 - Programmer - โปรแกรมเมอร์
   - [Pongmadee](https://github.com/pongmadee)
