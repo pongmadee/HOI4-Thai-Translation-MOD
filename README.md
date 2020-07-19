@@ -1,4 +1,4 @@
-# HOI4 Thai Translation MOD [![GitHub release](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases)  [![donations-patreon](https://img.shields.io/badge/donations-Patreon-f96854.svg?logo=patreon)](https://www.patreon.com/hoi4thai)
+# HOI4 Thai Translation MOD [![GitHub release](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases)  [![donations-patreon](https://img.shields.io/badge/donations-Patreon-f96854.svg?logo=patreon)](https://www.patreon.com/pongmadee)
 Hearts of Iron IV - Thai Translation MOD
 
 #### :floppy_disk: [Download (Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=1729555797)
@@ -43,7 +43,7 @@ Hearts of Iron IV - Thai Translation MOD
 ### TOOLS - เครื่องมือ
  * [Hoi4-TH-Localisation-Manager v1.0 (ปัจจุบันใช้ตัวนี้อยู่)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
  * [Hoi4-TH-Localisation-Manager v2.0 (กําลังพัฒนา)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V2.md)
- * [Localisation-Editor (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_5.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
+ * [Localisation-Editor (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_6.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
 
 
 ### TEAM WORK - ทีมงาน
