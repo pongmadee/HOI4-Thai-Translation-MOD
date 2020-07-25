@@ -26,8 +26,8 @@ Hearts of Iron IV - Thai Translation MOD
     <img src="docs/images/free_thai_movement-p.png">
 
 ### PROGRESS & ROADMAP - ความคืบหน้า
-* [แผนงานและรายละเอียดความคืบหน้าทั้งหมด](https://trello.com/b/JUbreJWk/hoi4-thai-translation-mod)
-* อัปเดตม็อดอย่างน้อยสัปดาห์ละ 1 - 2 ครั้งครับ
+* [แผนงานทั้งหมด](https://trello.com/b/JUbreJWk/hoi4-thai-translation-mod)
+* [รายละเอียดความคืบหน้าทั้งหมด](https://datastudio.google.com/reporting/50c7204d-1714-4d4a-9600-4873b9ae9c14)
 
 ### TRANSLATION - การแปล
 * [คำศัพท์ที่สำคัญเปรียบเทียบกับต้นฉบับภาษาอังกฤษ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/TranslationTable.md)
@@ -44,7 +44,7 @@ Hearts of Iron IV - Thai Translation MOD
  * [Hoi4-TH-Localisation-Manager v1.0 (ปัจจุบันใช้ตัวนี้อยู่)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
  * [Hoi4-TH-Localisation-Manager v2.0 (กําลังพัฒนา)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V2.md)
  * [Localisation-Editor (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md)
- * [MadeeAI-Translator (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_6.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
+ * [MadeeAI-Translator (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_7.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
 
 
 ### TEAM WORK - ทีมงาน
@@ -62,7 +62,7 @@ Hearts of Iron IV - Thai Translation MOD
   - Thanatad Gladthed
   - Nattakit Hosapsin
   - ชวิศ พิภพโสภณชัย
-  - MadeeAI-Translator (ปัญญาประดิษฐ์)
+  - [MadeeAI-Translator (ปัญญาประดิษฐ์)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md)
 
 - Programmer - โปรแกรมเมอร์
   - [Pongmadee](https://github.com/pongmadee)

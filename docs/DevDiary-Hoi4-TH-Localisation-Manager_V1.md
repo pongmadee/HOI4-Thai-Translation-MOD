@@ -93,7 +93,11 @@
 - 2.ย้ายข้อมูล Configuration ออกมายัง config.json โดยสมบูรณ์ </br>
 - 3.สามารถ Up/Download ข้อมูลใน spreadsheet ทั้งแบบกแยกและแบบทั้งหมดได้โดยสมบูรณ์ </br>
 
-<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_4.png" width="70%">
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_7.png" width="70%">
+
+## ส่วนขยายเพิ่มเติม 
+- [Localisation-Editor (โปรแกรมแก้ไข text)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md)</br>
+- [MadeeAI-Translator (ปัญญาประดิษฐ์ช่วยแปล)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md)</br>
 
 ## ลักษณะรูปแบบการสั่งงาน
 จะเป็นการสั่งงานผ่าน console app (command line)
