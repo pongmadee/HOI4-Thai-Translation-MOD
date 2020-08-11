@@ -106,7 +106,6 @@ me@console:~$ java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.
 - [MadeeAI-Translator (ปัญญาประดิษฐ์ช่วยแปล)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md)</br>
 
 ## ลักษณะรูปแบบการสั่งงาน
-จะเป็นการสั่งงานผ่าน console app (command line)
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1-menu_structure_flow.png" width="30%"> <img src="images/k8s_app2.jpg" width="30%"> <img src="images/k8s_app4.jpg" width="30%"> <img src="images/k8s_app5.jpg" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-V1-loclogs.png" width="30%">
 
 ## เอกสารอ้างอิง

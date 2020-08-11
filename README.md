@@ -44,7 +44,7 @@ Hearts of Iron IV - Thai Translation MOD
  * [Hoi4-TH-Localisation-Manager v1.0 (ปัจจุบันใช้ตัวนี้อยู่)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
  * [Hoi4-TH-Localisation-Manager v2.0 (กําลังพัฒนา)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V2.md)
  * [Localisation-Editor (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md)
- * [MadeeAI-Translator (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_7.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
+ * [MadeeAI-Translator (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
 
 
 ### TEAM WORK - ทีมงาน
