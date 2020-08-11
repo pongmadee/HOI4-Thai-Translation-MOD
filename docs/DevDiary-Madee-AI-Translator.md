@@ -1,5 +1,5 @@
 
-#### *บันทึกการพัฒนาแอพพลิเคชั่น Madee Artificial Intelligence Translator (Deep Learning)
+#### *บันทึกการพัฒนาแอปพลิเคชัน Madee Artificial Intelligence Translator (Deep Learning)
 
 ### ตัวอย่างโปรแกรม
 <img src="images/Madee-AI-Translator0.png">
@@ -35,7 +35,7 @@
 
 ## เครื่องมือที่ใช้
  - Python (ภาษาโปรแกรม)
- - Design pattern : n/a
+ - Design pattern : n/a , OOP
  - PyCharm
 
  ## Library

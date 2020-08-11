@@ -1,5 +1,5 @@
 
-#### *บันทึกการพัฒนาแอพพลิเคชั่น Localisation Editor
+#### *บันทึกการพัฒนาแอปพลิเคชัน Localisation Editor
 
 <img src="images/LocalisationEditor_prototype1.png" width="70%">
 
@@ -23,7 +23,7 @@
 3. เน้นคำสำคัญให้เด่นชัดขึ้น (Syntax Highlighting) </br>
 4. ตรวจสอบคำพิมพ์ผิด (Spell Checking) </br>
 5. ระบบแนะนำคำศัพท์ (Suggestions) </br>
-6. ทำงานร่วมกับ Hoi4-TH-Localisation-Manager ได้ </br>
+6. ทำงานร่วมกับ Localisation-Manager ได้ </br>
 7. เชื่อมต่อกับฐานข้อมูลโดยตรง </br>
 8. เชื่อมต่อกับ Google Sheets ได้ </br>
 9. สามารถเปลี่ยนขนาดตัวอักษรและชนิดตัวอักษรได้ </br>
@@ -49,6 +49,15 @@
 ## ผังการทำงาน
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_4h.png"> </br>
 
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1 (Beta1)
+- 1.สามารถสั่งงานโปรแกรม Localisation-Manager ได้โดยตรง </br>
+- 2.รองรับการใช้คีย์ลัด (keyboard) เช่น 'Ctrl + s' คือการบันทึกข้อมูล, กดปุ่ม Enter เมื่ออยู่ในหน้าต่างถามตอบ (Yes-No Dialog) จะเป็นการตอบตกลง เช่นเดียวกับการใช้เมาส์คลิกที่ปุ่ม 'Yes' แต่ถ้ากด 'Esc' จะเป็นการยกเลิกหรือปิดหน้าต่าง Dialog ดังกล่าว</br>
+- 3.เพิ่มหน้าสรุปจำนวนการแปล (Dashboard) </br>
+- 4.เพิ่มเมนูคำสั่ง Build เมื่อกดปุ่มดังกล่าว โปรแกรมจะไปสั่งงาน Localisation-Manager ให้ทำการสร้างม็อด </br>
+- 5.ทำ Highligh ใน DataGrid แถวที่แปลแล้วหรือเป็นไปตามค่า flag ในแถวนั้นๆ
+- 6.เพิ่มชุดปุ่มเลือกหน้าของ DataGrid
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png"> </br>
+<img src="images/LocalisationEditor_v1.1_beta1.png"> </br>
 
 
 ## เครื่องมือที่ใช้

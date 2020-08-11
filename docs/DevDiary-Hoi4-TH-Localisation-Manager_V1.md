@@ -1,5 +1,5 @@
 
-#### *บันทึกการพัฒนาแอพพลิเคชั่น Hoi4-TH-Localisation-Manager V1
+#### *บันทึกการพัฒนาแอปพลิเคชัน Hoi4-TH-Localisation-Manager V1
 
 
 ## จุดเริ่มต้นและที่มาของ Project นี้
@@ -56,7 +56,7 @@
 ฐานข้อมูลใน Google Sheet และ ฐานข้อมูลออฟไลน์/คลาวด์บน K8s Cluster</br>
 <img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/k8s_app1.jpg" width="30%"> <img src="images/k8s_app3.jpg" width="30%"> <img src="images/k8s_app6.jpg" width="30%">
 
-## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0.3 (JSON feature)
+## ผังการทำงานโปรแกรมเวอร์ชัน 1.0.3 (JSON feature)
 - 1.เพิ่มในส่วนที่เกี่ยวกับการตั้งค่า Configuration คือจะแยกในส่วนนี้ออกมาเป็นไฟล์ text (*.Json)ภายนอกแล้วโหลดตอนเปิดโปรแกรม เนื่องจากโดยปกติเวลาม็อดขึ้นเวอร์ชั่นใหม่จะต้องแก้ code ใหม่และทำการ compile โปรแกรมใหม่ทุกครั้ง </br>
 - 2.สามารถเพิ่มข้อมูลใหม่ผ่านไฟล์ json ได้</br>
 ตัวอย่างไฟล์ config.json
@@ -82,18 +82,24 @@
 
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_3.png" width="70%">
 
-## ปรับปรุงแก้ไขโปรแกรมเวอร์ชั่น 1.0.4 (Hotfix)
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.0.4 (Hotfix)
 แก้บัคและเพิ่มประสิทธิภาพของ Lexical Analyzer </br>
 
-## ปรับปรุงแก้ไขโปรแกรมเวอร์ชั่น 1.0.5
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.0.5
 เพิ่มรูปแบบพื้นฐาน (basic format) </br>
 
-## ปรับปรุงแก้ไขโปรแกรมเวอร์ชั่น 1.0.6 (Flags)
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.0.6 (Flags)
 - 1.เพิ่ม field 'flags' เพื่อกำหนดสถานะของ records นั้นๆ </br>
 - 2.ย้ายข้อมูล Configuration ออกมายัง config.json โดยสมบูรณ์ </br>
 - 3.สามารถ Up/Download ข้อมูลใน spreadsheet ทั้งแบบกแยกและแบบทั้งหมดได้โดยสมบูรณ์ </br>
 
-<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_7.png" width="70%">
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชั่น 1.1.0 (Quick Command/Command-Line Arguments)
+รองรับการสั่งงานผ่าน Terminal/Command-Line ด้วยคำสั่งเพียงคำสั่งเดียว เช่น
+ ```console
+me@console:~$ kubectl exec -it hoi4thloc-manager-pod -- sh -c "java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.3.env-k8s.json"
+me@console:~$ java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.3.env-win.json
+```
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png" width="70%">
 
 ## ส่วนขยายเพิ่มเติม 
 - [Localisation-Editor (โปรแกรมแก้ไข text)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md)</br>
@@ -101,11 +107,7 @@
 
 ## ลักษณะรูปแบบการสั่งงาน
 จะเป็นการสั่งงานผ่าน console app (command line)
-<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1-menu_structure_flow.png">
-<img src="images/k8s_app2.jpg">
-<img src="images/k8s_app4.jpg">
-<img src="images/k8s_app5.jpg">
-<img src="images/Hoi4-TH-Localisation-Manager-V1-loclogs.png">
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1-menu_structure_flow.png" width="30%"> <img src="images/k8s_app2.jpg" width="30%"> <img src="images/k8s_app4.jpg" width="30%"> <img src="images/k8s_app5.jpg" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-V1-loclogs.png" width="30%">
 
 ## เอกสารอ้างอิง
 - https://docs.oracle.com/javase/tutorial/
