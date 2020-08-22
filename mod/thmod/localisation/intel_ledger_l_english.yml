@@ -84,7 +84,7 @@
  INTEL_LEDGER_FACTORIES_USED_IN_EQUIPMENT:0 "โรงงานทหารที่ใช้ในการผลิตยุทโธปกรณ์ทางทหาร: $RANGE|H%.0$"
  INTEL_LEDGER_FACTORIES_USED_IN_ARMOR:0 "โรงงานทหารที่ใช้ในการผลิตยุทโธปกรณ์ยานเกราะ: $RANGE|H%.0$"
  INTEL_LEDGER_FACTORIES_USED_IN_AIR:0 "โรงงานทหารที่ใช้ในการผลิตเครื่องบิน: $RANGE|H%.0$"
- INTEL_LEDGER_FACTORIES_USED_IN_CAPITAL_SHIPS:0 "อู่ต่อเรือที่ใช้ในการผลิตเรือรบขนาดใหญ่: $RANGE|H%.0$"
+ INTEL_LEDGER_FACTORIES_USED_IN_CAPITAL_SHIPS:0 "อู่ต่อเรือที่ใช้ในการผลิตเรือรบหลัก: $RANGE|H%.0$"
  INTEL_LEDGER_FACTORIES_USED_IN_SCREEN_SHIPS:0 "อู่ต่อเรือที่ใช้ในการผลิตเรือคุ้มกัน: $RANGE|H%.0$"
  INTEL_LEDGER_FACTORIES_USED_IN_OTHER_SHIPS:0 "อู่ต่อเรือที่ใช้ในการผลิตเรืออื่นๆ: $RANGE|H%.0$"
  MIN_INTEL_REQUIRED_FOR_IDEAS:0 "ต้องการข้อมูลข่าวกรองสำหรับการแสดงรัฐมนตรีและกฎหมาย: $MIN|H.0%$"

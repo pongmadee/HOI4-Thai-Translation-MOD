@@ -93,7 +93,7 @@
 - 2.ย้ายข้อมูล Configuration ออกมายัง config.json โดยสมบูรณ์ </br>
 - 3.สามารถ Up/Download ข้อมูลใน spreadsheet ทั้งแบบกแยกและแบบทั้งหมดได้โดยสมบูรณ์ </br>
 
-## ปรับปรุงแก้ไขโปรแกรมเวอร์ชั่น 1.1.0 (Quick Command/Command-Line Arguments)
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1.0 (Quick Command/Command-Line Arguments)
 รองรับการสั่งงานผ่าน Terminal/Command-Line ด้วยคำสั่งเพียงคำสั่งเดียว เช่น
  ```console
 me@console:~$ kubectl exec -it hoi4thloc-manager-pod -- sh -c "java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.3.env-k8s.json"
