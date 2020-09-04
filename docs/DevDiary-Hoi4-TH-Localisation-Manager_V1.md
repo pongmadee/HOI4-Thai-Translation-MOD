@@ -85,8 +85,8 @@
 ## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.0.4 (Hotfix)
 แก้บัคและเพิ่มประสิทธิภาพของ Lexical Analyzer </br>
 
-## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.0.5
-เพิ่มรูปแบบพื้นฐาน (basic format) </br>
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.0.5 (basic format)
+เพิ่มการรองรับ Localisation รูปแบบพื้นฐาน (basic format) </br>
 
 ## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.0.6 (Flags)
 - 1.เพิ่ม field 'flags' เพื่อกำหนดสถานะของ records นั้นๆ </br>
@@ -99,6 +99,10 @@
 me@console:~$ kubectl exec -it hoi4thloc-manager-pod -- sh -c "java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.3.env-k8s.json"
 me@console:~$ java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.3.env-win.json
 ```
+
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1.1 (Hotfix)
+แก้บัคโควต้า Sheets API (Google_Service_Exception ErrorCode:429)</br>
+
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png" width="70%">
 
 ## ส่วนขยายเพิ่มเติม 

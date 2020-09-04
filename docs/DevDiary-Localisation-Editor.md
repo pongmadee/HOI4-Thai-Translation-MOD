@@ -49,13 +49,15 @@
 ## ผังการทำงาน
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_4h.png"> </br>
 
-## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1 (Beta1)
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1 (Beta1)(Beta2)
 - 1.สามารถสั่งงานโปรแกรม Localisation-Manager ได้โดยตรง </br>
 - 2.รองรับการใช้คีย์ลัด (keyboard) เช่น 'Ctrl + s' คือการบันทึกข้อมูล, กดปุ่ม Enter เมื่ออยู่ในหน้าต่างถามตอบ (Yes-No Dialog) จะเป็นการตอบตกลง เช่นเดียวกับการใช้เมาส์คลิกที่ปุ่ม 'Yes' แต่ถ้ากด 'Esc' จะเป็นการยกเลิกหรือปิดหน้าต่าง Dialog ดังกล่าว</br>
 - 3.เพิ่มหน้าสรุปจำนวนการแปล (Dashboard) </br>
 - 4.เพิ่มเมนูคำสั่ง Build เมื่อกดปุ่มดังกล่าว โปรแกรมจะไปสั่งงาน Localisation-Manager ให้ทำการสร้างม็อด </br>
 - 5.ทำ Highligh ใน DataGrid แถวที่แปลแล้วหรือเป็นไปตามค่า flag ในแถวนั้นๆ </br>
 - 6.เพิ่มชุดปุ่มเลือกหน้าของ DataGrid </br>
+- 7.แก้บัคตรวจสอบคำพิมพ์ผิด (Beta2) </br>
+- 8.ปรับปรุงประสิทธิภาพโปรแกรม(Threading) (Beta2) </br>
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png"> </br>
 <img src="images/LocalisationEditor_v1.1_beta1.png"> </br>
 
