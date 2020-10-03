@@ -468,7 +468,7 @@
  idea_group_naval_desc:0 "Ideas and people that boost naval production and research"
  idea_group_electronics:0 "อิเล็กทรอนิกส์"
  idea_group_electronics_desc:0 "Ideas and people that boost production and research into electronics"
- idea_group_motorized:0 "เครื่องยนต์"
+ idea_group_motorized:0 "รถบรรทุก"
  idea_group_motorized_desc:0 "Ideas and people that boost production and research into motorized units"
  idea_group_rocketry:0 "วิทยาการจรวด"
  idea_group_rocketry_desc:0 "Ideas and people that boost production and research into rocketry"

@@ -103,6 +103,12 @@ me@console:~$ java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.
 ## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1.1 (Hotfix)
 แก้บัคโควต้า Sheets API (Google_Service_Exception ErrorCode:429)</br>
 
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.2.0 (Sheets APIs)
+- 1.เพิ่มระบบสร้างหรือลบชีตเองอัตโนมัติ </br>
+- 2.เพิ่มระบบจำกัดสิทธิ์ในการแก้ไขชีต </br>
+- 3.เพิ่มระบบจัดการรูปแบบแสดงผลในระดับ cell </br>
+- 4.รองรับสเปรดชีตได้มากกว่า 1 ไฟล์ (เพิ่มจำนวนชีตที่รองรับ > 5,000,000 cell) </br>
+
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png" width="70%">
 
 ## ส่วนขยายเพิ่มเติม 

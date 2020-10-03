@@ -49,7 +49,7 @@
 ## ผังการทำงาน
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_4h.png"> </br>
 
-## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1 (Beta1)(Beta2)
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1 (Beta1)(Beta2)(Beta3)
 - 1.สามารถสั่งงานโปรแกรม Localisation-Manager ได้โดยตรง </br>
 - 2.รองรับการใช้คีย์ลัด (keyboard) เช่น 'Ctrl + s' คือการบันทึกข้อมูล, กดปุ่ม Enter เมื่ออยู่ในหน้าต่างถามตอบ (Yes-No Dialog) จะเป็นการตอบตกลง เช่นเดียวกับการใช้เมาส์คลิกที่ปุ่ม 'Yes' แต่ถ้ากด 'Esc' จะเป็นการยกเลิกหรือปิดหน้าต่าง Dialog ดังกล่าว</br>
 - 3.เพิ่มหน้าสรุปจำนวนการแปล (Dashboard) </br>
@@ -58,6 +58,8 @@
 - 6.เพิ่มชุดปุ่มเลือกหน้าของ DataGrid </br>
 - 7.แก้บัคตรวจสอบคำพิมพ์ผิด (Beta2) </br>
 - 8.ปรับปรุงประสิทธิภาพโปรแกรม(Threading) (Beta2) </br>
+- 9.เพิ่ม Syntax Highlighting ของเกม Stellaris (Beta3) </br>
+- 10.เพิ่ม Syntax Highlighting ของเกม Crusader Kings III (Beta3) </br>
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png"> </br>
 <img src="images/LocalisationEditor_v1.1_beta1.png"> </br>
 
@@ -81,3 +83,5 @@
  - https://developers.google.com/sheets/api
  - https://hoi4.paradoxwikis.com/Localisation
  - https://eu4.paradoxwikis.com/Localisation
+ - https://stellaris.paradoxwikis.com/Localisation_modding
+ - https://ck3.paradoxwikis.com/Localisation
