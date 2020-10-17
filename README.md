@@ -6,7 +6,7 @@ Hearts of Iron IV - Thai Translation MOD
 #### :page_with_curl: [วิธีติดตั้งม็อด](https://youtu.be/c_Kt8elBl3Y)
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.9.3 "Husky" <br/>
+ :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.10.1 "Collie" <br/>
  :heavy_check_mark: รองรับโหมด Ironman <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ Achievement <br/>
  :heavy_check_mark: รองรับโหมด Multiplayer <br/>
