@@ -330,6 +330,7 @@
  TRIGGER_OWNER:0 "เจ้าของ"
  TRIGGER_CONTROLLER:0 "ผู้ควบคุม"
  TRIGGER_OCCUPIED:0 "ประเทศที่ถูกยึดครอง"
+ TRIGGER_FACTION_LEADER:0 "ผู้นำฝ่าย"
  or_clarification_tooltip:0 "หาก §Yไม่ใช่ข้อใดข้อหนึ่ง§! ข้างต้นเป็นจริง"
  TRIGGER_IS_ON_CONTINENT:1 "อยู่ใน $CONTINENT|H$"
  TRIGGER_IS_NOT_ON_CONTINENT:1 "ไม่อยู่ใน $CONTINENT|H$"

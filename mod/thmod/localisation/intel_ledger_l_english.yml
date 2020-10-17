@@ -185,6 +185,7 @@
  INTEL_THRESHOLD_HEADER_NAVY:0 "§Hรายงานข้อมูลข่าวกรองทัพเรือ:§!\n\n"
  NAVY_LEDGER_THRESHOLD_FUZZY_TOTAL_FLEET_COUNT:1 "จำนวนกองเรือทั้งหมดโดยประมาณ"
  NAVY_LEDGER_THRESHOLD_TOTAL_FLEET_COUNT:0 "จำนวนกองเรือ"
+ NAVY_LEDGER_THRESHOLD_FULL_SUPREMACY:0 "ไม่มีโทษต่อการครองน่านน้ำ"
  NAVY_LEDGER_THRESHOLD_FUZZY_TOTAL_TASKFORCE_COUNT:1 "จำนวนกองเรือเฉพาะกิจทั้งหมดโดยประมาณ"
  NAVY_LEDGER_THRESHOLD_TOTAL_TASKFORCE_COUNT:0 "จำนวนกองเรือเฉพาะกิจ"
  NAVY_LEDGER_THRESHOLD_FUZZY_TOTAL_SHIP_COUNT:1 "จำนวนเรือทั้งหมดโดยประมาณ"

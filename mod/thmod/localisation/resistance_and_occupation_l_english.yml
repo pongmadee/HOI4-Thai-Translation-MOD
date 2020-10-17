@@ -62,6 +62,7 @@
  forced_labor_occupation:1 "แรงงานบังคับ"
  harsh_quotas_occupation:1 "กฎเกณฑ์รุนแรง"
  brutally_oppressive_occupation:1 "กดขี่โหดร้าย"
+ reconciliation:0 "การประนีประนอม"
  COMPLIANCE_ADDITIONAL_DAILY_GAIN:0 "เพิ่มการเชื่อฟังรายวัน: $GAIN$"
  COMPLIANCE_GAIN_IS_DISABLED:0 "§Rปิดการเพิ่มการเชื่อฟัง§!"
  OCCUPIED_COUNTRY_CORE_COUNT_TOOLTIP:0 "ประเทศมีทั้งหมด $NUM_CORES|H$ รัฐแกนหลักและคุณกำลังควบคุม $NUM_CONTROLLED_CORES|H$ ของรัฐเหล่านั้น"

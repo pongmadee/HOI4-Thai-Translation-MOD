@@ -70,6 +70,7 @@
  AIRWING_REORG_ONE_BASE:1 "จัดการกองบินใหม่"
  AIRWING_NEW:0 "สร้างกองบินใหม่"
  AIRWING_NEW_BASE:0 "สร้างกองบินใหม่ที่ $BASE|H$"
+ AIRWING_NEW_BLOCKED:0 "§Rไม่สามารถสร้างกองบินได้ ไม่มีเครื่องบินในคลังสำรอง§!"
  AIRWING_NEW_NAME:0 "กองบินใหม่"
  AIRWING_DELETE:0 "ปลดกองบิน"
  AIRWING_CANEL_DEPLOYMENT:0 "ยกเลิก"
