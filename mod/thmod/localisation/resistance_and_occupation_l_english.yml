@@ -50,7 +50,7 @@
  OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:1 "การเปลี่ยนแปลงตอนนี้ §Rไม่§! ทำงาน มันจะเปิดใช้งานเมื่อ $TYPE|H$ มากกว่า $TO_ENABLE|%0H$ หรือเงื่อนไขต่อไปนี้เป็นที่พอใจ:"
  OCCUPATION_MODIFIERS_ON_ENABLE:0 "เอฟเฟกต์ต่อไปนี้จะมีผลเมื่อการเปลี่ยนแปลงเปิดใช้:"
  OCCUPATION_MODIFIERS_ON_DISABLE:0 "เอฟเฟกต์ต่อไปนี้จะมีผลเมื่อการเปลี่ยนแปลงปิดใช้:"
- OCCUPATION_MODIFIERS_TOOLTIP:0 "ตัวปรับเปลี่ยนต่อไปนี้จะมีผลในขณะที่การเปลี่ยนแปลงใช้งานอยู่:"
+ OCCUPATION_MODIFIERS_TOOLTIP:0 "การปรับเปลี่ยนต่อไปนี้จะมีผลในขณะที่การเปลี่ยนแปลงเปิดใช้งานอยู่:"
  no_garrison:1 "ไม่มีทหารรักษาการณ์"
  autonomous_occupation:1 "ปกครองตนเองในท้องถิ่น"
  foreign_civilian_oversight:1 "กำกับดูแลพลเรือน"

@@ -448,7 +448,7 @@
  NAV_MINES_EFFECT_ON_ENEMY:1 "  ความครอบคลุมของทุ่นระเบิดของศัตรูเพิ่มผลกระทบต่อปริมาณเรือของพวกเขา: $VALUE|%G=$"
  NAV_ENEMY_AIR_SUPERIORITY:1 "  การครองน่านฟ้าของศัตรูเพิ่มผลกระทบจำนวนเรือของพวกเขา: $VALUE|%=R$"
  NAV_SUPREMACY_INTEL:1 "§Rเรารู้น้อยเกินไปเกี่ยวกับภูมิภาคนี้!§!"
- NAV_SUPREMACY_INTEL_SCALED:1 "§RNaval Supremacy is scaled to $RATIO|%.0R$ because of low enemy intel§!"
+ NAV_SUPREMACY_INTEL_SCALED:1 "§Rการครองน่านน้ำ ถูกปรับเป็น $RATIO|%.0R$ เนื่องจากข้อมูลข่าวกรองของศัตรูมีต่ำ§!"
  INTEL_EFFICIENCY:0 "  ประสิทธิภาพข่าวกรอง: $VAL|%+$"
  NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH:1 " - $NAME|Y$ - เรามีการครองน่านน้ำเพียง $SUP|0%R$ แต่ว่าเราต้องการ $NEEDED|0%Y$"
  NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE:0 "\n§Rการครองน่านน้ำของกองทัพเรือไม่เพียงพอในภูมิภาค:§!\n"
