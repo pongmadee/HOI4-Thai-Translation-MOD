@@ -1,6 +1,8 @@
 # HOI4 Thai Translation MOD [![GitHub release](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases)  [![donations-patreon](https://img.shields.io/badge/donations-Patreon-f96854.svg?logo=patreon)](https://www.patreon.com/pongmadee)
 Hearts of Iron IV - Thai Translation MOD
 
+#### :rocket: [ม็อดสำหรับเกมเวอร์ชัน Open Beta 1.10.2](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/tree/beta)
+
 #### :floppy_disk: [Download (Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=1729555797)
 #### :floppy_disk: [Download (GitHub)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases) 
 #### :page_with_curl: [วิธีติดตั้งม็อด](https://youtu.be/c_Kt8elBl3Y)
