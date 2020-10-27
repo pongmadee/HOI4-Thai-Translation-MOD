@@ -1515,6 +1515,7 @@
  HOL_medium_tank_artillery_equipment_3_short:0 "PTH-6"
  POR_gw_tank_equipment_short:0 "CDC A"
  POR_gw_tank_equipment:0 "Carro de Combate A"
+ POR_light_tank_equipment_1: "Carro de Combate 1"
  POR_light_tank_equipment_1_short:0 "CDC-1"
  POR_light_tank_equipment_2:0 "Carro de Combate 2"
  POR_light_tank_equipment_2_short:0 "CDC-2"
