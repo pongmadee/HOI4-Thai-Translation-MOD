@@ -50,7 +50,7 @@
  EQUIPMENT_DIVISION_DESC:0 "แสดงให้เห็นว่าได้ส่งยุทโธปกรณ์ที่จำเป็นไปให้"
  DIVISION_IN_TEMPLATE_TRANSFER:0 "ขณะนี้กองพลกำลังจัดโครงสร้างใหม่จาก $OLD|H$ ไปแม่แบบ $NEW|H$ การปรับโครงสร้างจะเสร็จสมบูรณ์เมื่อมีการส่งมอบยุทโธปกรณ์ที่จำเป็นและยุทโธปกรณ์เก่าจะถูกส่งกลับไปยังคลัง"
  MANPOWER_MONTHLY_TOTAL:2 "กำลังคนที่ได้เพิ่มรายเดือน: $VALUE|^+1$($PERC|2%H$)\nการเติบโตของประชากรโดยรวม: $MAX|^2H$($FACTOR|2%H$ ของประชากรทั้งหมด)\n\nอัตราการเติบโตฐาน: $RATIO|%H$"
- MANPOWER_MODIFIER_APPLIED:0 "สิ่งที่แก้ไข:\n$MODIFIERS$"
+ MANPOWER_MODIFIER_APPLIED:0 "สิ่งที่เปลี่ยนแปลง:\n$MODIFIERS$"
  MANPOWER_MONTHLY_BASE:0 "จากฐาน: $VALUE|*Y0$"
  MANPOWER_MONTHLY_TECH_FACTOR:0 "จากเทคโนโลยี: $VALUE|+%$"
  MANPOWER_PROVINCE_TOOLTIP:0 "กำลังพล: $VAL|*Y$"

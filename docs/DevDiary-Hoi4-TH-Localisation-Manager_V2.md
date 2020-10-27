@@ -1,5 +1,5 @@
 
-#### *บันทึกการพัฒนาแอพพลิเคชั่น Hoi4-TH-Localisation-Manager V2
+#### *บันทึกการพัฒนาแอปพลิเคชัน Hoi4-TH-Localisation-Manager V2
 
 
 ## จุดเริ่มต้นและที่มาของ Project นี้

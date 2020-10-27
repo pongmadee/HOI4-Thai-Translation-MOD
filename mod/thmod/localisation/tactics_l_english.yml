@@ -9,7 +9,7 @@
  tactic_cc_attack:0 "โจมตีระยะประชิด"
  tactic_cc_defend:0 "ป้องกันระยะประชิด"
  tactic_cc_storm:0 "โจมตีรุนแรงระยะประชิด"
- tactic_cc_local_strong_point:0 "จุดแข็งในพิ้นที่"
+ tactic_cc_local_strong_point:0 "จุดแข็งในพื้นที่"
  tactic_cc_withdraw:0 "ถอนตัวระยะประชิด"
  tactic_encirclement:0 "โอบล้อม"
  tactic_delay:0 "ถ่วงเวลา"
