@@ -57,11 +57,11 @@
 | Level |	ระดับ	|  |
 | Logistics |	การส่งกำลังบำรุง	|
 | Manpower |	กำลังพล	|
-| Mechanized |	ยานเกราะ |	[link1](http://www.crma.ac.th/msdept/e_bookmsd2012/ms1001/datams1001/pdf/chapter2/chapter2_1.pdf) |
-| Mechanized Infantry |	ทหารราบยานเกราะ |	[link1](http://www.cdsd-rta.net/images/stories/APracticalGuide/2-Armor.pdf) |
-| Modifier |	ตัวแปลง |	
-| Motorized |	ยานยนต์ |	[link1](http://www.crma.ac.th/msdept/e_bookmsd2012/ms1001/datams1001/pdf/chapter2/chapter2_1.pdf) |
-| Motorized Infantry |	ทหารราบยานยนต์	|
+| Mechanized |	รถลำเลียงพลหุ้มเกราะ / ยานเกราะ |	[link1](http://www.crma.ac.th/msdept/e_bookmsd2012/ms1001/datams1001/pdf/chapter2/chapter2_1.pdf) |
+| Mechanized Infantry |	ทหารราบรถลำเลียงพลหุ้มเกราะ / ยานเกราะ |	[link1](http://www.cdsd-rta.net/images/stories/APracticalGuide/2-Armor.pdf) |
+| Modifier |	เปลี่ยนแปลง / ปรับเปลี่บน |	
+| Motorized |	รถบรรทุก |
+| Motorized Infantry |	ทหารราบรถบรรทุก	|
 | National Focus Tree |	ผังยุทธศาสตร์ชาติ |	
 | National Spirit |	จิตวิญญาณแห่งรัฐ	|
 | National Unity |	ความเป็นเอกภาพของชาติ	|
@@ -87,7 +87,7 @@
 | Shore Bombardment |	โจมตีชายฝั่ง	|
 | Silo |	ไซโล |	
 | Skill |	ทักษะ	|
-| Slot |	ช่อง	|
+| Slot |	ช่อง / ช่องใส่	|
 | Spy Master |	หัวหน้าสายลับ / ผู้นำสายลับ	|
 | Stats |	ข้อมูล |	น่าจะย่อมาจาก statistics |
 | Stability |	เสถียรภาพ	|

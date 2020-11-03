@@ -63,9 +63,13 @@
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png"> </br>
 <img src="images/LocalisationEditor_v1.1_beta1.png"> </br>
 
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.2 (Beta1)
+- 1.รองรับคำสั่งที่เกี่ยวกับ Google Sheets (upload,download,init...) </br>
+<img src="images/LocalisationEditor_v1.2_beta1.png"> </br>
+
 
 ## เครื่องมือที่ใช้
- - C# WPF (ภาษาโปรแกรม)
+ - C# WPF .NET Framework (ภาษาโปรแกรม)
  - Design pattern : MVVM
  - Visual Studio Community 2019
 
