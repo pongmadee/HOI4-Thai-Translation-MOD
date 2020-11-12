@@ -30,7 +30,7 @@
  RESEARCH_TECH_UNUSED:1 "§Gคลิกเพื่อทำการวิจัย§!\nภายใน 30 วันคุณสามารถเลือกการวิจัยใหม่เพื่อการวิจัย โดยไม่เสียเวลาในการวิจัย"
  RESEARCH_NO_LONGER_AVAILABLE:0 "$RESEARCH|H$\n§Rไม่สามารถใช้ได้อีก - จะถูกลบในวันถัดไป§!"
  RESEARCH_EQUIPMENT_HEADER:0 "ยุทโธปกรณ์"
- RESEARCH_UPGRADES_HEADER:0 "อัพเกรด"
+ RESEARCH_UPGRADES_HEADER:0 "อัปเกรด"
  RESEARCH_UNLOCKS_HEADER:0 "ปลดล็อค"
  RESEARCH_UNLOCKS_EQUIPMENT_HEADER:0 "§Tเปิดใช้งาน $EQUIPMENTS$§!"
  RESEARCH_UNLOCKS_EQUIPMENT_MODULES_HEADER:0 "§Tเปิดใช้งาน $MODULES$§!"

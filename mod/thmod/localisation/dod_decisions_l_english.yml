@@ -30,6 +30,7 @@
  GER_strength:0 "\n§Y[GER.GetName]§! claims: §G[?This.claim_strength_GER]§!"
  ITA_strength:0 "\n§Y[ITA.GetName]§! claims: §G[?This.claim_strength_ITA]§!"
  HUN_strength:0 "\n§Y[HUN.GetName]§! claims: §G[?This.claim_strength_HUN]§!"
+ newline_tt:0 "\n"
  romania_add_claims_tt:0 "\n§Y[Root.GetName]§! claim strength will increase by §G1§!"
  no_other_country_claimed_tt:0 "No other country invited to split Yugoslavia has a claim on §Y[This.GetName]§!"
  romania_total_claims_tt:0 "[This.GetRomanianStrengthinState][This.GetGermanStrengthinState][This.GetItalianStrengthinState][This.GetHungarianStrengthinState]"
@@ -54,3 +55,4 @@
  ROM_change_sides_to_commintern_desc:0 "Changes in our government have facilitated a change in our alignment in the war. By joining with the Communist International, our current “comrades” in this global conflict shall become confused as Romanian bullets find a new target."
  ROM_change_sides_to_axis:0 "Join the Axis"
  ROM_change_sides_to_axis_desc:0 "Changes in our government have facilitated a change in our alignment in the war. By joining with the Axis, our current “comrades” in this global conflict shall become confused as Romanian bullets find a new target."
+ ROM_present_ultimatum:0 "Present the Ultimatum"

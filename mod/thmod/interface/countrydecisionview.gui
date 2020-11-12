@@ -336,8 +336,8 @@ guiTypes = {
 			name = "name_text"
 			position = { x = 50 y = 8 }
 			textureFile = ""
-			#font = "hoi4_typewriter16"
-			font = "mod_22"
+			font = "hoi4_typewriter16"
+			#font = "mod_22"
 			borderSize = { x = 0 y = 0 }
 			text = "event name"
 			maxWidth = 450
@@ -660,7 +660,6 @@ guiTypes = {
 			name = "zoom_icon"
 			position = {x=462 y=4}
 			spriteType = "GFX_locator_item_icon"
-			alwaystransparent = yes
 		}
 	}
 }

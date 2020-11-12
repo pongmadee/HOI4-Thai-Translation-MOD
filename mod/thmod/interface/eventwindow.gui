@@ -71,7 +71,7 @@ guiTypes = {
 				name = "Description"
 				position = { x = 31 y = 0 }
 				#font = "mod_16"
-				font = "mod_18"
+				font = "hoi4_typewriter16"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
 				maxWidth = 512
@@ -275,8 +275,8 @@ guiTypes = {
 			instantTextBoxType = {
 				name = "Description"
 				position = { x = 70 y = 150 }
-				#font = "hoi4_typewriter16"
-				font = "mod_20"
+				font = "hoi4_typewriter16"
+				#font = "mod_20"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
 				maxWidth = 400
@@ -419,7 +419,7 @@ guiTypes = {
 				name = "Description"
 				position = { x = 198 y = 0 }
 				#font = "mod_16"
-				font = "mod_18"
+				font = "hoi4_typewriter16"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
 				maxWidth = 350
@@ -539,7 +539,7 @@ guiTypes = {
 				name = "Description"
 				position = { x = 39 y = 170 }
 				#font = "mod_16"
-				font = "mod_18"
+				font = "hoi4_typewriter16"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
 				maxWidth = 460

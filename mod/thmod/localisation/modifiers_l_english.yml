@@ -1061,7 +1061,7 @@
  operation_risk:0 "ความเสี่ยงปฏิบัติการ"
  operation_cost:0 "ค่าใช้จ่ายปฏิบัติการ"
  operation_outcome:0 "ประสิทธิภาพปฏิบัติการ"
- MODIFIER_AGENCY_UPGRADE_TIME:0 "เวลาในการอัพเกรดองค์กร"
+ MODIFIER_AGENCY_UPGRADE_TIME:0 "เวลาในการอัปเกรดองค์กร"
  MODIFIER_CIVILIAN_INTEL_DECRYPTION_BONUS:0 "โบนัสถอดรหัสพลเรือน: $VALUE$"
  MODIFIER_ARMY_INTEL_DECRYPTION_BONUS:0 "โบนัสถอดรหัสทัพบก: $VALUE$"
  MODIFIER_NAVY_INTEL_DECRYPTION_BONUS:0 "โบนัสถอดรหัสทัพเรือ: $VALUE$"

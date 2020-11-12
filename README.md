@@ -1,17 +1,15 @@
 # HOI4 Thai Translation MOD [![GitHub release](https://img.shields.io/github/v/release/pongmadee/HOI4-Thai-Translation-MOD)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases)  [![donations-patreon](https://img.shields.io/badge/donations-Patreon-f96854.svg?logo=patreon)](https://www.patreon.com/pongmadee)
 Hearts of Iron IV - Thai Translation MOD
 
-#### :rocket: [ม็อดสำหรับเกมเวอร์ชัน Open Beta 1.10.2](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/tree/beta)
 
 #### :floppy_disk: [Download (Steam Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=1729555797)
 #### :floppy_disk: [Download (GitHub)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/releases) 
 #### :page_with_curl: [วิธีติดตั้งม็อด](https://youtu.be/c_Kt8elBl3Y)
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับถึงเกมเวอร์ชัน 1.10.1 "Collie" <br/>
- :heavy_check_mark: รองรับโหมด Ironman <br/>
- :heavy_check_mark: รองรับรางวัลความสำเร็จ Achievement <br/>
- :heavy_check_mark: รองรับโหมด Multiplayer <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 1.10.2 "Collie" <br/>
+ :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
+ :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
  :heavy_check_mark: เซฟเกมของม็อดทุกเวอร์ชั่นสามารถใช้ได้กับเซฟเกมเก่าได้ไม่มีปัญหา(ยกเว้นตัวเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.8 -> 1.9) <br/>
  :no_entry_sign: ไม่สามารถพิมพ์ชื่อประเทศหรือชื่อฝ่ายที่เป็นภาษาไทยในฟังก์ชันค้นหาได้ (พิมพ์ได้แต่ไม่เจอ) <br/>
 
@@ -43,10 +41,10 @@ Hearts of Iron IV - Thai Translation MOD
 * [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/pongmadee) :ramen:
 
 ### TOOLS - เครื่องมือ
- * [Hoi4-TH-Localisation-Manager v1.0 (ปัจจุบันใช้ตัวนี้อยู่)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
+ * [Hoi4-TH-Localisation-Manager v1.0](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V1.md)
  * [Hoi4-TH-Localisation-Manager v2.0 (กําลังพัฒนา)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Hoi4-TH-Localisation-Manager_V2.md)
- * [Localisation-Editor (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md)
- * [MadeeAI-Translator (กําลังพัฒนาและใช้งาน)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
+ * [Localisation-Editor](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md)
+ * [MadeeAI-Translator](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md) </br> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png" width="70%"> <img src="docs/images/Hoi4-TH-Localisation-Manager-diagram-V2_d1.png" width="70%">
 
 
 ### TEAM WORK - ทีมงาน
