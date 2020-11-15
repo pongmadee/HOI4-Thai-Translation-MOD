@@ -51,7 +51,7 @@
  EFFECT_SET_STABILITY:0 "ตั้งค่าฐานของเสถียรภาพเป็น: $VAL|H%$"
  EFFECT_ADD_WAR_SUPPORT:0 "ได้รับค่าฐานการสนับสนุนสงคราม: $VAL|+=%$"
  EFFECT_SET_WAR_SUPPORT:0 "ตั้งค่าฐานการสนับสนุนสงครามเป็น: $VAL|H%$"
- EFFECT_REMOVE_WARGOAL:0 "Remove war goal $NAME|UY$ on $COUNTRY|Y$."
+ EFFECT_REMOVE_WARGOAL:0 "ลบเป้าหมายสงคราม $NAME|UY$ กับ $COUNTRY|Y$"
  EFFECT_DECLARE_WAR:1 "$NAME|UY$ประกาศสงครามกับ$COUNTRY|Y$"
  EFFECT_END_PUPPET:1 "$NAME|UY$ยกเลิกรัฐหุ่นเชิดจาก$COUNTRY|Y$"
  EFFECT_MANPOWER_ADD_COUNTRY:0 "กำลังพล: $VAL|+=0$"
