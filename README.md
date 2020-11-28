@@ -36,6 +36,7 @@ Hearts of Iron IV - Thai Translation MOD
 * [คลิบวิธีดาวน์โหลดและติดตั้งม็อดแบบละเอียด](https://youtu.be/c_Kt8elBl3Y)
 * [วิธีดาวน์โหลดม็อดและเปิดม็อด (Steam Workshop)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/EnabledMod.md)
 * [ถ้าม็อดขึ้นเครื่องหมายตกใจ](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution1.md)
+* [ถ้าติดตั้งและเปิดม็อดแล้วเข้าเกมผ่าน launcher แล้วม็อดยังไม่ทำงาน](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/Solution2.md)
 
 ### DONATIONS - สนับสนุนยุทธปัจจัยผู้พัฒนา
 * [เล่นแล้วชอบ ถูกใจ สามารถสนับสนุนยุทธปัจจัยค่าไฟ,ค่ามาม่าผู้พัฒนาได้ครับผ่านทาง Patreon ขอบคุณครับ](https://www.patreon.com/pongmadee) :ramen:
