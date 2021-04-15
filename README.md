@@ -7,7 +7,7 @@ Hearts of Iron IV - Thai Translation MOD
 #### :page_with_curl: [วิธีติดตั้งม็อด](https://youtu.be/c_Kt8elBl3Y)
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 1.10.4 "Collie" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 1.10.5 "Collie" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
  :heavy_check_mark: เซฟเกมของม็อดทุกเวอร์ชั่นสามารถใช้ได้กับเซฟเกมเก่าได้ไม่มีปัญหา(ยกเว้นตัวเกมหลักมีการอัปเดตเวอร์ชัน(หลัก)เช่น 1.8 -> 1.9) <br/>
