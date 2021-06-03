@@ -308,3 +308,4 @@
  CUSTOM_EFFECT_CREATE_FAKE_ARMIES:0 "จะสร้างยูนิตปลอมที่สามารถใช้ในการหลอกลวงศัตรูของคุณ"
  CUSTOM_EFFECT_CREATE_FAKE_ARMIES_RESULT:0 "สร้าง [?num_to_create|.0H] ยูนิตปลอมที่สามารถใช้ในการหลอกลวงศัตรูของคุณ"
  EFFECT_ADD_CIVIL_WAR_TARGET:0 "พิจารณา $COUNTRY$ เป็นกบฏในสงครามกลางเมือง"
+ if_they_accept_tt:0 "\n§Yผลเมื่อพวกเขายอมรับ:§!"

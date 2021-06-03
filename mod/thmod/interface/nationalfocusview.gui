@@ -673,6 +673,7 @@ guiTypes = {
 			maxWidth = 450
 			maxHeight = 30
 			format = center		
+			fixedsize = yes
 		}
 		iconType = {
 			name = "symbol"

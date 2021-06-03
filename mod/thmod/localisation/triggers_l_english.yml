@@ -702,3 +702,4 @@
  TRIGGER_IS_OPERATION:0 "เป็นปฏิบัติการ $OPERATION|H$"
  TRIGGER_NUM_RESEARCHED_TECHS_MORE_THAN:0 "มีมากกว่า $AMOUNT|H$ เทคโนโลยีที่วิจัยไปแล้ว"
  TRIGGER_NUM_RESEARCHED_TECHS_LESS_THAN:0 "มีน้อยกว่า $AMOUNT|H$ เทคโนโลยีที่วิจัยไปแล้ว"
+ french_communist_civil_war_intervention_tt:0 "ทั้งสองข้อต่อไปนี้เป็นจริง:\n    อยู่ในภาวะสงคราม\n    ไม่เข้าแทรกแซงในสงครามกลางเมืองสเปน"
