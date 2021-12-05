@@ -1,8 +1,8 @@
-version="0.91"
+version="0.92"
 tags={
 	"Translation"
 }
 name="Thai Translation MOD"
 picture="thumbnail.jpg"
-supported_version="1.10.8"
+supported_version="1.11.*"
 path="mod/thmod/"
