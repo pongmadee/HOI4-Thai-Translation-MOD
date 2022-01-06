@@ -22,7 +22,7 @@
  MAPMODE_SUPPLY_AREAS_DESCRIPTION:0 "แสดงพื้นที่ยุทธปัจจัยและข้อมูลเกี่ยวกับการไหลของยุทธปัจจัย ช่วยให้คุณสามารถระบุพื้นที่ที่มีปัญหาและคอขวด"
  MAPMODE_SUPPLY_MAP_MODE_NAME:0 "ยุทธปัจจัย"
  MAPMODE_SUPPLY_MAP_MODE:0 "โหมดแผนที่ §Hยุทธปัจจัย§!"
- MAPMODE_SUPPLY_MAP_MODE_DESCRIPTION:0 "TODO supply map mode desc"
+ MAPMODE_SUPPLY_MAP_MODE_DESCRIPTION:1 "Shows the current supply situation. Brighter greenish areas have more access to supply while purple have the least access. Areas where units suffer from bad supply currently go from §Yyellow§! to §Rred§!."
  MAPMODE_STRATEGIC_NAVY_NAME:0 "ยุทธศาสตร์กองทัพเรือ"
  MAPMODE_STRATEGIC_NAVY:0 "โหมดแผนที่ §Hยุทธศาสตร์กองทัพเรือ§!"
  MAPMODE_STRATEGIC_NAVY_DESCRIPTION:0 "แสดงพื้นที่ยุทธศาสตร์และช่วยให้คุณเห็นการปฏิบัติการของกองทัพเรือโดยกองเรือของคุณ \nภูมิภาคที่คุณมีอำนาจครองน่านน้ำจะแสดงด้วย §Gเขียว§!\nพื้นที่ลายทางสี §Rแดง§! อยู่นอกขอบเขตการปฏิบัติภารกิจของกองเรือที่เลือกในปัจจุบัน"

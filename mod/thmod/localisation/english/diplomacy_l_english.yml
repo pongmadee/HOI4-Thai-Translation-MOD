@@ -1305,7 +1305,7 @@
  DIPLOMACY_JOINED_WAR_EXTRA_CALLED_SINGLE:0 "\n$COUNTRY|UY$ also joins the war along with them."
  DIPLOMACY_JOINED_WAR_EXTRA_CALLED_ENTRY:0 "$COUNTRY|Y$"
  DIPLOMACY_JOINED_WAR_EXTRA_CALLED_FIRST_ENTRY:0 "$COUNTRY|YU$"
- DIPLOMACY_JOINED_WAR_EXTRA_CALLED_MULTIPLE:0 "\n$LIST$ also join the war along with them."
+ DIPLOMACY_JOINED_WAR_EXTRA_CALLED_MULTIPLE:0 "\n$LIST$ ต่างก็เข้าร่วมสงคราม"
  SOV_pressured_our_government:0 "Pressured our government"
  SOV_stirring_the_masses:0 "Stirring the masses"
  SOV_supported_china_good:0 "Supported China in the conflict"

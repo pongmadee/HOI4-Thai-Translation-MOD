@@ -292,7 +292,7 @@
  EQUIPMENT_MODULE_MISSING_DIRECT_REQUIREMENT_ENTRY:1 "- $MODULE|H$ in a $SLOT|H$ slot"
  EQUIPMENT_MODULE_CATEGORY_NOT_ALLOWED:1 "§RModules of category $CATEGORY|H$ are not allowed for the slot $SLOT|H$§!"
  DESIGNER_COMPOSITION_VALUE:0 "$TYPE$: $VALUE|%1Y$\n"
- DESIGNER_COMPOSITION_HEADER:0 "§YComposition§!\n"
+ DESIGNER_COMPOSITION_HEADER:0 "§Yองค์ประกอบ§!\n"
  DESIGNER_COMPOSITION_SPECIAL_HEADER:0 "\nIt also gets bonuses based on this:\n"
  DESIGNER_COMPOSITION_DELAYED:0 "The composition of a Division controls which bonuses are applied from advisors and commanders."
  EQUIPMENT_DESIGNER_BLUEPRINT_TYPE_NAME:0 "$TYPE|T$"

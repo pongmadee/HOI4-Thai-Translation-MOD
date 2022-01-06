@@ -13,7 +13,7 @@
  tooltip_escort_ships:0 "Escort Ships"
  MEX_focus_blue_water_navy:0 "Blue Water Navy"
  MEX_focus_blue_water_navy_desc:0 "Mexico has never been a naval power. In colonial times, our Spanish overlords needed all their ships to face the British. During the independence struggle and civil wars following it, all our attentions were focused inwards. After America overtook us and became a Great Power, there was no point trying to contest the seas. But perhaps in these turbulent times Mexico will need a powerful navy."
- tooltip_capital_ships:0 "Capital Ships"
+ tooltip_capital_ships:0 "เรือรบหลัก"
  MEX_focus_raiding_navy:0 "Raiding Navy"
  MEX_focus_raiding_navy_desc:0 "We can't hope to catch up with the major naval powers of the world in contesting the surface against battleships and carriers. We should instead try to interdict enemy troop transports before they arrive to protect Mexico from invasion."
  MEX_focus_heroic_military_college:0 "Heroic Military College"

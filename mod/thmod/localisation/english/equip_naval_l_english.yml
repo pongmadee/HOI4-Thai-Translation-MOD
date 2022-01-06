@@ -1111,5 +1111,5 @@
  YUG_destroyer_4_desc:0 "The Split was a heavy destroyer launched and completed in Yugoslavia. It was launched in 1943 but not completed until 1958, with a modified design. Its original design displaced 2,400 tons and was armed with five 140/56 Skoda guns in its main armament. Despite its size, it had excellent speed."
  YUG_light_cruiser_1:0 "Dalmacija Class"
  YUG_light_cruiser_1_desc:0 "The old German cruiser SMS Niobe was sold in 1925 to the young Royal Yugoslavian Navy and extensively rebuilt. Equipped with modern AA and the heaviest guns in the Navy, Dalmacija served primarily as a gunnery training ship."
- screen_ship:0 "Screens"
- capital_ship:0 "Capital Ships"
+ screen_ship:0 "เรือคุ้มกัน"
+ capital_ship:0 "เรือรบหลัก"

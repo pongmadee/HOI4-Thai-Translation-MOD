@@ -99,7 +99,7 @@
  EQUIPMENT_IN_GARRISON_HEADER:0 "ยุทโธปกรณ์ในกองทหารรักษาการณ์"
  EQUIPMENT_VARIANTS_TOGGLE_ON:0 "§Gคลิกเพื่อแสดงรายละเอียด§!"
  EQUIPMENT_VARIANTS_TOGGLE_OFF:0 "§Gคลิกเพื่อซ่อนรายละเอียด§!"
- CURRENT_EXPERIENCE_TOPBAR:1 "§TCurrent experience: $VALUE|Y2$§!\n\n"
+ CURRENT_EXPERIENCE_TOPBAR:1 "§Tประสบการณ์ปัจจุบัน: $VALUE|Y2$§!\n\n"
  EXPERIENCE_DAILY_GAIN_TOPBAR:0 "§Tเพิ่มขึ้นต่อวัน: $VALUE|Y2$§!\n"
  EXPERIENCE_FROM_ATTACHES:0 "ทูตทหารเราใน $COUNTRIES$ ให้ประสบการณ์กองทัพแก่เรา $XPSHARE|H%0$"
  RULES_TITLE:0 "§Hสรุปกฎ:§!"

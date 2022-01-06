@@ -120,7 +120,7 @@
  add_10_monarchy_tt:0 "Add §G10§! §YMonarchy Support§!"
  remove_15_monarchy_tt:0 "Remove §G15§! §YMonarchy Support§!"
  remove_10_monarchy_tt:0 "Remove §G10§! §YMonarchy Support§!"
- remove_20_monarchy_tt:0 "Remove §G10§! §YMonarchy Support§!"
+ remove_20_monarchy_tt:1 "Remove §G20§! §YMonarchy Support§!"
  has_monarchy_support_25_tt:0 "Has at least §Y25 Monarchy Support§!"
  has_monarchy_support_80_tt:0 "Has at least §Y80 Monarchy Support§!"
  has_monarchy_support_1_tt:0 "Has at least §Y1 Monarchy Support§!"

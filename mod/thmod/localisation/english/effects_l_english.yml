@@ -88,7 +88,7 @@
  EFFECT_ADD_TECH_BONUS_AHEAD_ONLY:2 "ลดค่าโทษวิจัยล่วงหน้าไป $USES$$AHEAD|G.1$ ปีสำหรับ: $LIST|Y$"
  EFFECT_ADD_TECH_BONUS_BONUS_ONLY:0 "โบนัสวิจัย $USES$$BONUS|%0+$ สำหรับ: $LIST|Y$"
  EFFECT_ADD_TECH_BONUS:1 "ลดค่าโทษวิจัยล่วงหน้าไป $AHEAD|.1G$ และให้โบนัสวิจัย $BONUS|%0+$ ใช้งานได้ $USES|H$ ครั้งถัดไปของการวิจัยเทคโนโลยีเหล่านี้: $LIST|H$"
- EFFECT_ADD_DOCTRINE_COST_REDUCTION:0 "$USES$$REDUCTION|G%.0$ Cost reduction for: $LIST|Y$."
+ EFFECT_ADD_DOCTRINE_COST_REDUCTION:0 "ลดค่าใช้จ่าย $USES$$REDUCTION|G%.0$ สำหรับ: $LIST|Y$"
  EFFECT_DEMILITARIZED_ZONE:0 "จะกลายเป็นเขตปลอดทหาร"
  EFFECT_NOT_DEMILITARIZED_ZONE:0 "จะไม่เป็นเขตปลอดทหารอีกต่อไป"
  EFFECT_ADD_RESEARCH_SLOT:0 "ได้รับช่องวิจัย $COUNT|G$ ช่อง"
