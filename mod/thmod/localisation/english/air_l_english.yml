@@ -364,7 +364,7 @@
  VOLUNTEER_AIR_WING_DESC:0 "กองบินอาสาสมัครที่ส่งถึง $TAG|H$ และใช้ $COUNT|H$/$CAP|H$ ความจุกองบินอาสาสมัคร"
  AIR_SUPPLY_VERY_LOW_SUPPLY:0 "§Rเราต้องการ $NEED|H1$ ยุทธปัจจัยมากในจุดยุทธศาสตร์นี้!§!"
  AIR_SUPPLY_LOW_SUPPLY:0 "§Rเราต้องการ $NEED|H1$ ยุทธปัจจัยมากในจุดยุทธศาสตร์นี้!§!"
- AIR_SUPPLY_NORMAL_SUPPLY:0 "§Gเราใช้ $VAL|H1$/$MAX|H1$ ยุทธปัจจัยในจุดยุทธศาสตร์นี้§!"
+ AIR_SUPPLY_NORMAL_SUPPLY:1 "§Gการส่งยุทธปัจจัยทางอากาศ สนับสนุนยุทธปัจจัย $VAL|H1$/$MAX|H1$ ในพื้นที่ยุทธศาสตร์นี้§!"
  AIR_MORE_GROUND_CREWS:0 "เพิ่มการสนับสนุนภารกิจภาคพื้น"
  AIR_MORE_GROUND_CREWS_CANCEL_DESC:0 "§Rยกเลิก§! เพิ่มประสิทธิภาพใน $NAME|H$"
  AIR_MORE_GROUND_CREWS_DESC:1 "ใช้ $VALUE|R1$£command_power  เพื่อเพิ่ม $VAL|+%.0$ ประสิทธิภาพใน $NAME|H$"

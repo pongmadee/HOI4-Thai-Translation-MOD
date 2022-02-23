@@ -823,6 +823,8 @@
  POL_proclaim_slavic_unity_desc:0 "With all Russian and Polish territory under our control, we stand to achieve what no Tsar has achieved before us. With the consent and approval of both Russians and Poles, we can proclaim the unification of the Slavic peoples."
  POL_niech_zyje_opor:0 "W imieniu Polski Podziemnej"
  POL_niech_zyje_opor_desc:0 "All throughout Poland there are whispers of rebellion and freedom. In our churches and in the underground, brave and patriotic Poles seek to restore an independent Polish state and with the right provocation and equipment, we may see Warsaw liberate herself!"
+ POL_niech_zyje_opor_no_mtg:0 "$POL_niech_zyje_opor$"
+ POL_niech_zyje_opor_no_mtg_desc:0 "$POL_niech_zyje_opor_desc$"
  POL_morges_pact:0 "Morges Pact"
  POL_morges_pact_desc:0 "With democracy restored in Poland, the ambitions of the Front Morges are almost complete. All that remains is to strengthen our relationship with France and restore the Franco-Polish alliance."
  POL_morges_economic_union:0 "Franco-Polish Economic Pact"

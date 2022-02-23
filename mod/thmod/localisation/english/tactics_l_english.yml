@@ -1,7 +1,7 @@
 ﻿l_english:
  TACTIC_ATTACKER:0 " (ผู้โจมตี)"
  TACTIC_DEFENDER:0 " (ผู้ป้องกัน)"
- TACTIC_DESC:0 "ผู้นำของแต่ละฝ่ายจะเลือกกลยุทธ์สำหรับการต่อสู้ที่จะส่งผลต่อวิธีการรบที่จะเผยออกมา ผู้นำที่มีทักษะสูงกว่าหรือการสอดแนมที่ดีกว่าจะมีโอกาสสูงกว่าในการเลือกกลยุทธ์ที่เหนือกว่าฝ่ายตรงข้าม"
+ TACTIC_DESC:0 "ผู้นำของแต่ละฝ่ายจะเลือกยุทธวิธีสำหรับการต่อสู้ที่จะส่งผลต่อวิธีการรบที่จะเผยออกมา ผู้นำที่มีทักษะสูงกว่าหรือการสอดแนมที่ดีกว่าจะมีโอกาสสูงกว่าในการเลือกยุทธวิธีที่เหนือกว่าฝ่ายตรงข้าม"
  tactic_basic_attack:0 "โจมตี"
  tactic_basic_defend:0 "ป้องกัน"
  tactic_counterattack:0 "โต้กลับ"
@@ -37,7 +37,7 @@
  tactic_attacker_hb_storm:0 "โหมโจมตีสะพาน"
  tactic_defender_hb_hold:0 "ครองสะพาน"
  tactic_defender_hb_skillful_defence:0 "ปกป้องสะพาน"
- tactic_guerrilla_tactics:0 "กลยุทธ์การรบแบบกองโจร"
+ tactic_guerrilla_tactics:0 "ยุทธวิธีการรบแบบกองโจร"
  tactic_human_wave_tactics:0 "ชาร์จขนาดใหญ่"
  tactic_banzai_charge:0 "บันไซชาร์จ"
  tactic_infantry_charge:0 "จู่โจมแทรกซึม"

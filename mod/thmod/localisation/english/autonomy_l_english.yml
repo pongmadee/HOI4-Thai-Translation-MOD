@@ -13,7 +13,7 @@
  autonomy_wtt_imperial_protectorate:0 "รัฐในอารักขาจักรวรรดิ"
  autonomy_wtt_imperial_subject:1 "รัฐบริวารจักรวรรดิ"
  autonomy_collaboration_government:0 "รัฐบาลร่วมมือ"
- autonomy_personal_union:0 "Personal Union"
+ autonomy_personal_union:0 "รัฐร่วมประมุข"
  AUTONOMY_CAN_TAKE_DESC:1 "$OWNER|UH$ สามารถกลายเป็น $NEXTLEVEL|H$ ได้"
  AUTONOMY_CANT_TAKE_DESC:1 "$OWNER|UH$ ไม่สามารถกลายเป็น $NEXTLEVEL|H$ ได้"
  AUTONOMY_CAN_LOSE_DESC:1 "$OWNER|UH$ สามารถลดลงเป็น $PREVLEVEL|H$ ได้"

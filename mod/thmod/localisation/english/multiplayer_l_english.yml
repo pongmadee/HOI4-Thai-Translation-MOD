@@ -146,7 +146,7 @@
  OOS_79:0 "Number of Railway Guns"
  OOS_80:0 "Local player country"
  OOS_81:0 "Debug"
- OOS_82:0 "Preferred Tactic"
+ OOS_82:0 "ยุทธวิธีที่ต้องการ"
  OOS_83:0 "Country Controllers"
  OOS_84:0 "Task Forces"
  MULTIPLAYER_PLAYERS:0 "$NUM$"

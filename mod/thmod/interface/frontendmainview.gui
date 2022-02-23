@@ -193,6 +193,11 @@ guiTypes = {
 		size = { width = 320 height = 395}
 		Orientation = CENTER
 		Origo = center		
+
+		positionType = {
+			name = "subscription_size"
+			position = { x = 320 y = 700 }
+		}
 				
 		background = {
 			name = "Background"		
@@ -229,28 +234,19 @@ guiTypes = {
 		instantTextBoxType = {
 
 			name ="version_label"
-			position = { x = 35 y = 342 }
+			position = { x = 35 y = 356 }
 			textureFile = ""
-			#font = "hoi_18b"
-			font = "mod_20b"
+			font = "hoi_18b"
 			borderSize = {x = 0 y = 0}
 			text = "ALPHA"	
 			format = centre
 			maxWidth = 250
 			maxHeight = 20	
 		}
-		
-		instantTextBoxType = {
 
-			name ="mod_version_label"
-			position = { x = 35 y = 360 }
-			textureFile = ""
-			font = "mod_20b"
-			borderSize = {x = 0 y = 0}
-			text = "MOD_VERSION"	
-			format = centre
-			maxWidth = 250
-			maxHeight = 20	
+		positionType = {
+			name = "version_label_subscription_position"
+			position = { x = 35 y = 484 }
 		}
 		
 		
@@ -264,10 +260,19 @@ guiTypes = {
 			oversound = ui_menu_over
 		}
 		
+		buttonType = {
+			name = "career_profile_button"
+			position = { x = 16 y = 138 }
+			quadTextureSprite ="GFX_main_lobby_button"
+			buttonText = "MENU_BAR_CAREER_PROFILE"
+			buttonFont = "hoi_24header"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
 
 		ButtonType = {
 			name = "credits_button"
-			position = {  x = 16 y = 138 }
+			position = {  x = 16 y = 178 }
 			quadTextureSprite ="GFX_main_lobby_button"	
 			buttonText = "FE_CREDITS"
 			buttonFont = "hoi_24header"
@@ -277,12 +282,11 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "nudge_button"
-			position = { x = 16 y = 178 }
+			position = { x = 16 y = 218 }
 			quadTextureSprite ="GFX_main_lobby_button"	
 			buttonText = "Nudge!"
 			buttonFont = "hoi_24header"
 		}
-		
 
 		ButtonType = {
 			name = "exit_button"
@@ -294,18 +298,111 @@ guiTypes = {
 			oversound = ui_menu_over
 			
 		}
+
+		iconType = {
+			name = "subscription_divider"
+			position = { x = 4 y = 296}
+			spriteType = "GFX_main_lobby_divider"
+		}
+
+		iconType = {
+			name = "mod_divider"
+			position = { x = 4 y = 510}
+			spriteType = "GFX_main_lobby_divider"
+		}
+
+		containerWindowType = {
+			name = "subscription_widget"
+			position = { x = 16 y = 312 }
+			size = { width = 288 height = 108 }
+
+			ButtonType = {
+				name = "show_subscription"
+				position = { x = 0 y = 0 }
+				quadTextureSprite ="GFX_subscription_widget"
+				buttonText = "SUBSCRIPTION_WIDGET"
+				buttonFont = "hoi_24header"
+				multiline = yes
+			}
+		}
+
+		containerWindowType = {
+			name = "subscription_widget_subscribed"
+			position = { x = 16 y = 312 }
+			size = { width = 288 height = 108 }
+
+			ButtonType = {
+				name = "show_subscription"
+				position = { x = 0 y = 0 }
+				quadTextureSprite ="GFX_subscription_widget_active"
+				frame = 1
+				buttonText = "SUBSCRIPTION_WIDGET_SUBSCRIBED"
+				buttonFont = "hoi_24header"
+				multiline = yes
+			}
+		}
+
+		instantTextBoxType = {
+
+			name ="mod_version_label"
+			position = { x = 35 y = 530 }
+			textureFile = ""
+			font = "mod_20b"
+			borderSize = {x = 0 y = 0}
+			text = "MOD_VERSION"	
+			format = centre
+			maxWidth = 250
+			maxHeight = 20	
+		}
+
+		instantTextBoxType = {
+
+			name ="dev_msg_label"
+			position = { x = 35 y = 560 }
+			textureFile = ""
+			font = "mod_20b"
+			borderSize = {x = 0 y = 0}
+			text = "MOD_DEV_MSG"	
+			format = left
+			maxWidth = 250
+			maxHeight = 20	
+		}
+
+		instantTextBoxType = {
+
+			name ="mod_supporters_label"
+			position = { x = 35 y = 620 }
+			textureFile = ""
+			font = "mod_20b"
+			borderSize = {x = 0 y = 0}
+			text = "MOD_SUPPORTERS"	
+			format = left
+			maxWidth = 250
+			maxHeight = 20	
+		}
+
 	}
 	
 	containerWindowType = {
 		name = "mainmenu_social_buttons"
 		position = { x=-50 y=25 }	
 		size = { width = 240 height = 90 }
-		Orientation = center_down	
-		origo = center_down
+		Orientation = center	
+		origo = center
 		
 		positionType = {
 			name = "position_without_social_gui"
-			position = { x = 0 y = 25 }
+			position = { x = 0 y = 155 }
+		}
+
+		positionType = {
+			name = "subscription_position"
+			position = { x = -50 y = 89 }
+		}
+
+		positionType = {
+			name = "subscription_position_without_social_gui"
+			position = { x = 0 y = 219 }
 		}
 		
 		containerWindowType = {
@@ -352,56 +449,17 @@ guiTypes = {
 				pdx_tooltip = "SOCIAL_NEW_FRIEND"
 			}
 		}
-
-		containerWindowType = {
-			name ="dev_panel_message"
-			position = { x=0 y =-93}
-			size = { width = 500 height = 100}
-			Orientation = CENTER
-			Origo = center		
-					
-			background = {
-				name = "Background"		
-				quadTextureSprite ="GFX_tiled_window"
-			}
-				
-			instantTextBoxType = {
-
-				name ="dev_msg_label"
-				position = { x = 0 y = 15 }
-				textureFile = ""
-				font = "mod_20b"
-				borderSize = {x = 20 y = 0}
-				text = "MOD_DEV_MSG"	
-				format = left
-				maxWidth = 500
-				maxHeight = 10	
-			}
-
-			instantTextBoxType = {
-
-				name ="mod_supporters_label"
-				position = { x = 0 y = 35 }
-				textureFile = ""
-				font = "mod_20b"
-				borderSize = {x = 20 y = 20}
-				text = "MOD_SUPPORTERS"	
-				format = left
-				maxWidth = 500
-				maxHeight = 100	
-			}
-		}
 		
 		ButtonType = {
 			name = "homepage_button"
-			position = { x=0 y=0 }
+			position = { x=0 y=-90 }
 			quadTextureSprite ="homepage"
 			clicksound = click_default
 			pdx_tooltip = "MENU_HOMEPAGE"
 		}
 		ButtonType = {
 			name = "forum_button"
-			position = { x=50 y=0 }
+			position = { x=50 y=-90 }
 			quadTextureSprite ="forum"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FORUM"
@@ -409,7 +467,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "facebook_button"
-			position = { x=100 y=0 }
+			position = { x=100 y=-90 }
 			quadTextureSprite ="facebook"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FACEBOOK"
@@ -417,7 +475,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "twitter_button"
-			position = { x=150 y=0 }
+			position = { x=150 y=-90 }
 			quadTextureSprite ="twitter"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_TWITTER"
@@ -425,7 +483,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "privacy_policy_button"
-			position = { x=200 y=0 }
+			position = { x=200 y=-90 }
 			quadTextureSprite ="privacy"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_PRIVACY_POLICY"

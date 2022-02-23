@@ -2633,7 +2633,7 @@
  modifier_tactic_infantry_charge_preferred_weight_factor:1 "Additional §YInfiltration Assault§! Tactic Chance if it is Preferred tactic"
  modifier_tactic_delay_preferred_weight_factor:1 "Additional §YDelay§! Tactic Chance if it is Preferred tactic"
  modifier_tactic_human_wave_tactics_preferred_weight_factor:1 "Additional §YMass Charge§! Tactic Chance if it is Preferred tactic"
- modifier_tactic_unexpected_thrust_preferred_weight_factor:1 "เพิ่มโอกาสใช้กลยุทธ์ §Yโจมตีแบบคาดไม่ถึง§! ถ้าเป็นกลยุทธ์ที่ต้องการ"
+ modifier_tactic_unexpected_thrust_preferred_weight_factor:1 "เพิ่มโอกาสใช้ยุทธวิธี §Yโจมตีแบบคาดไม่ถึง§! ถ้าเป็นยุทธวิธีที่ต้องการ"
  modifier_tactic_barrage_preferred_weight_factor:1 "Additional §YSuppressive Barrage§! Tactic Chance if it is Preferred tactic"
  modifier_tactic_planned_attack_preferred_weight_factor:1 "Additional §YWell Planned Attack§! Tactic Chance if it is Preferred tactic"
  modifier_tactic_relentless_assault_preferred_weight_factor:1 "Additional §YRelentless Assault§! Tactic Chance if it is Preferred tactic"
