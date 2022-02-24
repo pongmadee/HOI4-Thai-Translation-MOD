@@ -110,6 +110,7 @@
  CAREER_PROFILE_BUILT_RAILWAY_GUNS_LABEL: "Railway guns built"
  CAREER_PROFILE_BOMBED_TRAINS: "$VALUE|*$"
  CAREER_PROFILE_BOMBED_TRAINS_LABEL: "Trains bombed"
+ SAVE_CAREER_TO_CLOUD: "Save career profile to cloud"
  TOGETHER_FOR_VICTORY: "Together for Victory"
  DEATH_OR_DISHONOR: "Death or Dishonor"
  WAKING_THE_TIGER: "Waking the Tiger"

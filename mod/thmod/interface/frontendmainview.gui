@@ -196,7 +196,7 @@ guiTypes = {
 
 		positionType = {
 			name = "subscription_size"
-			position = { x = 320 y = 700 }
+			position = { x = 320 y = 523 }
 		}
 				
 		background = {
@@ -305,12 +305,6 @@ guiTypes = {
 			spriteType = "GFX_main_lobby_divider"
 		}
 
-		iconType = {
-			name = "mod_divider"
-			position = { x = 4 y = 510}
-			spriteType = "GFX_main_lobby_divider"
-		}
-
 		containerWindowType = {
 			name = "subscription_widget"
 			position = { x = 16 y = 312 }
@@ -341,46 +335,6 @@ guiTypes = {
 				multiline = yes
 			}
 		}
-
-		instantTextBoxType = {
-
-			name ="mod_version_label"
-			position = { x = 35 y = 530 }
-			textureFile = ""
-			font = "mod_20b"
-			borderSize = {x = 0 y = 0}
-			text = "MOD_VERSION"	
-			format = centre
-			maxWidth = 250
-			maxHeight = 20	
-		}
-
-		instantTextBoxType = {
-
-			name ="dev_msg_label"
-			position = { x = 35 y = 560 }
-			textureFile = ""
-			font = "mod_20b"
-			borderSize = {x = 0 y = 0}
-			text = "MOD_DEV_MSG"	
-			format = left
-			maxWidth = 250
-			maxHeight = 20	
-		}
-
-		instantTextBoxType = {
-
-			name ="mod_supporters_label"
-			position = { x = 35 y = 620 }
-			textureFile = ""
-			font = "mod_20b"
-			borderSize = {x = 0 y = 0}
-			text = "MOD_SUPPORTERS"	
-			format = left
-			maxWidth = 250
-			maxHeight = 20	
-		}
-
 	}
 	
 	containerWindowType = {
@@ -449,17 +403,69 @@ guiTypes = {
 				pdx_tooltip = "SOCIAL_NEW_FRIEND"
 			}
 		}
+
+		containerWindowType = {
+			name ="dev_panel_message"
+			position = { x=0 y =120}
+			size = { width = 500 height = 130}
+			Orientation = CENTER
+			Origo = center		
+					
+			background = {
+				name = "Background"		
+				quadTextureSprite ="GFX_tiled_window"
+			}
+
+			instantTextBoxType = {
+
+				name ="mod_ver_label"
+				position = { x = 0 y = 15 }
+				textureFile = ""
+				font = "mod_20b"
+				borderSize = {x = 20 y = 0}
+				text = "MOD_VERSION"	
+				format = center
+				maxWidth = 500
+				maxHeight = 10	
+			}
+				
+			instantTextBoxType = {
+
+				name ="dev_msg_label"
+				position = { x = 0 y = 15 }
+				textureFile = ""
+				font = "mod_20b"
+				borderSize = {x = 20 y = 25}
+				text = "MOD_DEV_MSG"	
+				format = left
+				maxWidth = 500
+				maxHeight = 10	
+			}
+
+			instantTextBoxType = {
+
+				name ="mod_supporters_label"
+				position = { x = 0 y = 35 }
+				textureFile = ""
+				font = "mod_20b"
+				borderSize = {x = 20 y = 30}
+				text = "MOD_SUPPORTERS"	
+				format = left
+				maxWidth = 500
+				maxHeight = 100	
+			}
+		}
 		
 		ButtonType = {
 			name = "homepage_button"
-			position = { x=0 y=-90 }
+			position = { x=0 y=0 }
 			quadTextureSprite ="homepage"
 			clicksound = click_default
 			pdx_tooltip = "MENU_HOMEPAGE"
 		}
 		ButtonType = {
 			name = "forum_button"
-			position = { x=50 y=-90 }
+			position = { x=50 y=0 }
 			quadTextureSprite ="forum"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FORUM"
@@ -467,7 +473,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "facebook_button"
-			position = { x=100 y=-90 }
+			position = { x=100 y=0 }
 			quadTextureSprite ="facebook"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FACEBOOK"
@@ -475,7 +481,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "twitter_button"
-			position = { x=150 y=-90 }
+			position = { x=150 y=0 }
 			quadTextureSprite ="twitter"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_TWITTER"
@@ -483,7 +489,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "privacy_policy_button"
-			position = { x=200 y=-90 }
+			position = { x=200 y=0 }
 			quadTextureSprite ="privacy"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_PRIVACY_POLICY"
