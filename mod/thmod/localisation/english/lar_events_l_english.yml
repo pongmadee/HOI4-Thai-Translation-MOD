@@ -967,7 +967,7 @@
  lar_news.25.t:0 "A Royal Wedding in Brazil"
  lar_news.25.desc:0 "Today, Dom Duarte Nuno, Duke of Braganza, married Princess Maria Francisca of Orléans-Braganza in the Petrópolis Cathedral in Brazil. This marriage has not only reconciled the Portuguese and Brazilian Brigantine houses, but has also united the Miguelists and the Liberal Braganzas, leaving behind the rivalries between the Portuguese royal family and stirring up the monarchist sentiment in both countries. \n\nIt is said that, following the ceremony, Dom Duarte engaged in several conversations with known Brazilian and Portuguese royalist ladies and gentlemen, where the words 'restoration' and 'Monarchy' were openly pronounced."
  lar_news.25.a:0 "This is just the beginning."
- lar_news.25.b:0 "An interesting development..."
+ lar_news.25.b:0 "การพัฒนาที่น่าสนใจ..."
  lar_news.26.t:0 "The Empire of Portugal and Brazil"
  lar_news.26.desc:0 "Following the restoration of the monarchy in Portugal and Brazil, the Portuguese King and the Brazilian Emperor attended several meetings to discuss the necessity and the potential benefits of the reunification of both countries once again. \nAfter long negotiations during the last Brazil-Portugal summit, the rulers agreed on officially reestablishing [POR.GetNameDef]. \n\nToday, with the blessing of the gathering monarchist crowds, [POR.GetLeader] has been crowned Emperor of Portugal and Brazil. The Emperor has thanked his subjects for their loyalty and has stated that he will rule in the behalf of all the citizens living under his rule."
  lar_news.26.a:0 "Hail the Emperor!"

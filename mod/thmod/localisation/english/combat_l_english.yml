@@ -132,7 +132,7 @@
  UNIT_COMBAT_WIDTH:0 "ความกว้างแนวรบ"
  COMBAT_SIDE_SUMMARY:0 "กำลังพล $MANPOWER|*1Y$ นาย, ยานพาหนะ $VEHICLES|Y$ คัน, ปืนใหญ่ $ARTILLERY|Y$ กระบอก"
  COMBAT_RESERVES:1 "Reserves are divisions that haven't been able to join the combat yet.\n\nIf there is sufficient combat width then every hour of battle a single division from the reserves will be selected to try and join.\n\nDivisions with comparatively high reinforcement rate in the reserves are more likely to be selected."
- BATTLE_REINFORCE_CHANCE2:1 "Chance of reinforcing Front Line if selected: $VALUE|2G%$\n"
+ BATTLE_REINFORCE_CHANCE2:1 "โอกาสเสริมทัพแนวหน้าถ้าเลือก: $VALUE|2G%$\n"
  COMREIC_NOT_FIGHT:0 "ไม่ได้อยู่ในสภาพที่สามารถจะสู้รบได้"
  COMREIC_TOO_MUCH_WIDTH:0 "เป็นยูนิตมีความกว้างมากเกินไป ทำให้ได้รับค่าโทษสูง"
  BM_AIR_SUPPORT:0 "การสนับสนุนทางอากาศ"

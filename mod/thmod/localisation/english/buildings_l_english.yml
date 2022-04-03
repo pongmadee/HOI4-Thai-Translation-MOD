@@ -44,7 +44,7 @@
  BUILDING_SABOTAGED:0 "$BUILDING$ โดนก่อวินาศกรรม!"
  BUILDING_REPAIRED:0 "$BUILDING$ ถูกซ่อมแซมแล้ว!"
  BUILDING_DAMAGE_REASON_COLLATERAL:0 "$BUILDING$ ได้รับความเสียหาย!"
- BUILDING_SCORCHED:0 "$BUILDING$ scorched!"
+ BUILDING_SCORCHED:0 "$BUILDING$ ไหม้!"
  NUKE_DROPPED:0 "ทิ้งระเบิดปรมาณูแล้ว!"
  BUILDING_DAMAGED:0 "ระดับความเสียหาย: $DAMAGED|-$/$CURRENT|H$"
  CAPACITY:0 "$VAL$/$MAX$"

@@ -1236,7 +1236,7 @@
  mtg_news.25.desc:0 "The [Root.GetAdjective] and Spanish governments have today issued a joint statement, announcing the return of Gibraltar to Nationalist Spain, while also cementing a new treaty of military cooperation between the two powers."
  mtg_news.25.a:0 "It was a necessary trade."
  mtg_news.25.b:0 "The reward was worth it."
- mtg_news.25.c:0 "An interesting development..."
+ mtg_news.25.c:0 "การพัฒนาที่น่าสนใจ..."
  mtg_news.26.t:0 "Imperialist Civil War in [From.GetName]"
  mtg_news.26.desc:0 "\nPro-Imperial elements in [From.GetName] have risen up in open revolt against the government, demanding the immediate return of the nation as a Dominion of the British Empire. The situation has now escalated to a full-on civil war, and the [From.GetAdjective] government has accused [ENG.GetNameDef] of supplying the insurgents with the modern weapons and munitions they require, which the [ENG.GetAdjective] government has categorically denied."
  mtg_news.26.a:0 "They can accuse us all they like."
