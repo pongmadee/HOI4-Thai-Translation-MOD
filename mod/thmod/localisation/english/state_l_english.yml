@@ -64,3 +64,4 @@
  STATE_OWNER_RESISTANCE_NON_CORE_INFO:0 "$COUNTRY|H$ จะสามารถเข้าถึงกำลังพลของรัฐได้ $MANPOWER|-%.0$"
  STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS:0 "$COUNTRY|H$ จะสามารถเข้าถึงกำลังพลของรัฐได้ $MANPOWER|-%.0$ และยิ่งไปกว่านั้นมันจะได้รับการปรับเปลี่ยนเนื่องจากสถานะการยึดครอง:"
  STATE_OWNER_MODIFIER_INFO:0 "รัฐนี้กำลังจะปรับเปลี่ยนตามตัวดัดแปลงเนื่องจากสถานะการยึดครอง:"
+ STATE_FOREIGN_RESOURCE_OWNER:0 "Goes to $COUNTRY|H$"

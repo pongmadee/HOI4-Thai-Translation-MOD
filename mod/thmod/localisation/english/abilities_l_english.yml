@@ -14,6 +14,7 @@
  ABILITY_TOOLTIP_COOLDOWN:0 "คูลดาวน์: $VALUE|H$"
  ABILITY_TOOLTIP_ALREADY_ACTIVE_GROUP:0 "§Rความสามารถนี้มีการใช้งานในระดับหมู่กองทัพแล้ว§!"
  ABILITY_TOOLTIP_ALREADY_ACTIVE_CHILD_GROUPS:0 "§Rความสามารถนี้เปิดใช้งานอยู่แล้วสำหรับกลุ่มลูกๆทั้งหมด§!"
+ ABILITY_TOOLTIP_ALREADY_ACTIVE_SOME_CHILD_GROUPS:0 "§RThis Ability is already active for:\n$LEADERS$§!"
  ALLOCATED_CP_ENTRY:0 "$NAME$ ($DURATION$)"
  ABILITY_DUR_HOURS:0 "$num|H$ ชั่วโมง"
  ABILITY_DUR_DAYS:0 "$num|H$ วัน"

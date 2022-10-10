@@ -65,3 +65,5 @@
  CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE:0 "§Rเราไม่ได้รับอนุญาตให้ลดระดับหรือยกเลิกการก่อสร้างนี้§!"
  CONSTRUCTION_INFO_MASTER:0 "การก่อสร้างนี้อยู่ในดินแดนของ $WHO|H$ หากเราไม่ได้ใช้โรงงานสร้างอย่างเต็มที่ พวกเขาสามารถใช้โรงงานตัวเองช่วยได้"
  CONSTRUCTION_INFO_SUBJECT:0 "การก่อสร้างนี้สร้างขึ้นเพื่อเราโดย $WHO|H$ หากพวกเขาไม่ได้ใช้โรงงานสร้างอย่างเต็มที่ เราสามารถใช้โรงงานตัวเองช่วยได้"
+ autonomy_communist_satellite:0 "Satellite"
+ autonomy_occupation_zone:0 "Occupation Zone"
