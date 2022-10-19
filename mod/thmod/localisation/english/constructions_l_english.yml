@@ -100,7 +100,7 @@
  PROVINCE_BUILDINGS:0 "สิ่งปลูกสร้างในต่างจังหวัด"
  PROVINCE_BUILDINGS_DESC:0 "สิ่งปลูกสร้างที่สร้างขึ้นในต่างจังหวัดแต่ละสิ่งปลูกสร้างมีขีดจำกัดระดับของตัวเอง"
  CONSTRUCTION_PAUSED_COMBAT:0 "§Rการก่อสร้างไม่สามารถคืบหน้าได้เนื่องจากการสู้รบอยู่§!"
- CONSTRUCTION_PAUSED_ACCESS:0 "§RThe Construction can't progress due to not having access to provinces.§!"
+ CONSTRUCTION_PAUSED_ACCESS:0 "§Rการก่อสร้างไม่สามารถคืบหน้าได้เนื่องจากไม่สามารถเข้าจังหวัดได้§!"
  supply_node:1 "จุดศูนย์รวมของยุทธปัจจัย(ฮับ)"
  supply_node_desc:2 "จุดศูนย์รวมของยุทธปัจจัย(ฮับ)เป็นจุดตามทางรถไฟไปนอกเมืองที่สามารถดึงยุทธปัจจัยไปใช้ได้"
  rail_way:0 "ทางรถไฟ"
