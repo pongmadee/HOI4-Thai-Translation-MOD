@@ -70,11 +70,11 @@
   "MOD_VERSION": "0.89.8",
   "MOD_SUPPORTED_GAME_VERSION": "1.8.1",
   "MOD_ROOT_PATH": "...",
-	"MOD_ID": "...",
+  "MOD_ID": "...",
   "path_mapping" : [
-		{"xxx1" : "xxx.yml"},
-		{"xxx2" : "folder1/xxx2.yml"},
-		{"xxx3" : "folder1/folder2/xxx3.yml"}
+    {"xxx1" : "xxx.yml"},
+    {"xxx2" : "folder1/xxx2.yml"},
+    {"xxx3" : "folder1/folder2/xxx3.yml"}
   ],
   "extra_localisations": [
     {
