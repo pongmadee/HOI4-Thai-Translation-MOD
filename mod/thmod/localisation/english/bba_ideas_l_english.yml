@@ -22,7 +22,7 @@
  ETH_industrialization_dynamic_modifier:0 "Ethiopian Industry"
  ETH_international_red_cross_dynamic_modifier:0 "The International Red Cross"
  ETH_state_development_dynamic_modifier:0 "State Development"
- ETH_state_decentralization_dynamic_modifier:0 "Decentralization"
+ ETH_state_decentralization_dynamic_modifier:0 "การกระจายอำนาจ"
  ETH_chitet_law:0 "The Chitet"
  ETH_chitet_law_peace_time:0 "$ETH_chitet_law$"
  ETH_chitet_law_tt:0 "Automatic increase of penalties and manpower reserves when at war. \nCan raise the National Levy when at war."

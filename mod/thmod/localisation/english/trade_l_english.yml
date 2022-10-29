@@ -142,7 +142,7 @@
  TRADE_CONVOYS_ESTIMATED_OVER_LAND_DESC:0 "การค้านี้สามารถขนส่งทางบก ไม่ต้องใช้เรือสินค้า"
  NOT_TRADING_WITH_COUNTRY:0 "เราไม่ได้ทำการค้าขายกับ @$TAG$$COUNTRY|H$"
  RESOURCES_BASE_TOOLTIP:0 "ฐาน: $NUM|.0H$ $RESOURCE$"
- RESOURCE_INFRA_FACTOR_TOOLTIP:1 "   Infrastructure: §Hx$MULT$§!"
+ RESOURCE_INFRA_FACTOR_TOOLTIP:1 "   โครงสร้างพื้นฐาน: §Hx$MULT$§!"
  RESOURCE_SUPPLY_FACTOR_TOOLTIP:0 "   เส้นทางยุทธปัจจัย: §Hx$MULT$§!"
  RESOURCE_FACTOR_TOOLTIP:0 "การเปลี่ยนแปลงในรัฐ: $FACTOR|+=%$"
  RESOURCES_ADDITIONAL_TOOLTIP:0 "แหล่งทรัพยากรเพิ่มเติม: $NUM|.0H$ $RESOURCE$"

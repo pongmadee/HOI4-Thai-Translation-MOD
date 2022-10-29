@@ -8,7 +8,7 @@
 
  ผมคิดว่าที่เขาไม่พัฒนาต่อปัญหาน่าจะเป็นเพราะ เมื่อเกมมีการอัปเดตเวอร์ชั่นใหม่ผู้พัฒนาม็อดจะต้องแก้ไฟล์ที่แปลให้เข้ากันได้กับเกมเวอร์ชั่นใหม่โดยเปรียบเทียบกันที่ละบรรทัดกับไฟล์ไฟล์เวอร์ชั่นเก่าแล้วคัดลอกจากของเก่ามาไว้ของใหม่ซึ่งใช้เวลาตรวจสอบนานมาก แถมบางทีจะมีข้อมูลเพิ่มเข้ามาใหม่จึงยากที่จะทำให้ม็อดทันสมัยได้เร็ว
 
-#### ดังนั้นเพื่อแก้ปัญหาดังกล่าวผมจึงได้เขียนโปรแกรมตัวหนึ่งขึ้นมา( MergeVersion ซึ่งต่อมาใช้ชื่อ Hoi4-TH-Localisation-Manager )ทำการตรวจสอบและรวมผสาน(merge)ไฟล์เวอร์ชั่นเก่าและใหม่ แล้วเก็บทุกอย่างไว้ที่ฐานข้อมูล เพื่อสะดวกในการสืบค้นและแก้ไขคำผิด สามารถดึงข้อมูลไปสร้างไฟล์ม็อด ทำให้ระยะเวลาที่จะทำให้ม็อดทันสมัยทำได้เร็วมากขึ้น ส่วนการแปลจะแปลเพียงครั้งเดียวลงบนฐานข้อมูลโดยตรง หรือดึงมาจากงานที่ทำกับทีมงานที่อยู่บน Google Sheet 
+#### ดังนั้นเพื่อแก้ปัญหาดังกล่าวผมจึงได้เขียนโปรแกรมตัวหนึ่งขึ้นมามีชื่อว่า MergeVersion ซึ่งต่อมาใช้ชื่อ Hoi4-TH-Localisation-Manager ทำการตรวจสอบและรวมผสาน(merge)ไฟล์เวอร์ชั่นเก่าและใหม่ แล้วเก็บทุกอย่างไว้ที่ฐานข้อมูล เพื่อสะดวกในการสืบค้นและแก้ไขคำผิด สามารถดึงข้อมูลไปสร้างไฟล์ม็อด ทำให้ระยะเวลาที่จะทำให้ม็อดทันสมัยทำได้เร็วมากขึ้น พอผมเขียนโปรแกรมนี้เสร็จ ผมก็ลองทำม็อดออกมาเล่นดู ทำไปทำมา ก็เลยอยากจะแบ่งปันให้คนอื่นได้เล่นบ้าง ก็เลยเอาไปอัปลง Steam Workshop ส่วนการแปลในช่วงแรกๆจะแปลลงบนฐานข้อมูลโดยตรง(query SQL) หรือดึงมาจากงานที่ทำกับทีมงานที่อยู่บน Google Sheet 
 
 ## ความรู้ที่ใช้
  - Compilers: Principles, Techniques, and Tools (Textbook)
@@ -16,16 +16,18 @@
  - Java (พื้นฐาน)
  - SQL (พื้นฐาน)
  - Google Sheets API v4
- - Docker -> Kubernetes (K8s) [v1.0.1+]
+ - Docker -> Kubernetes (K8s) [Localisation-Manager v1.0.1+]
  - Excel -> Google sheet (พื้นฐาน Functions และ formulas)
  <img src="images/dragon-compilerbook.jpg" width="30%">
  
 
 ## เครื่องมือที่ใช้
- - Java OpenJDK 12 (ภาษาโปรแกรม)
- - Mysql (ฐานข้อมูล)
- - IntelliJ IDEA (Java IDE)
- - Docker Desktop (Kubernetes - K8s) [v1.0.2]
+ - Java (ภาษาโปรแกรม)
+ - MySQL (ฐานข้อมูล)
+ - MySQL Workbench Community
+ - IntelliJ IDEA Community Edition (Java IDE)
+ - Docker Desktop (Kubernetes - K8s) [Localisation-Manager v1.0.2+]
+ - WSL2 (Windows Subsystem for Linux) [Localisation-Manager v1.2.1+]
 
 ## ผังการทำงานโปรแกรมเวอร์ชั่น 1.0
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1.png" width="70%">
@@ -57,14 +59,23 @@
 <img src="images/Hoi4-TH-Localisation-Manager-Gsheet1.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet2.png" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-Gsheet3.png" width="30%"> <img src="images/k8s_app1.jpg" width="30%"> <img src="images/k8s_app3.jpg" width="30%"> <img src="images/k8s_app6.jpg" width="30%">
 
 ## ผังการทำงานโปรแกรมเวอร์ชัน 1.0.3 (JSON feature)
-- 1.เพิ่มในส่วนที่เกี่ยวกับการตั้งค่า Configuration คือจะแยกในส่วนนี้ออกมาเป็นไฟล์ text (*.Json)ภายนอกแล้วโหลดตอนเปิดโปรแกรม เนื่องจากโดยปกติเวลาม็อดขึ้นเวอร์ชั่นใหม่จะต้องแก้ code ใหม่และทำการ compile โปรแกรมใหม่ทุกครั้ง </br>
+- 1.เพิ่มในส่วนที่เกี่ยวกับไฟล์ตั้งค่า Configuration (*.json) ที่จะประกอบไปด้วยข้อมูลสำคัญที่จะใช้ในการสร้างม็อด</br>
 - 2.สามารถเพิ่มข้อมูลใหม่ผ่านไฟล์ json ได้</br>
+- 3.ใช้กับโปรแกรม Localisation-Editor ได้</br>
+
 ตัวอย่างไฟล์ config.json
 ```yaml
 {
   "APP_VERSION": "1.0.3",
   "MOD_VERSION": "0.89.8",
   "MOD_SUPPORTED_GAME_VERSION": "1.8.1",
+  "MOD_ROOT_PATH": "...",
+	"MOD_ID": "...",
+  "path_mapping" : [
+		{"xxx1" : "xxx.yml"},
+		{"xxx2" : "folder1/xxx2.yml"},
+		{"xxx3" : "folder1/folder2/xxx3.yml"}
+  ],
   "extra_localisations": [
     {
       "key": "MOD_TEST1",
@@ -101,7 +112,7 @@ me@console:~$ java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.
 ```
 
 ## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.1.1 (Hotfix)
-แก้บัคโควต้า Sheets API (Google_Service_Exception ErrorCode:429)</br>
+แก้บัคโควต้า request เต็ม (Google_Service_Exception ErrorCode:429)</br>
 
 ## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.2.0 (Sheets APIs)
 - 1.เพิ่มระบบสร้างหรือลบชีตเองอัตโนมัติ </br>
@@ -109,11 +120,18 @@ me@console:~$ java -jar hoi4-th-localisation-manager.jar build hoi4.config.v1.9.
 - 3.เพิ่มระบบจัดการรูปแบบแสดงผลในระดับ cell </br>
 - 4.รองรับสเปรดชีตได้มากกว่า 1 ไฟล์ (เพิ่มจำนวนชีตที่รองรับ > 5,000,000 cell) </br>
 
-<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_8.png" width="70%">
+## ปรับปรุงแก้ไขโปรแกรมเวอร์ชัน 1.2.1 (Beta1)
+- 1.ปรับปรุงการแสดงผลเมนูเลือกฐานข้อมูลให้ดีขึ้น (console app) </br>
+- 2.เพิ่มโปรแกรมสร้างไฟล์ configuration (โดยปกติผมจะสร้างไฟล์ config เอง แต่พอหลังๆเกมเริ่มแตกไฟล์เป็นหลายๆร้อยไฟล์แถมยังมีโฟร์เดอร์ย่อยๆอีก เริ่มจะสร้างเองไม่ไหวเลยเขียนโปรแกรมนี้เพิ่มเข้ามาเพื่อลดเวลาตรวจสอบและลดความผิดพลาด)</br>
+- 3.เพิ่มระบบสำรองหาก Kubernetes มีปัญหา คือเพิ่ม WSL (Windows Subsystem for Linux)</br>
+
+## ผังการทำงาน(ล่าสุด)
+<img src="images/Hoi4-TH-Localisation-Manager-diagram-V1_9.png" width="70%">
 
 ## ส่วนขยายเพิ่มเติม 
 - [Localisation-Editor (โปรแกรมแก้ไข text)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Localisation-Editor.md)</br>
 - [MadeeAI-Translator (ปัญญาประดิษฐ์ช่วยแปล)](https://github.com/pongmadee/HOI4-Thai-Translation-MOD/blob/develop/docs/DevDiary-Madee-AI-Translator.md)</br>
+- Conf Generator (โปรแกรมสร้างไฟล์ configuration)</br>
 
 ## ลักษณะรูปแบบการสั่งงาน
 <img src="images/Hoi4-TH-Localisation-Manager-diagram-V1-menu_structure_flow.png" width="30%"> <img src="images/k8s_app2.jpg" width="30%"> <img src="images/k8s_app4.jpg" width="30%"> <img src="images/k8s_app5.jpg" width="30%"> <img src="images/Hoi4-TH-Localisation-Manager-V1-loclogs.png" width="30%">
