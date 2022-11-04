@@ -48,6 +48,7 @@
  alert_pick_new_idea_delayed:1 "§Tคุณสามารถเปลี่ยน:§!"
  alert_pick_new_idea_delayed_bop:0 "§Tดุลของอำนาจ:§!"
  alert_pick_new_idea_group_type:0 "$TYPE|H$"
+ alert_pick_new_idea_advisor_delayed:0 "คุณสามารถเลือก:\n$ADVISOR|Y$\n"
  alert_available_wargoal_instant:0 "§Hเป้าหมายสงครามที่สามารถใช้ได้§!"
  alert_enemy_generate_wargoal_instant:0 "§Hมีความพยายามที่จะประกาศสงครามกับเราหรือพันธมิตร§!"
  alert_faction_generate_wargoal_instant:0 "§Hมีชาติสมาชิกที่กำลังจะประกาศสงคราม§!"

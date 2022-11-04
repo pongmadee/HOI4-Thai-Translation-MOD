@@ -1079,7 +1079,7 @@
  ITA_aviation_hero_tt:0 "  - $air_equipment_research$: §G+5%§!"
  military_modernizer:0 "Military Modernizer"
  silver_tongue:0 "Silver Tongue"
- silver_tongue_no_lar: "$silver_tongue$"
+ silver_tongue_no_lar:0 "$silver_tongue$"
  father_of_the_empire:0 "Father of the Empire"
  political_reformer_1:0 "Political Reformer"
  political_reformer_2_no_lar:0 "$political_reformer_1$"
