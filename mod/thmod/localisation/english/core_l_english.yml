@@ -1948,7 +1948,7 @@
  TRAINING_ACCIDENT:0 "อุบัติเหตุจากการฝึก"
  SUNK_BY_MINES:0 "ทุ่นระเบิด"
  PARADROP_PLANES_REQUIRED:0 "\n§RThis order cannot be executed:§!\nAn additional $WINGS|H$ transport wing(s) are required."
- MOD_VERSION:0 "Mod v0.93.5, Update 17/11/2565"
+ MOD_VERSION:0 "Mod v0.93.6, Update 24/11/2565"
  MOD_DEV_MSG:0 "ผู้พัฒนา: n/a"
  MOD_SUPPORTERS:0 "ผู้สนับสนุน: n/a"
  MOD_TEST1DUMMY1:0 "dummy1"

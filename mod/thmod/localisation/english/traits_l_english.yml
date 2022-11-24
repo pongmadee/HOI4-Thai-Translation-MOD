@@ -1084,7 +1084,7 @@
  political_reformer_1:0 "Political Reformer"
  political_reformer_2_no_lar:0 "$political_reformer_1$"
  political_reformer_2:0 "$political_reformer_1$"
- ITA_political_reformer_tt:0 "  - All Advisors Cost: §G-25%§!"
+ ITA_political_reformer_tt:1 "All Advisors Cost: §G-25%§!"
  hierarch_minister_of_foreign_affairs:0 "Hierarch - Minister of Foreign Affairs"
  hierarch_minister_of_justice:0 "Hierarch - Minister of Justice"
  hierarch_minister_of_education:0 "Hierarch - Minister of Education"
