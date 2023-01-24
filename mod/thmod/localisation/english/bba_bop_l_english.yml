@@ -1,7 +1,7 @@
 ﻿l_english:
  BOP_TOOLTIP:1 "The §Y[root.GetPowerBalanceName]§! is currently [?.root.power_balance_value|0%H] on the side of §Y[root.GetActiveSideName]§!"
  BOP_TOOLTIP_TREND:0 "The balance of power is currently trending towards the side of §Y[root.GetTrendingSideName]§! by [root.GetBopTrendTextIcon][root.GetChangeRateDesc].\n[root.GetPowerBalanceModDesc]"
- BOP_TOOLTIP_STABLE:0 "The balance of power if currently stable."
+ BOP_TOOLTIP_STABLE:1 "The balance of power is currently stable."
  BOP_LEFT_SIDE_TOOLTIP:0 "[root.GetLeftSideName]"
  BOP_RIGHT_SIDE_TOOLTIP:0 "[root.GetRightSideName]"
  BOP_ACTIVE_RANGE_DESC:0 "[root.GetActiveRangeName]"

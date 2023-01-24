@@ -928,7 +928,7 @@
  news.21.b:0 "นี่คือชัยชนะที่ยิ่งใหญ่"
  news.21.c:0 "ดินแดนนั้นไม่มีค่าอยู่ดี"
  news.22.t:1 "[ALB.GetLeader] Submits to Italy"
- news.22.d:1 "An ultimatum has been delivered to the Albanian government by Italian diplomats, demanding that they submit to complete military occupation. \n\n[ALB.GetLeader] has abdicated after realizing the futility of resistance, and Albania will now be ruled in a personal union under King Victor Emmanuel III.\n\n[ITA.GetNameDef] looks to the Balkans..."
+ news.22.d:2 "An ultimatum has been delivered to the Albanian government by Italian diplomats, demanding that they submit to complete military occupation. \n\n[ALB.GetLeader] has abdicated after realizing the futility of resistance, and Albania will now be ruled in a personal union under King Vittorio Emanuele III.\n\n[ITA.GetNameDef] looks to the Balkans..."
  news.22.a:1 "Another victim of Italy's ambitions."
  news.22.b:0 "เราอยู่ใกล้เข้าไปอีกขั้น ในการตระหนักถึงอาณาจักรอันยิ่งใหญ่ของเรา"
  news.22.c:0 "ชัยชนะอีกครั้งสำหรับเพื่อนของเรา [From.GetLeader]!"
