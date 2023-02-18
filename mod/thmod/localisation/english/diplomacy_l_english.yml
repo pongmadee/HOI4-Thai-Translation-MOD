@@ -1400,7 +1400,7 @@
  SWI_extensive_appeasement:0 "Extensive Appeasement"
  SWI_fortified_border:1 "Fortified their border with us"
  SWI_banned_countrys_ideology:1 "The Swiss Confederation banned propaganda from our government's ideology"
- SWI_romansh_language_adopted:0 "Adopted Romansh as an official language"
+ SWI_romansh_language_adopted:1 "Adopted Rumantsch as an official language"
  SWI_banned_national_front:0 "Banned The Swiss National Front"
  SWI_bought_equipment_from_the_enemy:0 "Bought equipment from the enemy"
  SWI_bought_equipment_from_us:0 "Bought equipment from us"

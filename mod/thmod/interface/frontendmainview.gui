@@ -479,14 +479,14 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "homepage_button"
-			position = { x=0 y=0 }
+			position = { x=-20 y=0 }
 			quadTextureSprite ="homepage"
 			clicksound = click_default
 			pdx_tooltip = "MENU_HOMEPAGE"
 		}
 		ButtonType = {
 			name = "forum_button"
-			position = { x=50 y=0 }
+			position = { x=20 y=0 }
 			quadTextureSprite ="forum"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FORUM"
@@ -494,7 +494,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "facebook_button"
-			position = { x=100 y=0 }
+			position = { x=60 y=0 }
 			quadTextureSprite ="facebook"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FACEBOOK"
@@ -502,19 +502,35 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "twitter_button"
-			position = { x=150 y=0 }
+			position = { x=100 y=0 }
 			quadTextureSprite ="twitter"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_TWITTER"
 			web_link = "https://twitter.com/hoi_game"
 		}
 		ButtonType = {
+			name = "instagram_button"
+			position = { x=140 y=0 }
+			quadTextureSprite ="instagram"
+			#clicksound = click_default
+			pdx_tooltip = "MENU_TWITTER"
+			web_link = "https://www.instagram.com/hearts_of_iron_pdx"
+		}
+		ButtonType = {
+			name = "discord_button"
+			position = { x=180 y=0 }
+			quadTextureSprite ="discord"
+			#clicksound = click_default
+			pdx_tooltip = "MENU_TWITTER"
+			web_link = "https://discord.gg/hoi4"
+		}
+		ButtonType = {
 			name = "privacy_policy_button"
-			position = { x=200 y=0 }
+			position = { x=220 y=0 }
 			quadTextureSprite ="privacy"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_PRIVACY_POLICY"
-		}
+		}		
 	}
 
 	## This position needs updated

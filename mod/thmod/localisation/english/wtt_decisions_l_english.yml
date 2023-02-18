@@ -10,7 +10,7 @@
  form_eu_italy_coring_states_tt:0 "Gain cores on all §YItalian§! states in Europe.\n"
  form_country_germany_coring_states_tt:0 "Gain cores on all §YGerman§! states.\n"
  form_spqr_france_required_states_tt:0 "Controls all §YFrench§! states in Europe, North Africa, and the Middle East."
- form_spqr_italy_required_states_tt:0 "Controls all §YItalian§! states in Europe and North Africa."
+ form_spqr_italy_required_states_tt:1 "Controls all §YItalian§! cores."
  form_spqr_britain_required_states_tt:0 "Controls all §YBritish§! states in Egypt, the Middle East, and the Eastern Mediterranean."
  form_spqr_spain_required_states_tt:0 "Controls all §YSpanish§! states in Europe and Spanish Africa."
  form_eu_portugal_required_states_tt:0 "Controls all §YPortuguese§! states in Europe."

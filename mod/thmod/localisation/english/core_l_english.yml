@@ -1951,7 +1951,7 @@
  SUNK_BY_MINES:0 "ทุ่นระเบิด"
  PARADROP_PLANES_REQUIRED:0 "\n§RThis order cannot be executed:§!\nAn additional $WINGS|H$ transport wing(s) are required."
  RETAIN_CORES:0 "Retain States With Our Core"
- MOD_VERSION:0 "Mod v0.93.8, Update 24/01/2566"
+ MOD_VERSION:0 "Mod v0.93.9, Update 18/02/2566"
  MOD_DEV_MSG:0 "ผู้พัฒนา: n/a"
  MOD_SUPPORTERS:0 "ผู้สนับสนุน: n/a"
  MOD_TEST1DUMMY1:0 "dummy1"
