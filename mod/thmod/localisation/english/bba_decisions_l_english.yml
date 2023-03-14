@@ -256,7 +256,7 @@
  controls_ethiopian_cores_tt:0 "Controls all [ROOT.GetAdjective] core states."
  ETH_move_capital_to_axum:0 "Move the capital to Axum"
  ETH_move_capital_to_axum_desc:0 "The ancient city of Axum should be the new capital of the Empire."
- ETH_prevents_further_capital_moves_tt:0 "Moving the Capital can only be done once"
+ ETH_prevents_further_capital_moves_tt:1 "Moving the Capital to Jerusalem prevents further moves of the Capital."
  ETH_has_moved_capital_flag:0 " Has already moved capital"
  form_empire_of_solomon:0 "Form the Empire of Solomon"
  ETH_move_capital_to_jerusalem:0 "Make Jerusalem the capital of the empire"

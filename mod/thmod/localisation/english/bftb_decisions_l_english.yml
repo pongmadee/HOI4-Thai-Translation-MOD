@@ -900,7 +900,7 @@
  BUL_secure_occupation_in_balkan_state:0 "Secure the Occupation in [FROM.GetName]"
  BUL_secure_occupation_in_balkan_state_desc:0 "We must assume our role as peacekeepers in the Balkans and propose our allies to grant us administrative control over their occupied territories in the region, relieving foreign [ROOT.GetFactionName] garrisons so that they can reinforce other fronts."
  BUL_secure_occupation_in_balkan_state_tt:0 "(Countries with low §YManpower§! and §YInfantry equipment§! will be more inclined to accept)"
- BUL_bulgarian_reintegration_campaign:1 "Bulgarian Reintegration Campaing in [FROM.GetName]"
+ BUL_bulgarian_reintegration_campaign:1 "Bulgarian Reintegration Campaign in [FROM.GetName]"
  bulgarian_territorial_expansion_arranged:0 "Pre-Arranged Bulgarian Territorial Expansion"
  BUL_bulgarian_territorial_expansion_arranged_tt:0 "States with §YPre-Arranged Bulgarian Territorial Expansion§! Modifier will be transferred to Bulgaria once any faction ally controls the state and Bulgaria has joined the same faction as Germany"
  BUL_align_bulgaria:0 "Align Bulgaria"
