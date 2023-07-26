@@ -36,7 +36,7 @@
  alert_decision_new_delayed_more:0 "...และอีก $COUNT|H$"
  alert_decision_timeout_instant:0 "§Hเหตุการณ์หรือการตัดสินใจหมดเวลา§!"
  alert_decision_timeout_delayed:1 "เหตุการณ์หรือการตัดสินใจเหล่านี้กำลังจะหมดเวลา:\n$LIST$§Gคลิกขวาเพื่อปิด§!"
- alert_bop_timeout_delayed:0 "These Balance of Power events or decisions are about to time out:\n$LIST$§GRight-click to dismiss§!"
+ alert_bop_timeout_delayed:0 "เหตุการณ์หรือการตัดสินใจเกี่ยวกับดุลแห่งอำนาจเหล่านี้กำลังจะหมดเวลา:\n$LIST$§Gคลิกขวาเพื่อยกเลิก§!"
  TIMEOUT_ITEM_LOC:1 " - $NAME|H$ (เหลือเวลาอีก $DAYS|H0$ §Hวัน§!)"
  alert_free_civilian_factories_instant:0 "§Hมีโรงงานพลเรือนที่ว่างอยู่§!"
  alert_free_civilian_factories_delayed:0 "§Tคุณมีโรงงานพลเรือนที่สามารถใช้ในการค้าหรือการก่อสร้างได้§!"

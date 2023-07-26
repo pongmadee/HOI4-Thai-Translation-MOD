@@ -53,7 +53,7 @@
  BM_AMPH_PENALTY_DESC:0 "การทำการยกพลขึ้นบกนั้นทำได้ยาก ควรใช้นาวิกโยธินที่มีน้ำหนักเบาเพื่อผลที่ดีที่สุด และควรมีการยิงสนับสนุนจากเรือรบหลัก"
  BM_FORT_MODIFIER:0 "ป้อมปราการ"
  BM_FORT_MODIFIER_DESC:0 "ป้อมปราการช่วยลดความสูญเสียของผู้ป้องกันและยังช่วยในการป้องกัน เพื่อช่วยในการยึดจังหวัดที่เต็มไปด้วยป้อมปราการขนาดใหญ่ให้ใช้รถถังหนักพิเศษหรือทหารช่างในการช่วย การโจมตีจากหลายทิศทางจะลดผลของป้อม"
- BM_FORT_MODIFIER_DESC_WITH_RAILWAY_GUN:0 "Forts lower casualties for defenders and help with defense. To help take heavily fortified provinces employ Super-Heavy tanks, Engineers or Railway Guns. Attacking from several directions will also reduce forts effect."
+ BM_FORT_MODIFIER_DESC_WITH_RAILWAY_GUN:0 "ป้อมปราการช่วยลดความสูญเสียของผู้ป้องกันและยังช่วยในการป้องกัน เพื่อช่วยในการยึดจังหวัดที่เต็มไปด้วยป้อมปราการขนาดใหญ่ให้ใช้รถถังหนักพิเศษ ทหารช่างหรือปืนใหญ่รถไฟ การโจมตีจากหลายทิศทางจะลดผลของป้อม"
  BM_DUGIN_MODIFIER:0 "การขุดสนามเพลาะ"
  BM_DUGIN_MODIFIER_DESC:0 "ยิ่งยูนิตอยู่ในจังหวัดนานก็ทำให้ยูนิตถูกขับออกไปยากยิ่งขึ้น"
  BM_ENEMY_AIR_SUPERIORITY:0 "ศัตรูครองน่านฟ้า"

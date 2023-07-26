@@ -37,5 +37,5 @@
  HORMUZ_STRAIT:0 "ช่องแคบฮอร์มุซ"
  OTRANTO_STRAIT:0 "ช่องแคบโอตรันโต"
  suez_blocked_tt:0 "[GetSuezBlockText]"
- blocked_as_part_of_sanctions_tt:0 "§RLeague of Nations' sanctions are in place, denying [ROOT.GetName] the use of the Suez Canal.§!"
+ blocked_as_part_of_sanctions_tt:0 "§Rมีการคว่ำบาตรของสันนิบาตแห่งชาติ ไม่ให้ [ROOT.GetName] ใช้คลองสุเอซ§!"
  SUEZ_SANCTIONS_FLAG:0 "คลองสุเอซถูกปิดกั้น"
