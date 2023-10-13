@@ -153,6 +153,8 @@
  OOS_85:0 "Air Wings"
  OOS_86:0 "Aces"
  OOS_87:0 "Playthrough Stats"
+ OOS_88: "Military Industrial Organizations"
+ OOS_89: "International Market"
  MULTIPLAYER_PLAYERS:0 "$NUM$"
  MULTIPLAYER_MESSAGES:0 "$NUM$"
  MATCHMAKING_FRIEND_STATUS_PLAYING_THIS:0 "§Gกำลังเล่นอยู่§!"

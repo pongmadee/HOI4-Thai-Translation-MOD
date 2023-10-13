@@ -963,7 +963,7 @@
  BUL_fate_of_the_balkans_influence_government_tt:0 "[FROM.GetFlag]§Y[FROM.GetNameDefCap]§! will be more inclined to submit to Bulgaria in the future."
  BUL_fate_of_the_balkans_influence_government_autonomy:0 "Pro-Bulgarian Propaganda Campaign"
  BUL_fate_of_the_balkans_ultimatum:0 "Ultimatum to [FROM.GetNameDef]"
- BUL_fate_of_the_balkans_ultimatum_desc:0 "We will organize a meeting with the [FROM.GetAdjective] government to pressure them to join the [ROOT.GetFactionName] in exchange for [ROOt.GetAdjective] protection. And we shall also make it clear that our government will not take a [FROM.GetAdjective] refusal lightly."
+ BUL_fate_of_the_balkans_ultimatum_desc:0 "We will organize a meeting with the [FROM.GetAdjective] government to pressure them to join the [ROOT.GetFactionName] in exchange for [ROOT.GetAdjective] protection. And we shall also make it clear that our government will not take a [FROM.GetAdjective] refusal lightly."
  BUL_fate_of_the_balkans_ultimatum_tt:1 "\nFactors affecting [FROM.GetFlag]§Y[FROM.GetNameDefCap]§!'s willingness to accept: [ROOT.GetUltimatumOpinion] [ROOT.GetUltimatumStrength] [ROOT.GetUltimatumIdeology] [ROOT.GetUltimatumFaction] [ROOT.GetUltimatumInfluence] [ROOT.GetUltimatumNeighbor] [ROOT.GetUltimatumMajor]"
  BUL_ultimatum_opinion_high:0 "\n- §GHas High Opinion of§! [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!"
  BUL_ultimatum_opinion_medium:0 "\n- §YOpinion of§! [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!"

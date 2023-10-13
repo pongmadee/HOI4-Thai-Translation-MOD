@@ -258,6 +258,8 @@
  threat_mexico_rescind_cession:0 "Mexico Rescinds Cession to America"
  MEX_focus_redeem_aztlan:1 "Redeem Aztlan"
  MEX_focus_redeem_aztlan_desc:1 "The Mexican people living in the liberated regions of the United States have a dream of a government which does not oppress them for their ancestry, place of birth or the language they speak at home. That dream has become a reality."
+ ENG_parachute_regiments: "Airborne Forces Depot"
+ ENG_parachute_regiments_desc: "Following the success of early airborne operations in hostile territory, it is clear that the parachute regiments are the future. The establishment of dedicated training facilities and equipment will help us adopt these new technologies into our overall strategy."
  ENG_special_air_service:1 "สเปเชียลแอร์เซอร์วิส"
  ENG_special_air_service_desc:1 "An officer by the name of David Stirling has come up with the idea that a small commando unit might be capable of harrassing the enemy behind their lines, causing tremendous damage. Naming them an 'Air Service' has the added benefit of causing the enemy to believe they have to defend against paratroopers, too. There may well be merit to this idea."
  ENG_chiefs_of_staff_committee:1 "หัวหน้าคณะกรรมการ"

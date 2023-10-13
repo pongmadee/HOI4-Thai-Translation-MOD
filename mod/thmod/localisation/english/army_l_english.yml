@@ -246,3 +246,4 @@
  OFFICER_CORP_COUP_POSITIVE_PROGRESS:0 "ปัจจัยที่ทำให้รัฐประหารเดินหน้า: $VAL|0+%$"
  OFFICER_CORP_COUP_NEGATIVE_PROGRESS:0 "ปัจจัยที่ทำให้รัฐประหารถอยหลัง: $VAL|0+%$"
  ARMY_MOTORIZATION_PRIORITY:0 "§Hระดับความสำคัญในใช้เครื่องยนต์ขนส่ง§!\nจัดลำดับความสำคัญของรถบรรทุกจากคลังสินค้าเพื่อให้กองทัพนี้ได้รับยุทธปัจจัยที่จำเป็นจากจุดศูนย์รวมยุทธปัจจัย(ฮับ)ที่อาจอยู่นอกระยะ\n§Gคลิก§! เพื่อหมุนเวียนความสำคัญ"
+ OFFICER_CORP_SPECIAL_FORCES_DOCTRINE: "Special Forces"

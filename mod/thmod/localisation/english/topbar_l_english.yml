@@ -13,6 +13,8 @@
  TOPBAR_TECHNOLOGY_DESC:0 "วิจัย£tech_mod เทคโนโลยีเพื่อความก้าวหน้าของประเทศของคุณ"
  TOPBAR_DIPLOMACY:0 "การทูต"
  TOPBAR_DIPLOMACY_DESC:0 "ดำเนินการเจรจากับประเทศอื่นๆ"
+ TOPBAR_INTERNATIONAL_MARKET: "International Market"
+ TOPBAR_INTERNATIONAL_MARKET_DESC: "Buy equipment to supplement your domestic production. Or sell equipment to boost your construction speed."
  TOPBAR_LOGISTICS:0 "การส่งกำลังบำรุง"
  TOPBAR_LOGISTICS_DESC:0 "ดูรายละเอียดว่ากองทัพของคุณใช้ยุทโธปกรณ์และผลิตอย่างไร"
  TOPBAR_CONSTRUCTION:0 "การก่อสร้าง"
