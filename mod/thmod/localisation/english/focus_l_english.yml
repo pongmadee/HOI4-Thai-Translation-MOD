@@ -1010,6 +1010,7 @@
  capital_ships_bonus:0 "โบนัสโมเดลเรือรบหลัก"
  ti_bonus:0 "โบนัสทฤษฎีหยุดยั้งการค้า"
  special_bonus:0 "โบนัสกองกำลังรบพิเศษ"
+ mountaineers2_bonus:0 "Mountaineers II bonus"
  air_bonus:0 "โบนัสโมเดลอากาศยาน"
  ships_bonus:0 "โบนัสโมเดลเรือ"
  fighter_bonus:0 "โบนัสโมเดลเครื่องบินขับไล่"

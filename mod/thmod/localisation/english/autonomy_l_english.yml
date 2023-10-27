@@ -67,4 +67,4 @@
  CONSTRUCTION_INFO_SUBJECT:0 "การก่อสร้างนี้สร้างขึ้นเพื่อเราโดย $WHO|H$ หากพวกเขาไม่ได้ใช้โรงงานสร้างอย่างเต็มที่ เราสามารถใช้โรงงานตัวเองช่วยได้"
  autonomy_communist_satellite:0 "รัฐบริวาร"
  autonomy_occupation_zone:0 "เขตยึดครอง"
- autonomy_aat_defense_council_member: "Nordic defense council member"
+ autonomy_aat_defense_council_member: "สมาชิกสภากลาโหมนอร์ดิก"

@@ -47,7 +47,7 @@
  MANPOWER_RAILWAY_GUN_DESC:0 "§T§Hปืนใหญ่รถไฟ§! ต้องใช้กำลังพลประจำการ $AMOUNT|G$§!"
  MANPOWER_AIRWING:0 "กำลังพลประจำการกองบิน"
  MANPOWER_AIRWING_DESC:0 "§T §Hกองบินนี้§! ต้องใช้กำลังพลประจำการ $AMOUNT|G$ §!"
- CONSCRIPTION_TOTAL_FACTOR_EXTRA_DESC:1 "\nEffective Total Manpower modified to $VAL|+%0$ due to\n"
+ CONSCRIPTION_TOTAL_FACTOR_EXTRA_DESC:1 "\nกำลังพลที่มีประสิทธิภาพถูกปรับเปลี่ยนเป็น $VAL|+%0$ เนื่องจาก\n"
  EQUIPMENT_DIVISION:1 "การเติมเต็มยุทโธปกรณ์"
  EQUIPMENT_DIVISION_DESC:1 "เปอร์เซ็นต์ของความต้องการใช้ยุทโธปกรณ์ทั้งหมดของกองพล"
  DIVISION_IN_TEMPLATE_TRANSFER:0 "ขณะนี้กองพลกำลังจัดโครงสร้างใหม่จาก $OLD|H$ ไปแม่แบบ $NEW|H$ การปรับโครงสร้างจะเสร็จสมบูรณ์เมื่อมีการส่งมอบยุทโธปกรณ์ที่จำเป็นและยุทโธปกรณ์เก่าจะถูกส่งกลับไปยังคลัง"
