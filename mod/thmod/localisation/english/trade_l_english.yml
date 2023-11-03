@@ -45,7 +45,7 @@
  TRADE_ROUTE_DELIVERY_TYPE_LOCKED:0 "§Rการจัดส่งถูกบล็อก§!"
  TRADE_ROUTE_DELIVERY_TYPE_LAND:0 "§Tการส่งมอบ $VAL|H$ ทาง §Hบก§!§!"
  TRADE_ROUTE_DELIVERY_TYPE_SEA:0 "§Tการส่งมอบ $VAL|H$ ทาง §Hทะเล§! ใช้เรือขนส่งสินค้าจำนวน $CON|H$ ลำ จากความต้องการ $TOT|H$ ลำ§!"
- CONVOYS_USAGE_DESC:1 "§TWe have $TOT|H$ convoys.\nUsed total: $USED|H$\nUse/Need:\n - For naval invasion battle plans: $INVASION_USE|H$/$INVASION_NEED|H$\n - For transferring troops: $TRANSFER_USE|H$/$TRANSFER_NEED|H$\n - For trade: $TRADE_USE|H$/$TRADE_NEED|H$\n - For supply: $SUPPLY_USE|H$/$SUPPLY_NEED|H$\nRemains unused: $LEFT|H$§!"
+ CONVOYS_USAGE_DESC:1 "§Tเรามีเรือขนส่ง $TOT|H$ \nใช้งานทั้งหมด: $USED|H$\nใช้/ต้องการ:\n - สำหรับแผนการรบบุกโจมตีทางเรือ: $INVASION_USE|H$/$INVASION_NEED|H$\n - สำหรับการลำเลียงทหาร: $TRANSFER_USE|H$/$TRANSFER_NEED|H$\n - เพื่อการค้า: $TRADE_USE|H$/$TRADE_NEED|H$\n - สำหรับยุทธปัจจัย: $SUPPLY_USE|H$/$SUPPLY_NEED|H$\nยังไม่ได้ใช้: $LEFT|H$§!"
  CONVOYS:0 "ขบวนเรือสินค้า"
  CANCEL_RESOURCE_IMPORT:0 "ยกเลิกการนำเข้าทรัพยากรทั้งหมด"
  CONVOYS_USAGE_DELAYED:0 "ขบวนเรือสินค้าจะใช้เมื่อนำเข้าทรัพยากรมาทางทะเลจากประเทศอื่นๆ การถ่ายโอนทรัพยากรของเราที่ผลิตขึ้นภายในประเทศ และส่งยุทธปัจจัยไปยังกองกำลังของเราในอาณานิคม"
