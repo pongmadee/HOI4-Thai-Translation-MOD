@@ -3709,3 +3709,4 @@
  LAT_scout_plane_equipment_2:0 "KOD-2"
  LAT_scout_plane_equipment_2_short:0 "KOD-2"
  LAT_train_equipment_1:0 "Type 1-1-1"
+ EQUIPMENT_DESCRIPTION: "$NAME$"

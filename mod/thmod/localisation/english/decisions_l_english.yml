@@ -118,7 +118,7 @@
  war_propaganda_film_industry:0 "[ROOT.GetImportOrDomesticFilmIndustry]"
  war_propaganda_film_industry_desc:0 "[ROOT.GetImportOrDomesticFilmIndustryDesc]"
  DOMESTIC_FILM_INDUSTRY:0 "Utilize Domestic Film Industry"
- IMPORTED_FILM_INDUSTRY:0 "Import Allied Propaganda Films"
+ IMPORTED_FILM_INDUSTRY: "Import Propaganda Films"
  DOMESTIC_FILM_INDUSTRY_DESC:0 "The [ROOT.GetAdjective] film industry has developed significantly in the last decade. With a population starved for entertainment, we stand to benefit from a cinematic production designed to stir patriotic sentiment."
  IMPORTED_FILM_INDUSTRY_DESC:0 "Our benefactors and allies are making strategic use of propaganda films. With a little investment, we could screen these productions around our own country in order to stir the war effort amongst our people."
  the_lion_has_wings:0 "The Lion Has Wings"

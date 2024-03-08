@@ -50,7 +50,7 @@
  NOR_unlocking_prep_deploy_dem_his_TT: "Unlocks decisions that allow using §YState Development§! to defend Norway.\n §RWhen war comes§!:\n §YDefend State§! decisions, which trades Development for bonuses to defense and Resistance in that state.\n §YEmergency Production in State§! decisions that shift Development towards Military Production and\n §YDeploy Militias in State§! decisions, which use Development to recruit militias in that state."
  NOR_unlocking_prep_allied_dem_TT: "Unlocks §YPrepare State For War§! that allow using §YConvoys§! and §YPolitical Power§! to increase §GNational Preparedness§! and get the state ready for war"
  NOR_unlocking_prep_deploy_allied_dem_TT: "Unlocks decisions that allow using §YNational Preparedness§! to boost Norway's armed forces when War comes:\n"
- NOR_country_prep_modernize_armed_forces_TT: "Norway's total development is more than §Y15§!"
+ NOR_country_prep_modernize_armed_forces_TT: "Norway's total preparedness is more than §Y15§!"
  NOR_ongoing_countrywide_program: "Ongoing Country-wide Program"
  NOR_trotsky_embraced: "§YEmbraced Trotskyism§!"
  NOR_lastname_trotsky: "Trotsky"

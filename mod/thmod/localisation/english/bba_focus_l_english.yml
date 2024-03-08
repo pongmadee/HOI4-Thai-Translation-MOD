@@ -1497,7 +1497,7 @@
  ITA_european_democracies_tt:0 "§YEuropean countries§! will be more inclined to accept diplomatic requests from Italy."
  ITA_european_democracies_bonus_per_ally_tt:0 "\nGains §G+2.00%§! Stability and §G+25§! Political Power per independent democratic country in [ROOT.GetName]'s faction (max of §Y+10.00%§! Stability and §Y+125§! Political Power).\n\n"
  ITA_peace_preservation_guarantees_tt:0 "Guarantee every §YDemocratic§! European country independent or allied to §Y[ROOT.GetNameWithFlag]§!:"
- ITA_peace_preservation_ns_tt:1 "\nGains National Spirit §Y$ITA_peace_keepers_of_europe$§!, which grants (Consumer Goods Factories: §Y-0.5%§! for each country guaranteed (max §Y-5.00%§!), War Support: §G+1%§! for each country guaranteed (max §Y+10.00%§!), Weekly Manpower: §G+100§! for each country guaranteed (max §Y+1000§!))."
+ ITA_peace_preservation_ns_tt:1 "\nGains National Spirit §Y$ITA_peace_keepers_of_europe$§!, which grants (Consumer Goods Factories: §Y-2.0%§! for each country guaranteed (max §Y-10.0%§!), War Support: §G+1.00%§! for each country guaranteed (max §Y+10.00%§!), Weekly Manpower: §G+100§! for each country guaranteed (max §Y+1000§!))."
  ITA_scientific_cooperation_allies_ns_tt:0 "Add National Spirit §Y$ITA_scientific_cooperation$§! to §Y[ROOT.GetNameDef]§! and §Yevery [ROOT.GetAdjective] ally§!."
  ITA_secure_the_borders_forts_tt:0 "Adds §Y2 $bunker$§! in every province bordering a non-friendly country. \nCurrent effects:"
  ITA_scientific_cooperation_research_sharing_group_tt:0 "Every allied country joins §Y$ITA_program_for_scientific_cooperation_name$§!."

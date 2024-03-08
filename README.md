@@ -7,7 +7,7 @@ Hearts of Iron IV - Thai Translation MOD
 #### :page_with_curl: [วิธีติดตั้งม็อด](https://youtu.be/c_Kt8elBl3Y)
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 1.13.x "Stella Polaris" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 1.14.x "Bolivar" <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
 
