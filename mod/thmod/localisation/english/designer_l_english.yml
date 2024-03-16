@@ -140,7 +140,6 @@
  EQUIPMENT_DESIGNER_NOT_ENOUGH_XP:0 "§Rการออกแบบแพงเกินไป§!"
  EQUIPMENT_DESIGNER_NO_XP:0 "§Rไม่มีค่าประสบการณ์ให้ใช้§!"
  EQUIPMENT_DESIGNER_NO_CHANGES:0 "§Rไม่มีการเปลี่ยนแปลงใดๆ§!"
- EQUIPMENT_DESIGNER_NEGATIVE_STATS: "§RCan't have negative stats§!"
  EQUIPMENT_DESIGNER_DUPLICATE:0 "ทำซ้ำ"
  EQUIPMENT_DESIGNER_DUPLICATE_DESC:1 "§HSave As New§!\nWhen saving this design, create a new design for §Hfree§!. The original design will remain unchanged and you can continue using it as you deploy the new design."
  EQUIPMENT_DESIGNER_DUPLICATE_DESC_NEW_DESIGN:0 "นี่เป็นการออกแบบใหม่ที่จะถูกบันทึกแยกต่างหากจากการออกแบบที่ใช้อยู่เดิม"

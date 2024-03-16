@@ -197,7 +197,7 @@
  DIVISION_COMMANDER_TYPE_SORT:0 "ประเภท"
  DIV_COMMAND_ITEM_DETAILS:0 "$COMMANDER|H$\nกำลังบังคับบัญชา $UNIT|g$\n\n"
  GRANT_CITATION:0 "§HGrant Citation§!\n\nClick to select a citation to grant this commander."
- DIV_COMMAND_XP_TOOLTIP:0 "§HOfficer Experience§!\n\nThis commander would gain $XP|H0$ XP if promoted to an Army General."
+ DIV_COMMAND_XP_TOOLTIP:0 "§Hประสบการณ์เจ้าหน้าที่§!\n\nผู้บัญชาการคนนี้จะได้รับ $XP|H0$ XP ถ้าเลื่อนขั้นเป็นนายพลกองทัพบก"
  yug_extreme_bravery:0 "Medal for Extreme Bravery"
  ARMY_FIELD_OFFICER_EXPERIENCE_GAIN_TOOLTIP:0 "§HField Officer Experience Gain§!\nField Officer experience is gained at $MULT|%H$ of the usual rate.\n\nEach medal granted to this division increases the gain by $PER_MEDAL|%H$."
  DIVISIONAL_COMMAND_DIVISION_PENALTY:0 "This division's veterancy will be reduced by $RESULT|%H$."

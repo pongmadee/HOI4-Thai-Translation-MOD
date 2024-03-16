@@ -411,7 +411,7 @@
  ARG_political_corruption_modifier_desc: "For many years, [ARG.GetNameDef] has been plagued by fervent corruption within its government. Whilst it was thought that by allowing the Concordancia to form, this might have lessened, fraudulant votes and voter intimidation have continued to be present."
  ARG_modify_corruption_ns_intro: "Modify §Y$ARG_political_corruption_modifier$§! by"
  ARG_international_loan_modifier: "International Loan"
- ARG_international_loan_modifier_desc: "It is not uncommon for countries to reach out to other nations across the world for financial aid during times of crisis. Given the current state of [ARG.GetNameDef]'s economy, it makes perfect sense to accept aid from the major powers that are at play during this conflict."
+ ARG_international_loan_modifier_desc: "It is not uncommon for countries to reach out to other nations across the world for financial aid during times of crisis. Given the current state of [ROOT.GetNameDef]'s economy, it makes perfect sense to accept aid from the major powers that are at play during this conflict."
  ARG_modify_international_loan_intro: "Modify §Y$ARG_international_loan_modifier$§! by"
  ARG_corruption_crackdown_modifier: "$ARG_crack_down_on_corruption$"
  ARG_corruption_crackdown_modifier_desc: "The corruption that plagued our nation's government was utterly unnacceptable. Thanks to the policies from Roberto María Ortiz we have finally been able to begin to put an end to the blatant fraudulant activities that our politicians were taking part in."
