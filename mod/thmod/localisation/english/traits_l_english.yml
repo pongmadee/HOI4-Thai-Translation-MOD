@@ -1417,6 +1417,7 @@
  ARG_father_of_argentine_democracy: "Father of Argentine Democracy"
  ARG_peronism_trait: "$ARG_peronism$"
  ARG_womans_peronist: "Women's Peronist Advocate"
+ ARG_argentine_fascist: "Argentine Fascist"
  BRA_father_of_the_poor: "Father of the Poor"
  BRA_reluctant_integralist: "Reluctant Integralist"
  BRA_authoritarian_populist: "Authoritarian Populist"
