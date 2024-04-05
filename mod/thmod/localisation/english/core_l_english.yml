@@ -1978,7 +1978,7 @@
  TECH_DISALLOWED_BECAUSE: "§Rสายย่อยนี้ต้องการ:§!"
  SUBUNIT_PER_BATTALION_MODIFIER_DESC: "\n§Lความเปลี่ยนแปลงในกองพันจะเพิ่มค่า Stats<db>คูณด้วยจำนวนกองพันเป้าหมายในกองพล§!"
  DIVISION_VIEW_HAS_MEDALS:0 "กองพลนี้สามารถได้รับ §Hเหรียญกล้าหาญ§!\n§Gคลิกเพื่อเปิดหน้าต่างเหรียญกล้าหาญ§!"
- MOD_VERSION:0 "Mod v0.95.2, Update 30/03/2567"
+ MOD_VERSION:0 "Mod v0.95.3, Update 05/04/2567"
  MOD_DEV_MSG:0 "ผู้พัฒนา: n/a"
  MOD_SUPPORTERS:0 "ผู้สนับสนุน: n/a"
  MOD_TEST1DUMMY1:0 "dummy1"
