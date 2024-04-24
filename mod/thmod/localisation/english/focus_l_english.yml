@@ -41,6 +41,7 @@
  naval_effort_desc:0 "The expansion of our navy should be our first priority. Assign all available resources to new Dockyards and research into light surface ships."
  GER_naval_effort2:0 "ขยายสิ่งอำนวย ความสะดวกอู่เรือ"
  GER_naval_effort2_desc:0 "To truly rebuild a navy worthy of note, we must greatly expand our shipbuilding capacity."
+ GER_naval_effort2_tt: "Builds §Y2 Naval Dockyards§! in §Y2§! coastal states currently controlled by §Y[ROOT.GetFlag][ROOT.GetNameDef]§!"
  flexible_navy:0 "กองทัพเรือยืดหยุ่น"
  flexible_navy_desc:0 "Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
  large_navy:0 "กองทัพเรือขนาดใหญ่"
