@@ -196,6 +196,7 @@
  EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST:0 "§RWeight exceeds Thrust§!"
  EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST_FOR_MISSIONS:0 "§RWeight exceeds Thrust for these missions:§!"
  EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON:0 "Add main armament to give role"
+ EQUIPMENT_DESIGNER_DYNAMIC_VERSION_CHECKBOX_BUTTON_DESC: "§HDisplay Dynamic Version Numbering§!\nWhen checked this variant will display dynamic version numbering beside its name."
  ship_designer_submarine:0 "$EQUIPMENT_SUBMARINE$"
  ship_designer_capital_ship:0 "$EQUIPMENT_CAPITAL_SHIP$"
  ship_designer_screen:0 "$EQUIPMENT_SCREEN$"

@@ -101,7 +101,7 @@
  NOR_naval_expanion_desc: "If we are to survive we need to defend our coastlines, and we will need ships for that. We must make every fjord a dockyard."
  NOR_prepare_state_fascist: "Build support in [FROM.GetName]"
  NOR_deploy_state_preparation_fascist: "[get_deploy_prep_decision_name_fascist]"
- NOR_invite_fascist_to_invade: "Invite [?platonic_local_dangerous_fascist.GetName] to invade [NOR.GetNonIdeologyName]"
+ NOR_invite_fascist_to_invade: "Invite [GER.GetNameDef] to invade [NOR.GetNonIdeologyName]"
  NOR_decision_take_over_state_title: "Take over in [FROM.GetName]"
  NOR_decision_industrial_takeover_title: "Industrial Take Over in [FROM.GetName]"
  NOR_decision_military_takeover_title: "Military Take Over in [FROM.GetName]"
