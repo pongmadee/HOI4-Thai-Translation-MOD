@@ -1980,7 +1980,7 @@
  DIVISION_VIEW_HAS_MEDALS:0 "กองพลนี้สามารถได้รับ §Hเหรียญกล้าหาญ§!\n§Gคลิกเพื่อเปิดหน้าต่างเหรียญกล้าหาญ§!"
  REPAIR_ASSIGNMENT_INFO_FACTORIES: "นี่คือจำนวน §Hโรงงาน§! สูงสุด ที่สามารถมอบหมายให้ซ่อมสิ่งปลูกสร้างได้"
  INFO_POPUP_CLOSE_TOOLTIP: "§Gคลิกขวา§! เพื่อยกเลิก"
- MOD_VERSION:0 "Mod v0.95.6, Update 09/09/2567"
+ MOD_VERSION:0 "Mod v0.95.7, Update 10/10/2567"
  MOD_DEV_MSG:0 "ผู้พัฒนา: n/a"
  MOD_SUPPORTERS:0 "ผู้สนับสนุน: n/a"
  MOD_TEST1DUMMY1:0 "dummy1"
