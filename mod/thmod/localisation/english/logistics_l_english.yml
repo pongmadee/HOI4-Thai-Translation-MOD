@@ -90,6 +90,7 @@
  LOGISTICS_RESOURCES_NAVAL:1 "Production of Naval equipment requires $NEED|Y$ units of $RESOURCE|H$ for maximal output."
  LOGISTICS_RESOURCES_LAND:1 "Production of land equipment requires $NEED|Y$ units of $RESOURCE|H$ for maximal output."
  LOGISTICS_RESOURCES_AIR:1 "Production of aircraft equipment requires $NEED|Y$ units of $RESOURCE|H$ for maximal output."
+ LOGISTICS_RESOURCES_PROJECT: "Special projects require $NEED|Y$ units of $RESOURCE|H$ for maximal output."
  LOGISTICS_RESOURCE_NEED_SUMMERY:1 "Access to $NEED|Y$ additional units of $RESOURCE|H$ is needed for maximal output."
  LOGISTICS_NEED_LEND_LEASE_LOW_VALUE:0 "สัญญายืม-เช่า: $NEED|^1Y$ หน่วย"
  LOGISTICS_NEED_LEND_LEASE_HIGH_VALUE:0 "สัญญายืม-เช่า: $NEED|^0Y$ หน่วย"

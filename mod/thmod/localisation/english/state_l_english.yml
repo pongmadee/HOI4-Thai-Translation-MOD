@@ -1,6 +1,7 @@
 ﻿l_english:
  STATE_UPGRADE_BUILDING:0 "ปรับปรุง $BUILDING|H$"
  STATE_UPGRADE_BUILDING_DESC:0 "วันที่จะสร้างเสร็จ: $COST|H$"
+ PROVINCE_BUILDING_LEVEL: "$BUILDING|H$ (ระดับเลวล: $LEVEL|H$/$MAX_LEVEL|H$)"
  STATE_BUILDING_LEVEL:1 "$BUILDING|H$ (ระดับรัฐ: $LEVEL|H$)"
  STATE_BUILDING_LEVEL_SHARED_SLOTS:0 "$LEVEL|H$ $BUILDING|H$"
  STATE_BUILDING_INCONSTRUCTION:0 "อยู่ระหว่างการก่อสร้าง: $LEVEL|H$"
@@ -21,6 +22,7 @@
  STATE_CORE:0 "§T$COUNTRY|H$ มี $STATE|H$ เป็นรัฐแกนกลาง§!"
  STATE_CORE_DESC:0 "รัฐแกนกลางถือเป็นส่วนสำคัญของประเทศของคุณ หากประเทศอื่นยึดครองแกนกลางของประเทศคุณอยู่ คุณมีเหตุผลอันสมควรที่จะประกาศสงครามเพื่อทำการยึดคืน และหากประสบความสำเร็จจะไม่จำเป็นต้องมีนโยบายการครอบครอง - มันจะกลายเป็นส่วนหนึ่งของบ้านเกิดของคุณทันทีที่ถูกยึด"
  STATE_CLAIM:0 "§T$COUNTRY|H$ มีการอ้างสิทธิ์ใน $STATE|H$§!"
+ STATE_CONTESTED_OWNER: "§T$COUNTRY|H$ is contested owner of $STATE|H$.§!"
  STATE_POPULATION:3 "§Hประชากรที่เกณฑ์ได้§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§Hประชากรพลเรือน§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n"
  MONTHLY_BASE_GROWTH:0 "ฐาน: $VALUE|H%2$"
  STATE_POPULATION_GROWTH:0 "§Hการเติบโตรายเดือน§!: $VALUE|%2$ ( $AVAIL|*+$ ที่เกณฑ์ได้, $LOCKED|*+$ พลเรือน )"

@@ -253,3 +253,6 @@
  LEDGER_CIV_GRAPH_SHOW_BOMBERS:0 "§Hแสดงกราฟสำหรับเครื่องทิ้งระเบิดที่ผลิตและสูญเสีย§!"
  LEDGER_CIV_GRAPH_SHOW_TRUCKS:0 "§Hแสดงกราฟสำหรับรถบรรทุกที่เก็บในคลัง§!"
  LEDGER_CIV_GRAPH_SHOW_TRAINS:0 "§Hแสดงกราฟสำหรับรถไฟที่เก็บในคลัง§!"
+ INTEL_LEDGER_RAIDS_DETECT_ON_LAUNCH: "Incoming raids are detected when launched ($CATEGORIES|H$)"
+ INTEL_LEDGER_RAIDS_DETECT_HALFWAY_PREPARATION: "Incoming raids are detected halfway to being ready to launch ($CATEGORIES|H$)"
+ INTEL_LEDGER_RAIDS_DETECT_EARLY_PREPARATION: "Incoming raids are detected during early preparation ($CATEGORIES|H$)"

@@ -406,6 +406,7 @@
  SWI_frozen_assets:0 "Assets Frozen by Switzerland"
  SWI_frozen_assets_desc:0 "After relying on Swiss banking for years, they have shown their true intentions and stabbed us in the back by freezing our assets! We are going to recover financially from this, but it will take time."
  SWI_intel_support_idea:0 "Intelligence Support"
+ SWI_humanitarian_effort: "Humanitarian Effort"
  SWI_communist_party_banned_idea:0 "Communism Banned"
  SWI_alpine_redoubt_dynamic_modifier:0 "$SWI_alpine_redoubt$"
  SWI_democratic_unrest:0 "Democratic Unrest"

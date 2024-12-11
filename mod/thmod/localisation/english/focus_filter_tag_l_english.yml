@@ -1,4 +1,5 @@
 ﻿l_english:
+ FOCUS_ALTERNATE_ICONS: "§0Alternate Icons§!"
  FOCUS_FILTER_POLITICAL:0 "การเมือง"
  FOCUS_FILTER_RESEARCH:0 "การวิจัย"
  FOCUS_FILTER_INDUSTRY:0 "อุตสาหกรรม"
@@ -33,3 +34,4 @@
  FOCUS_FILTER_INTERNATIONAL_TRADE: "International Trade"
  FOCUS_FILTER_FOLKHEMMET: "Folkhemmet"
  FOCUS_FILTER_HISTORICAL: "Historical"
+ FOCUS_FILTER_INNER_CIRCLE: "Inner Circle"

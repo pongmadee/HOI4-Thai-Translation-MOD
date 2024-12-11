@@ -116,6 +116,7 @@
  PAUSE_ON_POPUPS_DESC:0 "หยุดชั่วคราวเมื่อมีการแจ้งเตือนป๊อปอัพ จะไม่ส่งผลกระทบต่อเหตุการณ์"
  EXTERNAL_BROWSER:0 "ใช้เว็บเบราว์เซอร์ภายนอก"
  HOME_WIKI:0 "ใช้วิกิออฟไลน์เป็นค่าเริ่มต้น"
+ SILHOUETTE_PORTRAITS: "Use silhouette portraits"
  BAD_SERVER_PASSWORD:0 "รหัสผ่านไม่ถูกต้อง"
  PLAYER_BANNED:0 "$NAME$ ถูกแบนโดยโฮส"
  PLAYER_KICKED:0 "$NAME$ ถูกเตะโดยโฮส"

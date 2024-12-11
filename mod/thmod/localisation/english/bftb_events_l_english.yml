@@ -1249,6 +1249,7 @@
  bftb_bulgarian_claims.6.t:1 "[GER.GetNameDefCap] Grants Bulgarian Occupation"
  bftb_bulgarian_claims.6.desc:1 "As previously agreed by the [GER.GetAdjective] and [BUL.GetAdjective] governments, [GER.GetNameDef] has ordered the transfer of control over territories claimed by [BUL.GetNameDef] and currently occupied by us, which will henceforth be administered by the [BUL.GetAdjective] government."
  bftb_bulgarian_claims.6.a:1 "Those Bulgarian upstarters!"
+ bftb_bulgarian_claims.6.b: "They have no right!"
  bftb_bulgarian_claims.7.t:0 "[FROM.GetNameDefCap] Asks for Control Over [FROM.FROM.GetName]"
  bftb_bulgarian_claims.7.desc:0 "Assuming their peacekeeping role in the occupied Balkan territories, the [FROM.GetAdjective]s have proposed that we grant them administrative control of [FROM.FROM.GetName] to preserve order and stability in the territories taken over by the [ROOT.GetFactionName] and to relieve [ROOT.GetAdjective] garrisons so that our troops can reinforce other fronts."
  bftb_bulgarian_claims.7.a:0 "Agreed, we need our troops elsewhere!"

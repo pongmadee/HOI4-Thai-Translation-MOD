@@ -438,7 +438,7 @@
  ARG_invest_in_railways_idea: "Invested in the Railways"
  ARG_invest_in_railways_idea_desc: "In the modern era, every industry relies on the ever supportive backbone of a national rail service. As we expanded our railway lines across the country, we laid the foundations for a solid transfer of goods from our rural communities back towards the cities."
  ARG_roca_runciman_treaty_idea: "The Roca-Runciman Treaty"
- ARG_roca_runciman_treaty_idea_desc: "The Roca-Runciman Agreement is a significant trade pact between [ARG.GetNameDef] and [ENG.GetNameDef] signed in May 1933 that guaranteed [ARG.GetNameDef] with a fixed share in the [ENG.GetAdjective] meat market. In exchange, [ARG.GetNameDef] agreed to restrictions with regard to trade and currency exchange, preserving [ENG.GetNameDef]'s commercial insterests in the country."
+ ARG_roca_runciman_treaty_idea_desc: "The Roca-Runciman Agreement is a significant trade pact between [ARG.GetNameDef] and [ENG.GetNameDef] signed in May 1933 that guaranteed [ARG.GetNameDef] with a fixed share in the [ENG.GetAdjective] meat market. In exchange, [ARG.GetNameDef] agreed to restrictions with regard to trade and currency exchange, preserving [ENG.GetNameDef]'s commercial interests in the country."
  ARG_eden_malbran_treaty_idea: "The Eden-Malbrán Treaty"
  ARG_eden_malbran_treaty_idea_desc: "As a response to the harsh restrictions imposed in the Roca-Runciman Agreement, a new deal has been negotiated under the name of the Eden-Malbrán treaty. This has allowed [ENG.GetNameDef] to have additional concessions whilst reducing the cost of freight rates on wheat."
  ARG_raf_cooperation_idea: "RAF Cooperation"

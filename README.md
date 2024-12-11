@@ -7,7 +7,7 @@ Hearts of Iron IV - Thai Translation MOD
 #### :page_with_curl: [วิธีติดตั้งม็อด](https://youtu.be/c_Kt8elBl3Y)
 
 ### INFORMATIONS - ข้อมูล
- :heavy_check_mark: รองรับเกมเวอร์ชัน 1.14.x "Bolivar" <br/>
+ :heavy_check_mark: รองรับเกมเวอร์ชัน 1.15.x <br/>
  :heavy_check_mark: รองรับรางวัลความสำเร็จ (Achievement) <br/>
  :heavy_check_mark: รองรับโหมดเล่นหลายคน (Multiplayer) <br/>
 
@@ -19,6 +19,7 @@ Hearts of Iron IV - Thai Translation MOD
 *  La Résistance
 *  No Step Back
 *  By Blood Alone
+*  Götterdämmerung
 
 ### FEATURES - คุณลักษณะเด่น
 - สามารถพิมพ์ไทยได้ ส่วนที่สามารถแก้ไขและบันทึกเป็นภาษาไทย ได้แก่ ชื่อกองพล, ชื่อกองทัพ, ชื่อหมู่กองทัพ, ยุทธบริเวณ, ชื่อเรือรบ, กองเรือเฉพาะกิจ, แม่แบบกองพล, ชื่อรุ่นโมเดลอาวุธ, ชื่อหน่วยสืบราชการลับ/หน่วยข่าวกรอง/องค์กรใต้ดิน/กลุ่มต่อต้าน, รหัสประจำตัวสายลับ และ อื่นๆ <br/>

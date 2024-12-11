@@ -66,6 +66,7 @@
  colonial_police:0 "Colonial Police"
  colonial_police_improved:0 "$colonial_police$"
  colonial_police_final:0 "$colonial_police$"
+ secretaries_general: "Secretaries General"
  COMPLIANCE_ADDITIONAL_DAILY_GAIN:0 "เพิ่มการเชื่อฟังรายวัน: $GAIN$"
  COMPLIANCE_GAIN_IS_DISABLED:1 "§RDisabled due to insufficient garrison§!"
  COMPLIANCE_GAIN_IS_SCALED:0 "Scaled by $RATIO|R.0%$ due to insufficient garrison!"

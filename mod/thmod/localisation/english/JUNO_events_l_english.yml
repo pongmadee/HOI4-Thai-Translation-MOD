@@ -1221,3 +1221,7 @@
  south_american_events.62.t: "Battle of the River Plate"
  south_american_events.62.desc: "Around 06:18 Kriegsmarine and Royal Navy ships has engaged each other just outside Montevideo. Reports are that the German ships are heavily damaged and has taken shelter in the Uruguayan capitals port. British diplomats are pressing the Uruguayan government to force the ship out of port in accord with the Hague convention, where it can surely be destroyed by waiting Royal Navy forces."
  south_american_events.62.a: "Interesting"
+ south_american_news.20.t: "The Antilles United"
+ south_american_news.20.d: "The Antillean Confederation was the vehement idea of Ramón Emeterio Betances about the need for natives of the Caribbean to unite into a regional entity that would seek to preserve the sovereignty and well-being of the Antillean nations. Support was strongest from the 1850s up until the Spanish–American War, and had since then mostly faded. However after the unification of the region by [FROM.GetLeader], the idea is once again alive, and now, with the Antillean Confederation having been declared, it is more clear than ever that the Antilles is indeed for the Antilleans!"
+ south_american_news.20.a: "A Doomed Idea"
+ south_american_news.20.b: "Antilles for the Antilleans!"

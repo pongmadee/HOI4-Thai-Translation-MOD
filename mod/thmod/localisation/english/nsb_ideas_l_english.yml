@@ -484,6 +484,7 @@
  POL_anti_imperialism_idea:0 "Anti-Imperialism"
  POL_influx_of_exiles:0 "Influx of Exiles"
  POL_royal_hussars_idea:0 "Royal Cavalry Divisions"
+ POL_royal_hussars_idea_desc: "Our nation has a long and proud tradition of Hussars, and it must be made to be, that these brave men may once again return to serve their liege."
  POL_royal_guard:0 "The King's Guard"
  royal_dictator:0 "Royal Dictator"
  BALTIC_restore_workers_republic_idea:0 "Worker's Republic"

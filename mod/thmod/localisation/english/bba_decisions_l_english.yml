@@ -313,7 +313,7 @@
  african_union_category:0 "Organization of African Unity"
  african_union_category_desc:0 "We will create institutions that pool the talents and resources of the entire continent together and move ever closer to political unification. Only by standing together and cooperating can the people of Africa hope to resist ending up as subjects once again."
  promote_org_of_african_unity:0 "Promote organization in [FROM.GetName]"
- invite_to_org:1 "Invite [FROM.OWNER.GetName] to organization"
+ invite_to_org: "Invite [FROM.OWNER.GetNameDef] to the Organization"
  invite_to_org_tt:0 "Nations with a different ideology to you will be less likely to accept membership offer."
  invite_to_ACB:0 "Invite [FROM.GetName] to African Central Bank"
  invite_to_ACB_tt:0 "Nations with a different ideology to you will be unlikely to accept economic integration with you."
