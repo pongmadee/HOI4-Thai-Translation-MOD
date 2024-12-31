@@ -157,7 +157,7 @@
  EQUIPMENT_DESIGNER_IS_SCREEN_SHIP_EFFECTS_TOOLTIP:0 "§Hเรือตรวจการณ์§! มีบทบาทหน้าที่การสู้รบและได้รับอิทธิพลจากชุดดัดแปลงที่แตกต่างจากเรือประเภทอื่นๆ"
  EQUIPMENT_DESIGNER_IS_NOT_CAPITAL_SHIP_TOOLTIP:0 "เรือที่ใช้การออกแบบนี้จะไม่เป็น §Hเรือรบหลัก§!"
  EQUIPMENT_DESIGNER_VARIABLE_CATEGORY_TOOLTIP:0 "§Yการเลือกชิ้นส่วนยุทโธปกรณ์สามารถส่งผลต่อประเภทเรือในการออกแบบ§!"
- EQUIPMENT_DESIGNER_PRODUCTION_RESOURCE_DESC: "The §HResources§! used in the production of this design"
+ EQUIPMENT_DESIGNER_PRODUCTION_RESOURCE_DESC: "§Hทรัพยากร§! ที่ใช้ในการผลิตตามการออกแบบนี้"
  EQUIPMENT_DESIGNER_PRODUCTION_COST_DESC:1 "The §HIndustrial Capacity§! cost to §HProduce§! this design."
  EQUIPMENT_MODULE_STAT_AVERAGED:0 " (เฉลี่ย)"
  EQUIPMENT_DESIGNER_ARMY_XP_COST:0 "£army_experience  ค่าออกแบบ: $COST|Y0$"
