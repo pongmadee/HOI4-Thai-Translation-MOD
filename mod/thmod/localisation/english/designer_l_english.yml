@@ -28,7 +28,7 @@
  DESIGNER_NO_STAT:0 "--"
  DESIGNER_CREATE_NEW_DIVISION:1 "สร้างที่ว่างเปล่า"
  DESIGNER_NEW_DIVISION:0 "กองพลใหม่"
- DESIGNER_DEFAULT_DIVISION:1 "$DOMINANT_UNIT$ แม่แบบ $NUMBER$"
+ DESIGNER_DEFAULT_DIVISION:1 "$DOMINANT_UNIT$ $YEAR$ $NUMBER$"
  DESIGNER_DUPLICATE:0 "ทำสำเนา"
  DESIGNER_DUPLICATE_DESC:1 "Duplicate to create a new template for §Gfree§! when saving this template. The original template will remain unchanged and you can continue using it as you deploy the new template."
  DESIGNER_DUPLICATE_OF_NAME:0 "สำเนา $TEMPLATE_NAME$"

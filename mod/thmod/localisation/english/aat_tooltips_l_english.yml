@@ -187,7 +187,7 @@
  DEN_if_denmark_becomes_independent_tt: "If [DEN.GetName] declares independence"
  DEN_danish_intel: "Danish Resistance Intelligence"
  DEN_overlord_ruling_party_tt: "More than §Y40%§! support for [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun]"
- DEN_banned_communism: " [DEN.GetNameDefCap] Has Banned Communism"
+ DEN_banned_communism_flag: " [DEN.GetNameDefCap] Has Banned Communism"
  DEN_banned_fascism_flag: " [DEN.GetNameDefCap] Has Banned Fascism"
  DEN_political_agitator_flag: " Political Agitator"
  DEN_censor_media_flag: "Has Censored the Media"
