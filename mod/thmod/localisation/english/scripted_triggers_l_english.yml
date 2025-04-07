@@ -1,5 +1,6 @@
 ﻿l_english:
  is_controlled_by_ROOT_or_ally:0 "ควบคุมโดย §H[Root.GetNameDef]§! หรือหนึ่งในพันธมิตรของพวกเขา"
+ is_not_controlled_by_ROOT_or_ally: "Is §Ynot§! controlled by §H[Root.GetNameDef]§! or one of their allies."
  is_league_of_nations_member_tt:0 "Is a League of Nations Member Country"
  has_war_with_non_exiled_country_tt:0 "At war with non-exiled country"
  state_is_fully_controlled_by_ROOT_or_subject_tt:0 "Is fully controlled by §Y[ROOT.GetFlag][ROOT.GetNameDef]§! or any §Y[ROOT.GetAdjective] subject§!"

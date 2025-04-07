@@ -137,3 +137,7 @@
  GER_SOV_industrial_development_group_desc: "Following progressively deeper industrial relations and cooperation between [GER.GetNameDef] and [SOV.GetNameDef], a hand has been extended from the [GER.GetAdjective]s to the [SOV.GetAdjective]s in effort to further both of their industrial efforts."
  EU_tech_sharing_group_name: "European Union Research Group"
  EU_tech_sharing_group_desc: "A joint research initiative started by the President of the European Union in the name of faster technological progress among the members of the European Union."
+ AFG_SOV_tech_sharing_group_name: "Afghan-Soviet Technological Cooperation Agreement"
+ AFG_SOV_tech_sharing_group_desc: "The people of [AFG.GetNameDef] and [SOV.GetNameDef] have begun to share knowledge and scientific breakthroughs for the betterment of both."
+ RAJ_naval_tech_sharing_group_name: "East India - London Naval Technology Exchange"
+ RAJ_naval_tech_sharing_group_desc: "Naval Research Exchange between the East India Company and London. Some diplomats whisper that giving this much power to a company is unwise, but what do they know?"

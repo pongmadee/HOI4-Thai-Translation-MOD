@@ -322,6 +322,8 @@
  cavalry_desc:0 "ทหารม้าแพงกว่าแต่มีความคล่องตัวดี"
  camelry:0 "ทหารอูฐ"
  camelry_desc:0 "ทหารราบขี่อูฐ แพงกว่า แต่มีความอเนกประสงค์"
+ elephantry: "ทหารช้าง"
+ elephantry_desc: "Elephant mounted Infantry. More Expensive, but good against Infantry"
  light_armor:0 "รถถังเบา"
  light_armor_desc:0 "รถถังหุ้มเกราะเบา"
  medium_armor:0 "รถถังกลาง"

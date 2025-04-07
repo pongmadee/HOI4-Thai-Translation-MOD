@@ -963,3 +963,6 @@
  INVASION_CONDITION_NOT_ACTIVE: "not activated"
  INVASION_CONDITION_PREP_MORE: "more than $VAL|%0$ prepared"
  INVASION_CONDITION_PREP_LESS: "less than $VAL|%0$ prepared"
+ TRIGGER_OWNS_ANY_STATE_OF: "Owns any of the following states:"
+ TRIGGER_NOT_OWNS_ANY_STATE_OF: "Doesn't own any of the following states:"
+ TARGET_TRIGGER_COUNT_PREFIX: "At least $COUNT|H$ of "

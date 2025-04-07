@@ -384,7 +384,7 @@
  POL_common_organization_of_society_idea:0 "Common Organization of Society"
  POL_common_organization_of_society_idea_desc:0 "Long the ambition of Walery Sławek, Poland has reorganized its societal structure to grant greater autonomy to local communities, while the President maintains absolute control on a national level."
  POL_eastern_conscription_idea:0 "Eastern Conscription"
- POL_eastern_conscription_idea_desc:0 "Those living in Eastern Poland are being rapidly trained to combat [RUS.GetNameDef] in the event of a war."
+ POL_eastern_conscription_idea_desc: "Those living in Eastern Poland are being rapidly trained to combat [SOV.GetNameDef] in the event of a war."
  POL_expand_intelligence_idea:0 "Expansion of Polish Intelligence"
  POL_expand_intelligence_idea_desc:0 "With the homeland lost, Poland may only hope to regain its independence through supporting resistance movements and infesting its enemies with covert operatives."
  POL_push_home_idea:0 "The Long Push Home"

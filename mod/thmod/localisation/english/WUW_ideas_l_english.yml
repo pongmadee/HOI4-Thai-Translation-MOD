@@ -307,6 +307,7 @@
  GER_submarine_max_speed_big_tt: "$ship_hull_submarine$ $STAT_NAVY_MAXIMUM_SPEED$: §G+10%§!"
  GER_military_modifier_fascist_desc: "[GER.GetNameDefCap] has a long and proud military history with a tradition of innovative thinking, and our General Staff has sought to improve our armed forces even further since the humiliating defeat of the Great War. Armed with this expertise, we are poised to strike against any foe who wishes to subjugate our proud people."
  is_controlled_by_ROOT_or_subject: "Is controlled by §Y[ROOT.GetNameDef]§! or a subject"
+ is_controlled_by_ROOT_or_subject_NOT: "Is NOT controlled by §Y[ROOT.GetNameDef]§! or a subject"
  GER_alfred_rosenberg_modifier: "Alfred Rosenberg"
  GER_collect_scrap_metal_ns_desc: "We have launched a nationwide campaign to collect as much scrap metal as we possibly can to aid in our rearmament effort."
  GER_import_tariffs_ns_desc: "The establishment of import tariffs is a necessary evil to promote the growth of domestic manufacturing and production, but more importantly, it will save us precious money as we do not have to spend what little foreign exchange we have available."

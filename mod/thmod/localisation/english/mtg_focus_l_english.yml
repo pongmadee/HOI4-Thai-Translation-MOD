@@ -357,6 +357,8 @@
  ENG_ceylon_forward_operating_base_desc:1 "In preparation of the massive invasion that it will take to return the Crown's control over India, we must greatly expand the facilities on the island of Ceylon."
  ENG_reclaim_the_jewel_in_the_crown:1 "เรียกคืนอัญมณีในมงกุฎ"
  ENG_reclaim_the_jewel_in_the_crown_desc:1 "India's brief period of independence must now come to an end. Our forces are in position, ready to return the Crown's Jewel."
+ ENG_reclaim_burma: "Reclaim Burma"
+ ENG_reclaim_burma_desc: "[BRM.GetName]'s brief period of independence must now come to an end. Our forces are in position, ready to the country to its rightful overlord"
  ENG_pre_empt_the_ideological_threat:1 "เตรียมความพร้อมก่อนภัยคุกคามอุดมการณ์"
  ENG_pre_empt_the_ideological_threat_desc:1 "The Empire is beset internally by those who think differently. We know these fifth columnists take their orders from Moscow, and so we may silence their voices by striking at the source of this evil."
  ENG_expose_the_belly_of_the_bear:1 "เปิดพุงของหมี"
