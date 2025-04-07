@@ -463,3 +463,4 @@
  EFFECT_TEMPORARY_REPAIR_SPEED_MODIFIER: "$BUILDING|H$ ได้รับความเร็วในการซ่อมจนกว่าจะซ่อมแซมสมบูรณ์ $FACTOR|+%0$"
  EFFECT_ADD_DESIGN_TEMPLATE_BONUS: "ลดค่าใช้จ่ายลง $DISCOUNT|2%Y$ สำหรับแม่แบบ $USES|Y$ สามารถใช้ได้กับ: $NAME|Y$"
  ADD_DESIGN_TEMPLATE_BONUS_DESC: "ลดค่าใช้จ่ายลง $DISCOUNT|2%Y$ สำหรับการออกแบบนี้"
+ unlock_general_tt: "Becomes available as a General"

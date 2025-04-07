@@ -854,7 +854,7 @@
  AAT_Sweden_nationalists.30.t: "[FROM.GetName] claims [FIN.GetAdjective] land"
  AAT_Sweden_nationalists.30.desc: "The [GER.GetAdjective] puppet state, [SWE.GetName] has asked Adolf Hitler to recognize their claims over our land. A spurious claim that only serves both sides rampant expansionism."
  AAT_Sweden_nationalists.30.a: "A vile ruse"
- AAT_Sweden_nordic_defense_council.1.t: "[SWE.GetNameDef] invites us to the Nordic defense council"
+ AAT_Sweden_nordic_defense_council.1.t: "Sweden invites us to the Nordic defense council"
  AAT_Sweden_nordic_defense_council.1.desc: "As the world braces for the inevitable clash between the major European powers the Nordic countries risk getting trampled in the ensuing onslaught. The [FROM.GetAdjective] government is suggesting that we as the Nordic countries form a unified army so that we together can form a more cohesive defense."
  AAT_Sweden_nordic_defense_council.1.a: "We have other plans"
  AAT_Sweden_nordic_defense_council.1.b: "We will join as faction member"

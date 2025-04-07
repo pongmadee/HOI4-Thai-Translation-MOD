@@ -31,6 +31,8 @@
  TACTICS_DAMAGE_DEFENDER:0 "ความเสียหาจากยุทธวิธีของผู้ป้องกัน:"
  TACTICS_MOVEMENTSPEED_ATTACKER:0 "ยุทธวิธีการเคลื่อนที่:"
  TACTICS_COMBATWIDTH:0 "ยุทธวิธีความกว้างแนวรบ:"
+ TACTICS_ATTACKER_ORG_DAMAGE_MODIFIER: "ดาเมจต่อค่าการควบคุม(Org) ของผู้โจมตี:"
+ TACTICS_DEFENDER_ORG_DAMAGE_MODIFIER: "ดาเมจต่อค่าการควบคุม(Org) ของผู้ป้องกัน:"
  TACTICS_VALUE_POSITIVE:0 "$VALUE|G=%0$"
  TACTICS_VALUE_NEGATIVE:0 "$VALUE|R=%0$"
  TACTICS_WIDTH_VALUE:0 "$VALUE|=%0Y$"

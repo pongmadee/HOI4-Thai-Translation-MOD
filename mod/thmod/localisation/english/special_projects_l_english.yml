@@ -287,6 +287,7 @@
  sp_land_super_heavy_howitzer: "Super-Heavy Howitzer"
  AUS_sp_land_super_heavy_howitzer: "42 cm Haubitze M. 14/16"
  BEL_sp_land_super_heavy_howitzer: "Mortier Monstre"
+ USA_sp_land_super_heavy_howitzer: "M115 203 mm Howitzer"
  sp_land_super_heavy_howitzer_desc: "A formidable artillery piece boasting a large caliber, that can wreak havoc on enemy defenses with unprecedented destructive force."
  sp_land_self_propelled_super_heavy_howitzer: "Self-Propelled Super-Heavy Howitzer"
  IRQ_sp_land_self_propelled_super_heavy_howitzer: "Al-Fao Project"

@@ -220,6 +220,7 @@
  invite_SWE_volvo_organization: "Invite §Y$SWE_volvo_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
  invite_SWE_bofors_organization: "Invite §Y$SWE_bofors_organization$§! to §Y[ROOT.GetNameWithFlag]§!"
  invites_mio_tt: "\n§YInvites Foreign Military Industrial Organization§!:"
+ unlock_mio_tt: "\n§YEstablish Military Industrial Organization§!"
  generic_purchase_old_ships_category:0 "Naval Procurement"
  generic_purchase_old_ships_category_desc:0 "With the world becoming increasingly unstable, we need to expand our naval power projection capabilities. Luckily for us, some of the major navies may be willing to part with their older vessels."
  purchase_ships_eng:0 "[ENG.GetFlag] Purchase old [ENG.GetAdjective] Destroyers"
