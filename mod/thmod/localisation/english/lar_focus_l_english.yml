@@ -358,6 +358,7 @@
  SPR_shared_burdens_desc:2 "The fight for our freedoms from authoritarianism, capitalism, and religious superstitions will be long and hard. We must all do our part in carrying the hardships that no doubt await us, before we can all reap the rewards of our labor."
  SPR_international_brigades:0 "International Brigades"
  SPR_international_brigades_desc:1 "Our cause has attracted much international attention, and people have come from all over the world to fight the fascist threat with us. No one will be turned away, as long as they do their part for the health of the community. We will organize them in international brigades."
+ SPR_international_brigades_tt: "§YMáté Zalka§! available as a level 2 §YField Marshal§!"
  SPR_seize_the_gold_reserves:0 "Seize the Gold Reserves"
  SPR_seize_the_gold_reserves_desc:1 "The Republic's gold reserves are at risk of falling into Fascist, or possibly even worse, Stalinist hands. By seizing them we no doubt risk drawing the ire of the government, but it might allow us to finance our war effort by funding foreign arms purchases from the black market."
  SPR_gold_reserves_flag:0 "The Gold Reserves have already been seized or relocated"

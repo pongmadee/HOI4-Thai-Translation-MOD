@@ -106,7 +106,7 @@
  EFFECT_CHANGE_LAW_mobilization_laws:0 "เปลี่ยนกฎหมายการการระดมพลเป็น '$NAME|Y$' ซึ่งให้ผล ($DESC$)"
  EFFECT_CHANGE_LAW_trade_laws:0 "เปลี่ยนกฎหมายการค้าเป็น '$NAME|Y$' ซึ่งให้ผล ($DESC$)"
  EFFECT_SHOW_IDEA_TOOLTIP:1 "$NAME|Y$"
- EFFECT_SHOW_IDEA_TOOLTIP_DETAILED:0 "$NAME|Y$, ซึ่งให้ผล ($DESC$)"
+ EFFECT_SHOW_IDEA_TOOLTIP_DETAILED:0 "$NAME|Y$, which grants\n$DESC$."
  EFFECT_ADD_IDEA_DETAILED:0 "ได้รับ '$NAME|Y$' ซึ่งให้ผล ($DESC$)"
  EFFECT_ADD_IDEA:1 "เพิ่ม $NAME$"
  EFFECT_ADD_IDEA_NATIONAL_SPIRIT_TOOLTIP_DETAILED:0 "ได้รับจิตวิญญาณแห่งรัฐ $NAME|Y$, ซึ่งให้ผล ($DESC$)"

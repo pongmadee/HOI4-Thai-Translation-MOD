@@ -119,6 +119,8 @@
  RAJ_industrialize_state_desc:0 "Our nation is once again on the rise. Although the task is great, bringing rural areas into the modern era is sure to pay dividends in the future."
  RAJ_industrialized_this_state:0 "§HRural areas already industrialized§!"
  RAJ_reduce_agrarian_society_value_tooltip:0 "\n§H$RAJ_agrarian_society$§!\nRecruitable Population Factor: [?RAJ_agrarian_society_increment|+=%]\n"
+ RAJ_industrialize_state_goe: "$RAJ_industrialize_state$"
+ RAJ_industrialize_state_goe_desc: "$RAJ_industrialize_state_desc$"
  war_propaganda_radio_industry:0 "Radio Propaganda"
  war_propaganda_radio_industry_desc:0 "Technology has developed to a point where a significant proportion of our population has access to a home radio. State sponsored media is the perfect tool for stoking the war effort in the hearts of our people."
  war_propaganda_film_industry:0 "[ROOT.GetImportOrDomesticFilmIndustry]"
